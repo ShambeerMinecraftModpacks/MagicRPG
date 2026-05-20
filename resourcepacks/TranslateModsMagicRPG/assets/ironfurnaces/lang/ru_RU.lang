@@ -1,0 +1,18 @@
+tile.IronFurnaceActive.name=Железная печь
+tile.IronFurnaceIdle.name=Железная печь
+tile.GoldFurnaceActive.name=Золотая печь
+tile.GoldFurnaceIdle.name=Золотая печь
+tile.DiamondFurnaceActive.name=Алмазная печь
+tile.DiamondFurnaceIdle.name=Алмазная печь
+tile.ObsidianFurnaceActive.name=Обсидиановая печь
+tile.ObsidianFurnaceIdle.name=Обсидиановая печь
+tile.CrystalFurnaceActive.name=Кристальная печь
+tile.CrystalFurnaceIdle.name=Кристальная печь
+
+itemGroup.Ironfurnace=Железные печи
+
+container.crystalfurnace=Кристальная печь
+container.ironfurnace=Железная печь
+container.goldfurnace=Золотая печь
+container.diamondfurnace=Алмазная печь
+container.obsidianfurnace=Обсидиановая печь

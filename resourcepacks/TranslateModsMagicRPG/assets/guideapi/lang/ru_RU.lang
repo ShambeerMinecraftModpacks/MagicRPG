@@ -1,0 +1,23 @@
+#Creative Tab
+itemGroup.guideapi.creativeTab=Guide-API
+
+#Item
+item.GuideBook.name=Стандартная книга Guide-API
+item.LostPage.name=Потерянная страница
+
+#Button hovering text
+button.back.name=Назад
+button.next.name=Следующая
+button.prev.name=Предыдущая
+
+#Text to draw
+text.shaped.crafting=Упорядоченный крафт
+text.shapeless.crafting=Бесформенный крафт
+text.furnace.smelting=Переплавка
+text.furnace.error=Ошибка в рецепте
+text.book.warning=[ВНИМАНИЕ] Удалите этот предмет, у него нет привязанной книги!
+text.book.creative=Творческая книга
+text.book=Книга: %s
+text.category=Категория: %s
+text.entry=Запись: %s
+text.page=Страница: %s

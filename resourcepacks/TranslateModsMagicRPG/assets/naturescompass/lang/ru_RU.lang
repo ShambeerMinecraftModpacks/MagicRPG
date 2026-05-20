@@ -1,0 +1,51 @@
+# Nature's Compass - Language File
+# RUSSIAN
+
+# ITEMS
+item.naturescompass.NaturesCompass.name=Компас природы
+
+# STRINGS - BUTTONS
+string.naturescompass.back=Назад
+string.naturescompass.info=Инфо
+string.naturescompass.search=Поиск
+string.naturescompass.selectBiome=Выбрать биом
+string.naturescompass.sortBy=Сортировать по
+string.naturescompass.teleport=Телепортироваться
+
+# STRINGS - CLIMATES
+string.naturescompass.cold=Холодный
+string.naturescompass.medium=Умеренный
+string.naturescompass.ocean=Океанический
+string.naturescompass.warm=Тёплый
+
+# STRINGS - RANGE
+string.naturescompass.none=Нет
+string.naturescompass.veryLow=Очень низкая
+string.naturescompass.low=Низкая
+string.naturescompass.average=Средняя
+string.naturescompass.high=Высокая
+string.naturescompass.veryHigh=Очень высокая
+
+# STRINGS - HUD
+string.naturescompass.biome=Биом
+string.naturescompass.coordinates=Координаты
+string.naturescompass.distance=Расстояние
+string.naturescompass.found=Найден
+string.naturescompass.notFound=Не найден
+string.naturescompass.radius=Радиус
+string.naturescompass.searching=Поиск...
+string.naturescompass.status=Статус
+
+# STRINGS - INFO
+string.naturescompass.baseHeight=Базовая высота
+string.naturescompass.climate=Климат
+string.naturescompass.heightVariation=Перепад высот
+string.naturescompass.highHumidity=Высокая влажность
+string.naturescompass.name=Название
+string.naturescompass.precipitation=Осадки
+string.naturescompass.rainfall=Уровень осадков
+string.naturescompass.temperature=Температура
+
+# STRINGS - PRECIPITATION
+string.naturescompass.snow=Снег
+string.naturescompass.rain=Дождь

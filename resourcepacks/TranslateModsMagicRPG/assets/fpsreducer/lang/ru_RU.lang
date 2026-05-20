@@ -1,0 +1,24 @@
+FpsReducer.key.guiOpen=Открыть настройки
+
+key.categories.FpsReducer=FPS Reducer
+
+fpsreducer.config.menu.enableFpsReducer=FPS Reducer
+fpsreducer.config.menu.ignoreHoldButton=Игнорировать зажатие кнопки мыши
+fpsreducer.config.menu.reducingInBackground=Снижать FPS в неактивном окне
+fpsreducer.config.menu.suppressSound=Приглушать звук в неактивном окне
+#fpsreducer.config.menu.suppressedVolume=Степень приглушения звука
+fpsreducer.config.menu.enableHUD=HUD (Инфо-панель)
+fpsreducer.config.menu.enableHUD.0=ВЫКЛ
+fpsreducer.config.menu.enableHUD.1=Сверху слева
+fpsreducer.config.menu.enableHUD.2=Сверху справа
+fpsreducer.config.menu.enableHUD.3=Снизу справа
+fpsreducer.config.menu.enableHUD.4=Снизу слева
+fpsreducer.config.menu.hudScale=Масштаб HUD
+fpsreducer.config.menu.waitingTimeMin=Время ожидания (мин)
+fpsreducer.config.menu.waitingTimeSec=Время ожидания (сек)
+fpsreducer.config.menu.idleFPS=FPS в простое
+fpsreducer.config.menu.returnToGame=Готово
+fpsreducer.config.playerConfig=Настройки игрока
+fpsreducer.config.globalConfig=Глобальные настройки
+fpsreducer.config.ON=ВКЛ
+fpsreducer.config.OFF=ВЫКЛ

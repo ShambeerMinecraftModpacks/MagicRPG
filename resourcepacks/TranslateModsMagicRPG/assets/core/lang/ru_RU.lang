@@ -1,0 +1,20 @@
+# gui - config
+
+# messages
+lunatriuscore.message.updatesavailable=Обновления доступны для %s.
+# gui - categories
+lunatriuscore.config.category.versioncheck=Проверка версий
+lunatriuscore.config.category.tweaks=Твики
+
+# gui - config - update checker
+lunatriuscore.config.checkForUpdates=Проверять обновления
+lunatriuscore.config.checkForUpdates.tooltip=Должен ли мод проверять наличие обновлений?
+lunatriuscore.config.silenceKnownUpdates=Скрыть известные обновления
+lunatriuscore.config.silenceKnownUpdates.tooltip=Должен ли мод напоминать вам только о новых обновлениях (один раз для каждой версии)?
+
+# gui - config - tweaks
+lunatriuscore.config.replaceInGameConfig=Заменить GUI настроек
+lunatriuscore.config.replaceInGameConfig.tooltip=Заменяет тестовый GUI настроек FML на рабочий GUI.
+
+# messages
+lunatriuscore.message.updatesavailable=Обновления доступны для %s.
