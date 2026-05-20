@@ -1,0 +1,28 @@
+# gui - config
+
+# commands
+commands.stackie.usage=/stackie <setinterval|setdistance|stackitems|stackexperience> <number|true|false>
+commands.stackie.interval=Интервал укладки установлен на: %d (%.1f секунд)
+commands.stackie.distance=Дистанция укладки установлена на: %.2f
+commands.stackie.stackitems=Укладка предметов установлена на: %s
+commands.stackie.stackexperience=Укладка опыта установлена на: %s
+# gui - config
+stackie.config.stackLimit=Лимит укладки
+stackie.config.stackLimit.tooltip=Если количество сущностей превысит это число, укладка будет отключена (для каждого измерения отдельно).
+stackie.config.interval=Интервал
+stackie.config.interval.tooltip=Количество тиков (20 тиков = 1 секунда), которое пройдет между каждой попыткой объединения.
+stackie.config.distance=Дистанция
+stackie.config.distance.tooltip=Максимальное расстояние между предметами или сферами опыта, при котором они всё еще могут быть объединены (относительно размера блока).
+stackie.config.stackItems=Укладка предметов
+stackie.config.stackItems.tooltip=Должен ли мод объединять предметы?
+stackie.config.stackExperience=Укладка опыта
+stackie.config.stackExperience.tooltip=Должен ли мод объединять сферы опыта?
+stackie.config.stackSizes=Размеры стаков
+stackie.config.stackSizes.tooltip=Список соответствий uniqueName-stackSize. Эти значения переопределят стандартные размеры стаков для предметов.
+stackie.config.maximumStackSize=Максимальный размер стака
+stackie.config.maximumStackSize.tooltip=Предметы будут объединяться вплоть до этого значения.
+stackie.config.maximumExperience=Максимальный опыт
+stackie.config.maximumExperience.tooltip=Опыт будет объединяться вплоть до этого значения.
+
+# Недостающая команда (добавь в блок # commands)
+commands.stackie.stacklimit=Лимит укладки установлен на: %d
