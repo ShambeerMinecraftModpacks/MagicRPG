@@ -1,0 +1,12 @@
+config.unicodefontfixer.blacklist=Моды в черном списке будут проигнорированы.
+
+config.unicodefontfixer.fixDerpyFont=Метод исправления «кривого» текста. Доступные параметры:
+config.unicodefontfixer.fixDerpyFont.disabled=Отключить любое исправление шрифта.
+config.unicodefontfixer.fixDerpyFont.always=Применять исправление шрифта независимо от его типа.
+config.unicodefontfixer.fixDerpyFont.moderate=Работать только тогда, когда все символы отображаются в шрифте Unicode.
+config.unicodefontfixer.fixDerpyFont.hint=Лучшая практика: установить [fixDerpyFont] в значение moderate и включить в игре [Force Unicode Font].
+
+options.unicodefontfixer.fixDerpyFont=Исправление текста
+options.unicodefontfixer.fixDerpyFont.disabled=Отключено
+options.unicodefontfixer.fixDerpyFont.always=Всегда
+options.unicodefontfixer.fixDerpyFont.moderate=Умеренно

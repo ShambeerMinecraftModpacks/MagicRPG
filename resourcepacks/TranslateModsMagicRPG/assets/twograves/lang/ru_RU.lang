@@ -1,0 +1,8 @@
+itemGroup.Graves=Могилы
+
+language.name=Русский
+language.region=RU
+language.code=ru_RU
+
+tile.grave.name=Могила
+notyourgrave=Покойся с миром, %s
