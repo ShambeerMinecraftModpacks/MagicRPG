@@ -4,6 +4,7 @@ crash-reports/
 *.log
 
 # === Миры, бэкапы и данные карт (у каждого игрока свои) ===
+saves/
 backups/
 XaeroWaypoints/
 XaeroWaypoints_BACKUP*/
