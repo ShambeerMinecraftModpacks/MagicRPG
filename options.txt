@@ -168,7 +168,7 @@ key_key.ActivateAffinityAbility:45
 key_key.cofh.empower:47
 key_key.cofh.multimode:46
 key_BetterFps:88
-soundCategory_master:0.25496688
+soundCategory_master:0.30463576
 soundCategory_music:0.056338027
 soundCategory_record:1.0
 soundCategory_weather:1.0
