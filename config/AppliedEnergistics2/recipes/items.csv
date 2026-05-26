@@ -2047,38 +2047,38 @@ appliedenergistics2:tile.ChiseledQuartzSlabBlock:0, Chiseled Certus Quartz Slabs
 appliedenergistics2:tile.ChiseledQuartzSlabBlock.double:0, Chiseled Certus Quartz Slabs
 appliedenergistics2:tile.QuartzPillarSlabBlock:0, Certus Quartz Pillar Slabs
 appliedenergistics2:tile.QuartzPillarSlabBlock.double:0, Certus Quartz Pillar Slabs
-ThaumicTinkerer:repairer, Таум-восстановитель
-ThaumicTinkerer:dislocator, Трансвекторный дислокатор
-ThaumicTinkerer:magnet:0, Кинетический притяжатель
-ThaumicTinkerer:magnet:1, Материальный притяжатель
-ThaumicTinkerer:platform, Эфирная платформа
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:fireFire, Пропитанный Ignis огонь
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:darkQuartzStairs, Ступеньки закоптившегося кварца
+ThaumicTinkerer:fireChaos, Пропитанный Perditio огонь
+ThaumicTinkerer:forcefield, Силовое поле
+ThaumicTinkerer:fireEarth, Пропитанный Terra огонь
 ThaumicTinkerer:warpGate, Небесный портал
-ThaumicTinkerer:Levitational Locomotive Relay, Стрелка левитатора
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:spawner, Пьедестал некроманта
 ThaumicTinkerer:Levitational Locomotive, Левитатор
+ThaumicTinkerer:interface, Трансвектор
 ThaumicTinkerer:darkQuartz:0, Блок закоптившегося кварца
 ThaumicTinkerer:darkQuartz:1, Резной блок закоптившегося кварца
 ThaumicTinkerer:darkQuartz:2, Колонна из закоптившегося кварца
-ThaumicTinkerer:fireOrder, Пропитанный Ordo огонь
+ThaumicTinkerer:magnet:0, Кинетический притяжатель
+ThaumicTinkerer:magnet:1, Материальный притяжатель
+ThaumicTinkerer:funnel, Воронка для эссенции
+ThaumicTinkerer:darkQuartzStairs, Ступеньки закоптившегося кварца
 ThaumicTinkerer:fireWater, Пропитанный Aqua огонь
-ThaumicTinkerer:fireEarth, Пропитанный Terra огонь
-ThaumicTinkerer:fireAir, Пропитанный Aer огонь
-ThaumicTinkerer:spawner, Пьедестал некроманта
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
 ThaumicTinkerer:darkQuartzSlab:0, Плита закоптившегося кварца
 ThaumicTinkerer:darkQuartzSlabFull:0, Плита закоптившегося кварца
+ThaumicTinkerer:bedrockPortal, Портал из бедрока
+ThaumicTinkerer:fireAir, Пропитанный Aer огонь
+ThaumicTinkerer:platform, Эфирная платформа
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:fireOrder, Пропитанный Ordo огонь
+ThaumicTinkerer:animationTablet, Динамическая дощечка
+ThaumicTinkerer:dislocator, Трансвекторный дислокатор
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:fireFire, Пропитанный Ignis огонь
+ThaumicTinkerer:repairer, Таум-восстановитель
+ThaumicTinkerer:Levitational Locomotive Relay, Стрелка левитатора
 ThaumicTinkerer:enchanter, Осмотический стол зачарований
 ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:forcefield, Силовое поле
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:funnel, Воронка для эссенции
-ThaumicTinkerer:interface, Трансвектор
-ThaumicTinkerer:animationTablet, Динамическая дощечка
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:fireChaos, Пропитанный Perditio огонь
-ThaumicTinkerer:bedrockPortal, Портал из бедрока
 ForbiddenMagic:ArcaneCake, Таумический торт
 ForbiddenMagic:WrathCage, Клетка гнева
 ForbiddenMagic:InkFlower, Мрачная роза
@@ -2259,24 +2259,8 @@ ae2stuff:Encoder, Кодировщик шаблонов
 ae2stuff:Grower, Камера для выращивания кристаллов
 ae2stuff:Inscriber, Продвинутый высекатель
 ae2stuff:Wireless, Беспроводной соединитель
-aura:consumerBlockfurnace, Каскадная плавильня
-aura:consumerBlockplant, Каскадный садовод
-aura:consumerBlockore, Каскадный обработчик
-aura:consumerBlockloot, Каскадный мародер
-aura:consumerBlockmob, Каскадный спавнер
-aura:consumerBlockangel, Каскадный синтезатор
-aura:consumerBlocknether, Ритуал Незера
-aura:consumerBlockenchant, Калейдоскопический зачарователь
-aura:consumerBlockpotion, Каскадная зельеварка
-aura:consumerBlockdye, Каскадный красильщик
-aura:consumerBlockoreAdv, Призматический обработчик
-aura:consumerBlockminer, Каскадный шахтер
-aura:consumerBlockfish, Каскадный рыболов
-aura:consumerBlockend, Ритуал Энда
-aura:storageBookshelfCoordinator, Координатор книжных полок
-aura:trampoline, Отталкивающая загадка
-aura:monitor, Монитор
 aura:fairyTorch, tile.fairyTorch.name
+aura:storageBookshelfCoordinator, Координатор книжных полок
 aura:auraNode, Узел ауры
 aura:auraNodepump, Огненная помпа ауры
 aura:auraNodeblack, Манипулятор ауры: Черный
@@ -2297,7 +2281,23 @@ aura:auraNodepumpLightAlt, Переменная помпа ауры освеще
 aura:auraNodepumpRedstoneAlt, Переменная редстоуновая помпа ауры
 aura:auraNodeflux, Потоковый узел
 aura:magicRoad, Кирпичи путешественника
+aura:trampoline, Отталкивающая загадка
 aura:storageBookshelf, Книжная полка хранения
+aura:monitor, Монитор
+aura:consumerBlockfurnace, Каскадная плавильня
+aura:consumerBlockplant, Каскадный садовод
+aura:consumerBlockore, Каскадный обработчик
+aura:consumerBlockloot, Каскадный мародер
+aura:consumerBlockmob, Каскадный спавнер
+aura:consumerBlockangel, Каскадный синтезатор
+aura:consumerBlocknether, Ритуал Незера
+aura:consumerBlockenchant, Калейдоскопический зачарователь
+aura:consumerBlockpotion, Каскадная зельеварка
+aura:consumerBlockdye, Каскадный красильщик
+aura:consumerBlockoreAdv, Призматический обработчик
+aura:consumerBlockminer, Каскадный шахтер
+aura:consumerBlockfish, Каскадный рыболов
+aura:consumerBlockend, Ритуал Энда
 aura:fortifiedDirt, Укрепленная земля
 aura:fortifiedWood, Укрепленные доски
 aura:fortifiedGlass, Укрепленное стекло
@@ -4361,7 +4361,7 @@ evilcraft:reinforcedUndeadPlank:0, Укреплённые доски из мёр
 evilcraft:sanguinaryEnvironmentalAccumulator:0, Кровавый погодный собиратель
 evilcraft:boxOfEternalClosure:0, Коробка вечного закрытия
 evilcraft:boxOfEternalClosure:0, Коробка вечного закрытия
-ExtraUtilities:endConstructor:0, QED (Quite Elegant Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Entanglement Doohicky)
 ExtraUtilities:endConstructor:2, Флаксовый кристалл Края
 ExtraUtilities:endMarker, Маркер Края
 ExtraUtilities:curtains, Занавесы
