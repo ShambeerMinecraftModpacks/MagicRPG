@@ -2399,8 +2399,12 @@ ae2stuff:Wireless:30, Беспроводной соединитель
 ae2stuff:Wireless:31, Беспроводной соединитель
 ae2stuff:Wireless:32, Беспроводной соединитель
 ae2stuff:Wireless:33, Беспроводной соединитель
-aura:fairyTorch, tile.fairyTorch.name
-aura:storageBookshelf, Книжная полка хранения
+aura:fortifiedDirt, Укрепленная земля
+aura:fortifiedWood, Укрепленные доски
+aura:fortifiedGlass, Укрепленное стекло
+aura:fortifiedCobblestone, Укрепленный булыжник
+aura:fortifiedStone, Укрепленный камень
+aura:fortifiedObsidian, Укрепленный обсидиан
 aura:auraNode, Узел ауры
 aura:auraNodepump, Огненная помпа ауры
 aura:auraNodeblack, Манипулятор ауры: Черный
@@ -2420,8 +2424,9 @@ aura:auraNodepumpCreative, Творческая помпа ауры (Тольк�
 aura:auraNodepumpLightAlt, Переменная помпа ауры освещения
 aura:auraNodepumpRedstoneAlt, Переменная редстоуновая помпа ауры
 aura:auraNodeflux, Потоковый узел
-aura:monitor, Монитор
-aura:trampoline, Отталкивающая загадка
+aura:fairyTorch, tile.fairyTorch.name
+aura:storageBookshelf, Книжная полка хранения
+aura:storageBookshelfCoordinator, Координатор книжных полок
 aura:consumerBlockfurnace, Каскадная плавильня
 aura:consumerBlockplant, Каскадный садовод
 aura:consumerBlockore, Каскадный обработчик
@@ -2436,14 +2441,9 @@ aura:consumerBlockoreAdv, Призматический обработчик
 aura:consumerBlockminer, Каскадный шахтер
 aura:consumerBlockfish, Каскадный рыболов
 aura:consumerBlockend, Ритуал Энда
-aura:storageBookshelfCoordinator, Координатор книжных полок
+aura:trampoline, Отталкивающая загадка
 aura:magicRoad, Кирпичи путешественника
-aura:fortifiedDirt, Укрепленная земля
-aura:fortifiedWood, Укрепленные доски
-aura:fortifiedGlass, Укрепленное стекло
-aura:fortifiedCobblestone, Укрепленный булыжник
-aura:fortifiedStone, Укрепленный камень
-aura:fortifiedObsidian, Укрепленный обсидиан
+aura:monitor, Монитор
 Automagy:blockRedcrystal, Красный Кристалл
 Automagy:blockRedcrystalAmp, Усиленный Красный Кристалл
 Automagy:blockRedcrystalDim, Тусклый Красный Кристалл
@@ -5954,7 +5954,7 @@ evilcraft:boxOfEternalClosure:0, Коробка вечного закрытия
 ExtraUtilities:chestMini, Мини-сундук
 ExtraUtilities:chestFull, Немного длинный сундук
 ExtraUtilities:enderCollector, Коллектор Края
-ExtraUtilities:endConstructor:0, QED (Quacky Ender Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Entanglement Doohicky)
 ExtraUtilities:endConstructor:2, Флаксовый кристалл Края
 ExtraUtilities:endMarker, Маркер Края
 ExtraUtilities:curtains, Занавесы
@@ -6928,246 +6928,6 @@ WitchingGadgets:WG_MetalDevice:13, Фокус терроформирования
 WitchingGadgets:WG_RoseVine, Розовая лоза
 WitchingGadgets:WG_CustomAir, Мерцание
 IguanaTweaksTConstruct:skullBlock, tile.iguana.tcon.skull.name
-arsmagica2:essenceRefiner, Очиститель эссенции
-arsmagica2:mageTorch, Mage Light
-arsmagica2:essenceConduit, Проводник эфириума
-arsmagica2:obelisk, Обелиск
-arsmagica2:calefactor, Нагреватель
-arsmagica2:keystoneReceptacle, Краеугольный приёмник
-arsmagica2:astralBarrier, Астральный барьер
-arsmagica2:blackAurem, Black Aurem
-arsmagica2:celestialPrism, Небесная призма
-arsmagica2:seerStone, Камень-провидец
-arsmagica2:vinteumOre:0, Винтеумная руда
-arsmagica2:vinteumOre:1, Химеритовая руда
-arsmagica2:vinteumOre:2, Руда синего топаза
-arsmagica2:vinteumOre:3, Руда лунного камня
-arsmagica2:vinteumOre:4, Руда солнечного камня
-arsmagica2:vinteumOre:5, Блок лунного камня
-arsmagica2:vinteumOre:6, Винтеумный блок
-arsmagica2:vinteumOre:7, Блок синего топаза
-arsmagica2:vinteumOre:8, Блок солнечного камня
-arsmagica2:vinteumOre:9, Химеритовый блок
-arsmagica2:blueOrchid, Cerublossom
-arsmagica2:desertNova, Пустынная звездка
-arsmagica2:keystoneChest, Краеугольный сундук
-arsmagica2:blockLectern, Аналой
-arsmagica2:manaBattery, Аккумулятор маны
-arsmagica2:blockArcaneReconstructor, Тайный реконструктор
-arsmagica2:magicWall, Магическая стена
-arsmagica2:occulus, Око
-arsmagica2:CraftingAltar, Алтарь создания
-arsmagica2:SpellRune, Руна заклинаний
-arsmagica2:VinteumTorch, Винтеумный факел
-arsmagica2:ParticleEmitter, Излучатель частиц
-arsmagica2:InscriptionTable, Стол начертания
-arsmagica2:invisibleUtility, tile.arsmagica2:invisibleUtility.name
-arsmagica2:Aum, Аум
-arsmagica2:TarmaRoot, Корень тарма
-arsmagica2:WitchwoodLog, Древесина ведьминого дерева
-arsmagica2:WitchwoodLeaves, Листва ведьминого дерева
-arsmagica2:Summoner, Призыватель
-arsmagica2:liquidEssence, Liquid Etherium
-arsmagica2:redstoneInlay, Красная инкрустация
-arsmagica2:ironInlay, Железная инкрустация
-arsmagica2:goldInlay, Золотая инкрустация
-arsmagica2:planksWitchwood, Доски из ведьминого дерева
-arsmagica2:stairsWitchwood, Ступеньки из ведьминого дерева
-arsmagica2:saplingWitchwood, Саженец из ведьминого дерева
-arsmagica2:magiciansWorkbench, Верстак мага
-arsmagica2:everstone, Вечный камень
-arsmagica2:keystoneDoor, Keystone Door
-arsmagica2:keystoneTrapDoor, Краеугольный люк
-arsmagica2:slipstreamGenerator, Генератор воздушного потока
-arsmagica2:elementalAttuner, Flicker Habitat
-arsmagica2:wizardChalk, Wizard's Chalk Rune
-arsmagica2:inertSpawner, Неактивный спаунер
-arsmagica2:candle, Свеча оберега
-arsmagica2:brokenLinkBlock, Сломанное соединение связи
-arsmagica2:armorInfuser, Стол наполнения доспехов
-arsmagica2:flickerLure, Мерцающая приманка
-arsmagica2:arcaneDeconstructor, Тайный разрушитель
-arsmagica2:wakebloom, Цветок пробуждения
-arsmagica2:otherworldAura, Otherworld Aura
-arsmagica2:spellSealedDoor, Spell-Sealed Door
-arsmagica2:witchwoodSingleSlab:0, Witchwood Slab
-arsmagica2:witchwoodDoubleSlab:0, Witchwood Slab
-arsmagica2:illusionBlock:0, Блок иллюзий
-arsmagica2:illusionBlock:1, Блок эфириумных иллюзий
-arsmagica2:crystalMarker:0, Кристал импорта
-arsmagica2:crystalMarker:1, Кристал экспорта
-arsmagica2:crystalMarker:2, Кристал мимического экспорта
-arsmagica2:crystalMarker:3, Кристал указанного экспорта
-arsmagica2:crystalMarker:4, Кристал регулируемого экспорта
-arsmagica2:crystalMarker:5, Регулируемый двунаправленный кристалл
-arsmagica2:crystalMarker:6, Кристал указанного импорта
-arsmagica2:crystalMarker:7, Final Export Crystal
-arsmagica2:crystalMarker:8, Spell Export Crystal
-arsmagica2:spellBase, item.arsmagica2:spell_base.name
-arsmagica2:itemOre:0, Винтеумная пыль
-arsmagica2:itemOre:1, Тайная смесь
-arsmagica2:itemOre:2, Тайный пепел
-arsmagica2:itemOre:3, Очищенная винтеумная пыль
-arsmagica2:itemOre:4, Химерит
-arsmagica2:itemOre:5, Синий топаз
-arsmagica2:itemOre:6, Солнечный камень
-arsmagica2:itemOre:7, Лунный камень
-arsmagica2:itemOre:8, Свиной жир
-arsmagica2:essence:0, Тайная эссенция
-arsmagica2:essence:1, Эссенция земли
-arsmagica2:essence:2, Эссенция воздуха
-arsmagica2:essence:3, Огненная эссенция
-arsmagica2:essence:4, Эссенция воды
-arsmagica2:essence:5, Природная эссенция
-arsmagica2:essence:6, Ледяная эссенция
-arsmagica2:essence:7, Эссенция молнии
-arsmagica2:essence:8, Жизненная эссенция
-arsmagica2:essence:9, Эссенция Края
-arsmagica2:essence:10, Чистая эссенция
-arsmagica2:essence:11, Лучшее ядро эссенции
-arsmagica2:essence:12, Основное ядро эссенции
-arsmagica2:essenceBag, Мешочек эссенции
-arsmagica2:spellParchment, Пергамент заклинаний
-arsmagica2:spellBook, item.arsmagica2:spell_book.name
-arsmagica2:rune:0, Чёрная руна
-arsmagica2:rune:1, Пустая руна
-arsmagica2:rune:2, Синяя руна
-arsmagica2:rune:3, Коричневая руна
-arsmagica2:rune:4, Бирюзовая руна
-arsmagica2:rune:5, Серая руна
-arsmagica2:rune:6, Зелёная руна
-arsmagica2:rune:7, Светло-синяя руна
-arsmagica2:rune:8, Светло-серая руна
-arsmagica2:rune:9, Лаймовая руна
-arsmagica2:rune:10, Фиолетовая руна
-arsmagica2:rune:11, Оранжевая руна
-arsmagica2:rune:12, Розовая руна
-arsmagica2:rune:13, Сиреневая руна
-arsmagica2:rune:14, Красная руна
-arsmagica2:rune:15, Белая руна
-arsmagica2:rune:16, Жёлтая руна
-arsmagica2:rune:17, Сфера бесконечности
-arsmagica2:rune:18, Сфера бесконечности
-arsmagica2:rune:19, Сфера бесконечности
-arsmagica2:rune:20, Руна отладки
-arsmagica2:lesserFocus, Малый фокус
-arsmagica2:standardFocus, Обычный фокус
-arsmagica2:greaterFocus, Большой фокус
-arsmagica2:manaFocus, Фокус на ману
-arsmagica2:chargeFocus, Фокус на энергию
-arsmagica2:playerFocus, Фокус на игрока
-arsmagica2:mobFocus, Фокус на монстра
-arsmagica2:itemFocus, Фокус на предмет
-arsmagica2:creatureFocus, Фокус на существ
-arsmagica2:blueChalk, Мел волшебника
-arsmagica2:manaCake, Торт маны
-arsmagica2:keystone, Краеугольный камень
-arsmagica2:bookAffinity:0, Большая книга родства: NONE
-arsmagica2:bookAffinity:1, Большая книга родства: ARCANE
-arsmagica2:bookAffinity:2, Большая книга родства: WATER
-arsmagica2:bookAffinity:3, Большая книга родства: FIRE
-arsmagica2:bookAffinity:4, Большая книга родства: EARTH
-arsmagica2:bookAffinity:5, Большая книга родства: AIR
-arsmagica2:bookAffinity:6, Большая книга родства: LIGHTNING
-arsmagica2:bookAffinity:7, Большая книга родства: ICE
-arsmagica2:bookAffinity:8, Большая книга родства: NATURE
-arsmagica2:bookAffinity:9, Большая книга родства: LIFE
-arsmagica2:bookAffinity:10, Большая книга родства: ENDER
-arsmagica2:lesserManaPotion, Малое зелье маны
-arsmagica2:standardManaPotion, Обычное зелье маны
-arsmagica2:greaterManaPotion, Большое зелье маны
-arsmagica2:epicManaPotion, Очень большое зелье маны
-arsmagica2:legendaryManaPotion, Легендарное зелье маны
-arsmagica2:manaPotionBundle:3, Малое зелье маны (Связка)
-arsmagica2:manaPotionBundle:259, Обычное зелье маны (Связка)
-arsmagica2:manaPotionBundle:515, Большое зелье маны (Связка)
-arsmagica2:manaPotionBundle:771, Очень большое зелье маны (Связка)
-arsmagica2:manaPotionBundle:1027, Легендарное зелье маны (Связка)
-arsmagica2:mageHood, Капюшон мага
-arsmagica2:mageArmor, Мантия мага
-arsmagica2:mageLeggings, Поножи мага
-arsmagica2:mageBoots, Ботинки мага
-arsmagica2:battlemageHood, Диадема боевого мага
-arsmagica2:battlemageArmor, Броня боевого мага
-arsmagica2:battlemageLeggings, Поножи боевого мага
-arsmagica2:battlemageBoots, Ботинки боевого мага
-arsmagica2:BoundHoeNor, Мотыга связывания
-arsmagica2:BoundShovelNor, Лопата связывания
-arsmagica2:BoundAxeNor, Топор связывания
-arsmagica2:BoundPickaxeNor, Кирка связывания
-arsmagica2:BoundSwordNor, Меч связывания
-arsmagica2:AMSpawnEgg:0, Призвать существо - Крипер маны
-arsmagica2:AMSpawnEgg:1, Призвать существо - Дриада
-arsmagica2:AMSpawnEgg:2, Призвать существо - Геката
-arsmagica2:AMSpawnEgg:3, Призвать существо - Маг-житель
-arsmagica2:AMSpawnEgg:4, Призвать существо - Элементаль маны
-arsmagica2:AMSpawnEgg:5, Призвать существо - Элементаль воды
-arsmagica2:AMSpawnEgg:6, Призвать существо - Светлый маг
-arsmagica2:AMSpawnEgg:7, Призвать существо - Тёмный маг
-arsmagica2:AMSpawnEgg:8, Призвать существо - Адская корова
-arsmagica2:AMSpawnEgg:9, Призвать существо - Вспышка
-arsmagica2:AMSpawnEgg:10, Призвать существо - Элементаль земли
-arsmagica2:AMSpawnEgg:11, Призвать существо - Элементаль огня
-arsmagica2:AMSpawnEgg:12, Призвать существо - Тьма
-arsmagica2:AMSpawnEgg:13, Призвать существо - Хранитель природы
-arsmagica2:AMSpawnEgg:14, Призвать существо - Хранитель арканы
-arsmagica2:AMSpawnEgg:15, Призвать существо - Хранитель земли
-arsmagica2:AMSpawnEgg:16, Призвать существо - Хранитель воды
-arsmagica2:AMSpawnEgg:17, Призвать существо - Хранитель зимы
-arsmagica2:AMSpawnEgg:18, Призвать существо - Хранитель воздуха
-arsmagica2:AMSpawnEgg:19, Призвать существо - Хранитель огня
-arsmagica2:AMSpawnEgg:20, Призвать существо - Хранитель жизни
-arsmagica2:AMSpawnEgg:21, Призвать существо - Хранитель молний
-arsmagica2:AMSpawnEgg:22, Призвать существо - Хранитель Края
-arsmagica2:deficitCrystal, Кристал нехватки
-arsmagica2:crystal_wrench, Кристальный ключ
-arsmagica2:ArcaneCompendium, Тайный компендиум
-arsmagica2:SpellComponent, item.null.name
-arsmagica2:Crystal Phylactery, Кристальная филактерия
-arsmagica2:liquidEssenceBucket, Ведро жидкого эфириума
-arsmagica2:natureScythe, §6Коса природы§f
-arsmagica2:magitechStaff, Посох техномага
-arsmagica2:liquidEssenceBottle, Зелье наполненное эфириумом
-arsmagica2:bindingCatalyst:0, Связующий катализатор: Кирка
-arsmagica2:bindingCatalyst:1, Связующий катализатор: Топор
-arsmagica2:bindingCatalyst:3, Связующий катализатор: Лопата
-arsmagica2:bindingCatalyst:2, Связующий катализатор: Меч
-arsmagica2:bindingCatalyst:4, Связующий катализатор: Мотыга
-arsmagica2:evilBook, Зловещая книга
-arsmagica2:woodenLeg, Деревянная нога
-arsmagica2:cowHorn, Рог адской коровы
-arsmagica2:magicBroom, магической метлы
-arsmagica2:arcane_spellbook, item.arsmagica2:arcane_spellbook.name
-arsmagica2:winter_arm, §6Хватка зимы§f
-arsmagica2:air_sled, §6Воздушная упряжка§f
-arsmagica2:earth_armor, §6Доспехи земли§f
-arsmagica2:water_orbs, §6Сферы воды§f
-arsmagica2:fire_ears, §6Щупальце огня хранителя§f
-arsmagica2:workbenchUpgrade, Улучшение верстака мага: Создание
-arsmagica2:keystoneDoorPlacer:0, Краеугольная дверь
-arsmagica2:keystoneDoorPlacer:1, Spell-Sealed Door
-arsmagica2:enderBoots, §6Ботинки Края§f
-arsmagica2:wardingCandle:0, Свеча оберега (Ненастроенная)
-arsmagica2:magitechGoggles, Очки техномага
-arsmagica2:flickerJar:0, Мерцающий кувшин: Пусто
-arsmagica2:flickerJar:1, Мерцающий кувшин: Arcane
-arsmagica2:flickerJar:2, Мерцающий кувшин: Water
-arsmagica2:flickerJar:3, Мерцающий кувшин: Fire
-arsmagica2:flickerJar:4, Мерцающий кувшин: Earth
-arsmagica2:flickerJar:5, Мерцающий кувшин: Air
-arsmagica2:flickerJar:6, Мерцающий кувшин: Lightning
-arsmagica2:flickerJar:7, Мерцающий кувшин: Ice
-arsmagica2:flickerJar:8, Мерцающий кувшин: Nature
-arsmagica2:flickerJar:9, Мерцающий кувшин: Life
-arsmagica2:flickerJar:10, Мерцающий кувшин: Ender
-arsmagica2:runeBag, Рунный мешочек
-arsmagica2:lightningCharm, §6Амулет молний§f
-arsmagica2:lifeWard, §6Укрепление жизни§f
-arsmagica2:playerjournal, Журнал
-arsmagica2:manaMartini, Mana Martini
-arsmagica2:inscriptionUpgrade:0, Inscription Table Tier 1 Upgrade
-arsmagica2:inscriptionUpgrade:1, Inscription Table Tier 2 Upgrade
-arsmagica2:inscriptionUpgrade:2, Inscription Table Tier 3 Upgrade
 divinerpg:bacon, Бекон
 divinerpg:hotPumpkinPie, Горячий тыквенный пирог
 divinerpg:boiledEgg, Варёное яйцо
@@ -12135,19 +11895,6 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Иска�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок Мракометалла
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из Искаженной древесины
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Искаженная листва
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Винтеумная руда
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Химеритовая руда
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Руда синего топаза
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Руда лунного камня
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Руда солнечного камня
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок лунного камня
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Винтеумный блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок синего топаза
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Блок солнечного камня
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Химеритовый блок
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Древесина ведьминого дерева
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из ведьминого дерева
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Witchwood Slab
 appliedenergistics2:item.ItemCrystalSeed:0, Семя истинного кварца
 appliedenergistics2:item.ItemCrystalSeed:600, Семя кварца Нижнего мира
 appliedenergistics2:item.ItemCrystalSeed:1200, Изменчивое семя
@@ -12473,6 +12220,171 @@ ae2fc:quantum_bridge_card, Карта квантового моста
 ae2stuff:WirelessKit, Набор для настройки беспроводного соединителя
 ae2stuff:AdvWirelessKit, Advanced Wireless Setup Kit
 ae2stuff:Visualiser, Устройство визуализации Сети
+arsmagica2:spellBase, item.arsmagica2:spell_base.name
+arsmagica2:itemOre:0, Винтеумная пыль
+arsmagica2:itemOre:1, Тайная смесь
+arsmagica2:itemOre:2, Тайный пепел
+arsmagica2:itemOre:3, Очищенная винтеумная пыль
+arsmagica2:itemOre:4, Химерит
+arsmagica2:itemOre:5, Синий топаз
+arsmagica2:itemOre:6, Солнечный камень
+arsmagica2:itemOre:7, Лунный камень
+arsmagica2:itemOre:8, Свиной жир
+arsmagica2:essence:0, Тайная эссенция
+arsmagica2:essence:1, Эссенция земли
+arsmagica2:essence:2, Эссенция воздуха
+arsmagica2:essence:3, Огненная эссенция
+arsmagica2:essence:4, Эссенция воды
+arsmagica2:essence:5, Природная эссенция
+arsmagica2:essence:6, Ледяная эссенция
+arsmagica2:essence:7, Эссенция молнии
+arsmagica2:essence:8, Жизненная эссенция
+arsmagica2:essence:9, Эссенция Края
+arsmagica2:essence:10, Чистая эссенция
+arsmagica2:essence:11, Лучшее ядро эссенции
+arsmagica2:essence:12, Основное ядро эссенции
+arsmagica2:essenceBag, Мешочек эссенции
+arsmagica2:spellParchment, Пергамент заклинаний
+arsmagica2:spellBook, item.arsmagica2:spell_book.name
+arsmagica2:rune:0, Чёрная руна
+arsmagica2:rune:1, Пустая руна
+arsmagica2:rune:2, Синяя руна
+arsmagica2:rune:3, Коричневая руна
+arsmagica2:rune:4, Бирюзовая руна
+arsmagica2:rune:5, Серая руна
+arsmagica2:rune:6, Зелёная руна
+arsmagica2:rune:7, Светло-синяя руна
+arsmagica2:rune:8, Светло-серая руна
+arsmagica2:rune:9, Лаймовая руна
+arsmagica2:rune:10, Фиолетовая руна
+arsmagica2:rune:11, Оранжевая руна
+arsmagica2:rune:12, Розовая руна
+arsmagica2:rune:13, Сиреневая руна
+arsmagica2:rune:14, Красная руна
+arsmagica2:rune:15, Белая руна
+arsmagica2:rune:16, Жёлтая руна
+arsmagica2:rune:17, Сфера бесконечности
+arsmagica2:rune:18, Сфера бесконечности
+arsmagica2:rune:19, Сфера бесконечности
+arsmagica2:rune:20, Руна отладки
+arsmagica2:lesserFocus, Малый фокус
+arsmagica2:standardFocus, Обычный фокус
+arsmagica2:greaterFocus, Большой фокус
+arsmagica2:manaFocus, Фокус на ману
+arsmagica2:chargeFocus, Фокус на энергию
+arsmagica2:playerFocus, Фокус на игрока
+arsmagica2:mobFocus, Фокус на монстра
+arsmagica2:itemFocus, Фокус на предмет
+arsmagica2:creatureFocus, Фокус на существ
+arsmagica2:blueChalk, Мел волшебника
+arsmagica2:manaCake, Торт маны
+arsmagica2:keystone, Краеугольный камень
+arsmagica2:bookAffinity:0, Большая книга родства: NONE
+arsmagica2:bookAffinity:1, Большая книга родства: ARCANE
+arsmagica2:bookAffinity:2, Большая книга родства: WATER
+arsmagica2:bookAffinity:3, Большая книга родства: FIRE
+arsmagica2:bookAffinity:4, Большая книга родства: EARTH
+arsmagica2:bookAffinity:5, Большая книга родства: AIR
+arsmagica2:bookAffinity:6, Большая книга родства: LIGHTNING
+arsmagica2:bookAffinity:7, Большая книга родства: ICE
+arsmagica2:bookAffinity:8, Большая книга родства: NATURE
+arsmagica2:bookAffinity:9, Большая книга родства: LIFE
+arsmagica2:bookAffinity:10, Большая книга родства: ENDER
+arsmagica2:lesserManaPotion, Малое зелье маны
+arsmagica2:standardManaPotion, Обычное зелье маны
+arsmagica2:greaterManaPotion, Большое зелье маны
+arsmagica2:epicManaPotion, Очень большое зелье маны
+arsmagica2:legendaryManaPotion, Легендарное зелье маны
+arsmagica2:manaPotionBundle:3, Малое зелье маны (Связка)
+arsmagica2:manaPotionBundle:259, Обычное зелье маны (Связка)
+arsmagica2:manaPotionBundle:515, Большое зелье маны (Связка)
+arsmagica2:manaPotionBundle:771, Очень большое зелье маны (Связка)
+arsmagica2:manaPotionBundle:1027, Легендарное зелье маны (Связка)
+arsmagica2:mageHood, Капюшон мага
+arsmagica2:mageArmor, Мантия мага
+arsmagica2:mageLeggings, Поножи мага
+arsmagica2:mageBoots, Ботинки мага
+arsmagica2:battlemageHood, Диадема боевого мага
+arsmagica2:battlemageArmor, Броня боевого мага
+arsmagica2:battlemageLeggings, Поножи боевого мага
+arsmagica2:battlemageBoots, Ботинки боевого мага
+arsmagica2:BoundHoeNor, Мотыга связывания
+arsmagica2:BoundShovelNor, Лопата связывания
+arsmagica2:BoundAxeNor, Топор связывания
+arsmagica2:BoundPickaxeNor, Кирка связывания
+arsmagica2:BoundSwordNor, Меч связывания
+arsmagica2:AMSpawnEgg:0, Призвать существо - Крипер маны
+arsmagica2:AMSpawnEgg:1, Призвать существо - Дриада
+arsmagica2:AMSpawnEgg:2, Призвать существо - Геката
+arsmagica2:AMSpawnEgg:3, Призвать существо - Маг-житель
+arsmagica2:AMSpawnEgg:4, Призвать существо - Элементаль маны
+arsmagica2:AMSpawnEgg:5, Призвать существо - Элементаль воды
+arsmagica2:AMSpawnEgg:6, Призвать существо - Светлый маг
+arsmagica2:AMSpawnEgg:7, Призвать существо - Тёмный маг
+arsmagica2:AMSpawnEgg:8, Призвать существо - Адская корова
+arsmagica2:AMSpawnEgg:9, Призвать существо - Вспышка
+arsmagica2:AMSpawnEgg:10, Призвать существо - Элементаль земли
+arsmagica2:AMSpawnEgg:11, Призвать существо - Элементаль огня
+arsmagica2:AMSpawnEgg:12, Призвать существо - Тьма
+arsmagica2:AMSpawnEgg:13, Призвать существо - Хранитель природы
+arsmagica2:AMSpawnEgg:14, Призвать существо - Хранитель арканы
+arsmagica2:AMSpawnEgg:15, Призвать существо - Хранитель земли
+arsmagica2:AMSpawnEgg:16, Призвать существо - Хранитель воды
+arsmagica2:AMSpawnEgg:17, Призвать существо - Хранитель зимы
+arsmagica2:AMSpawnEgg:18, Призвать существо - Хранитель воздуха
+arsmagica2:AMSpawnEgg:19, Призвать существо - Хранитель огня
+arsmagica2:AMSpawnEgg:20, Призвать существо - Хранитель жизни
+arsmagica2:AMSpawnEgg:21, Призвать существо - Хранитель молний
+arsmagica2:AMSpawnEgg:22, Призвать существо - Хранитель Края
+arsmagica2:deficitCrystal, Кристал нехватки
+arsmagica2:crystal_wrench, Кристальный ключ
+arsmagica2:ArcaneCompendium, Тайный компендиум
+arsmagica2:SpellComponent, item.null.name
+arsmagica2:Crystal Phylactery, Кристальная филактерия
+arsmagica2:liquidEssenceBucket, Ведро жидкого эфириума
+arsmagica2:natureScythe, §6Коса природы§f
+arsmagica2:magitechStaff, Посох техномага
+arsmagica2:liquidEssenceBottle, Зелье наполненное эфириумом
+arsmagica2:bindingCatalyst:0, Связующий катализатор: Кирка
+arsmagica2:bindingCatalyst:1, Связующий катализатор: Топор
+arsmagica2:bindingCatalyst:3, Связующий катализатор: Лопата
+arsmagica2:bindingCatalyst:2, Связующий катализатор: Меч
+arsmagica2:bindingCatalyst:4, Связующий катализатор: Мотыга
+arsmagica2:evilBook, Зловещая книга
+arsmagica2:woodenLeg, Деревянная нога
+arsmagica2:cowHorn, Рог адской коровы
+arsmagica2:magicBroom, магической метлы
+arsmagica2:arcane_spellbook, item.arsmagica2:arcane_spellbook.name
+arsmagica2:winter_arm, §6Хватка зимы§f
+arsmagica2:air_sled, §6Воздушная упряжка§f
+arsmagica2:earth_armor, §6Доспехи земли§f
+arsmagica2:water_orbs, §6Сферы воды§f
+arsmagica2:fire_ears, §6Щупальце огня хранителя§f
+arsmagica2:workbenchUpgrade, Улучшение верстака мага: Создание
+arsmagica2:keystoneDoorPlacer:0, Краеугольная дверь
+arsmagica2:keystoneDoorPlacer:1, Spell-Sealed Door
+arsmagica2:enderBoots, §6Ботинки Края§f
+arsmagica2:wardingCandle:0, Свеча оберега (Ненастроенная)
+arsmagica2:magitechGoggles, Очки техномага
+arsmagica2:flickerJar:0, Мерцающий кувшин: Пусто
+arsmagica2:flickerJar:1, Мерцающий кувшин: Arcane
+arsmagica2:flickerJar:2, Мерцающий кувшин: Water
+arsmagica2:flickerJar:3, Мерцающий кувшин: Fire
+arsmagica2:flickerJar:4, Мерцающий кувшин: Earth
+arsmagica2:flickerJar:5, Мерцающий кувшин: Air
+arsmagica2:flickerJar:6, Мерцающий кувшин: Lightning
+arsmagica2:flickerJar:7, Мерцающий кувшин: Ice
+arsmagica2:flickerJar:8, Мерцающий кувшин: Nature
+arsmagica2:flickerJar:9, Мерцающий кувшин: Life
+arsmagica2:flickerJar:10, Мерцающий кувшин: Ender
+arsmagica2:runeBag, Рунный мешочек
+arsmagica2:lightningCharm, §6Амулет молний§f
+arsmagica2:lifeWard, §6Укрепление жизни§f
+arsmagica2:playerjournal, Журнал
+arsmagica2:manaMartini, Mana Martini
+arsmagica2:inscriptionUpgrade:0, Inscription Table Tier 1 Upgrade
+arsmagica2:inscriptionUpgrade:1, Inscription Table Tier 2 Upgrade
+arsmagica2:inscriptionUpgrade:2, Inscription Table Tier 3 Upgrade
 Automagy:shardSliver:0, Грозовая Щепка
 Automagy:shardSliver:1, Огненная Щепка
 Automagy:shardSliver:2, Ледяная Щепка
@@ -13732,6 +13644,7 @@ evilcraft:rejuvenatedFlesh, Восстановленная плоть
 evilcraft:primedPendant, Заряженный кулон
 evilcraft:goldenString, Золотая нить
 evilcraft:biomeExtract:0, Пустая колба для экстракта
+evilcraft:biomeExtract:1, Экстракт биома
 evilcraft:biomeExtract:1, Экстракт биома
 evilcraft:biomeExtract:1, Экстракт биома
 evilcraft:biomeExtract:1, Экстракт биома
@@ -17307,16 +17220,16 @@ ThermalDynamics:cover:0, Крышка (Плита из резного истин
 ThermalDynamics:cover:0, Крышка (Плита из резного истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
-ThermalDynamics:cover:0, Крышка (tile.fairyTorch.name)
-ThermalDynamics:cover:0, Крышка (Монитор)
-ThermalDynamics:cover:0, Крышка (Отталкивающая загадка)
-ThermalDynamics:cover:0, Крышка (Кирпичи путешественника)
 ThermalDynamics:cover:0, Крышка (Укрепленная земля)
 ThermalDynamics:cover:0, Крышка (Укрепленные доски)
 ThermalDynamics:cover:0, Крышка (Укрепленное стекло)
 ThermalDynamics:cover:0, Крышка (Укрепленный булыжник)
 ThermalDynamics:cover:0, Крышка (Укрепленный камень)
 ThermalDynamics:cover:0, Крышка (Укрепленный обсидиан)
+ThermalDynamics:cover:0, Крышка (tile.fairyTorch.name)
+ThermalDynamics:cover:0, Крышка (Отталкивающая загадка)
+ThermalDynamics:cover:0, Крышка (Кирпичи путешественника)
+ThermalDynamics:cover:0, Крышка (Монитор)
 ThermalDynamics:cover:0, Крышка (Накопитель Эссенции)
 ThermalDynamics:cover:0, Крышка (Зачарованная Книжная полка)
 ThermalDynamics:cover:0, Крышка (Заколдованная Книжная полка)
@@ -20779,39 +20692,6 @@ ThermalDynamics:cover:0, Крышка (Блок эссенции)
 ThermalDynamics:cover:0, Крышка (Блок эссенции)
 ThermalDynamics:cover:0, Крышка (Блок эссенции)
 ThermalDynamics:cover:0, Крышка (Розовая лоза)
-ThermalDynamics:cover:0, Крышка (Mage Light)
-ThermalDynamics:cover:0, Крышка (Винтеумная руда)
-ThermalDynamics:cover:0, Крышка (Химеритовая руда)
-ThermalDynamics:cover:0, Крышка (Руда синего топаза)
-ThermalDynamics:cover:0, Крышка (Руда лунного камня)
-ThermalDynamics:cover:0, Крышка (Руда солнечного камня)
-ThermalDynamics:cover:0, Крышка (Блок лунного камня)
-ThermalDynamics:cover:0, Крышка (Винтеумный блок)
-ThermalDynamics:cover:0, Крышка (Блок синего топаза)
-ThermalDynamics:cover:0, Крышка (Блок солнечного камня)
-ThermalDynamics:cover:0, Крышка (Химеритовый блок)
-ThermalDynamics:cover:0, Крышка (Cerublossom)
-ThermalDynamics:cover:0, Крышка (Пустынная звездка)
-ThermalDynamics:cover:0, Крышка (Магическая стена)
-ThermalDynamics:cover:0, Крышка (Винтеумный факел)
-ThermalDynamics:cover:0, Крышка (tile.arsmagica2:invisibleUtility.name)
-ThermalDynamics:cover:0, Крышка (Аум)
-ThermalDynamics:cover:0, Крышка (Корень тарма)
-ThermalDynamics:cover:0, Крышка (Древесина ведьминого дерева)
-ThermalDynamics:cover:0, Крышка (Листва ведьминого дерева)
-ThermalDynamics:cover:0, Крышка (Liquid Etherium)
-ThermalDynamics:cover:0, Крышка (Красная инкрустация)
-ThermalDynamics:cover:0, Крышка (Железная инкрустация)
-ThermalDynamics:cover:0, Крышка (Золотая инкрустация)
-ThermalDynamics:cover:0, Крышка (Доски из ведьминого дерева)
-ThermalDynamics:cover:0, Крышка (Ступеньки из ведьминого дерева)
-ThermalDynamics:cover:0, Крышка (Саженец из ведьминого дерева)
-ThermalDynamics:cover:0, Крышка (Wizard's Chalk Rune)
-ThermalDynamics:cover:0, Крышка (Цветок пробуждения)
-ThermalDynamics:cover:0, Крышка (Witchwood Slab)
-ThermalDynamics:cover:0, Крышка (Witchwood Slab)
-ThermalDynamics:cover:0, Крышка (Блок иллюзий)
-ThermalDynamics:cover:0, Крышка (Блок эфириумных иллюзий)
 ThermalDynamics:retriever:0, Поисковик
 ThermalDynamics:retriever:1, Усиленный поисковик
 ThermalDynamics:retriever:2, Укреплённый поисковик
@@ -21041,42 +20921,6 @@ IguanaTweaksTConstruct:clayBucketsTinkers:28, Глиняное ведро рас
 IguanaTweaksTConstruct:clayBucketsTinkers:29, Глиняное ведро расплавленного мифрила
 IguanaTweaksTConstruct:clayBucketsTinkers:30, Глиняное ведро расплавленного эндериума
 IguanaTweaksTConstruct:clayBucketsTinkers:31, Глиняное ведро расплавленного кварца
-ThaumicTinkerer:focusTelekinesis, Набалдашник: Телекинез
-ThaumicTinkerer:cleansingTalisman, Талисман очищения
-ThaumicTinkerer:ichorclothHelm, Ихоровый капюшон
-ThaumicTinkerer:ichorclothChest, Ихоровая роба
-ThaumicTinkerer:ichorclothLegs, Ихоровые шаровары
-ThaumicTinkerer:ichorclothBoots, Ихоровые сапоги
-ThaumicTinkerer:gaseousShadowItem, Газ темноты
-ThaumicTinkerer:gaseousLightItem, Светящийся газ
-ThaumicTinkerer:shareBook, Том записи исследований
-ThaumicTinkerer:xpTalisman, Талисман удержания
-ThaumicTinkerer:infusedInkwell, Наполняемые письменные принадлежности (NYI)
-ThaumicTinkerer:protoclay, Протоглина
-ThaumicTinkerer:ichorAxeGem:0, Пробуждённый ихориевый топор
-ThaumicTinkerer:spellCloth, Ткань поглощения заклинаний
-ThaumicTinkerer:catAmulet, Кошачий амулет
-ThaumicTinkerer:focusDislocation, Набалдашник: Перемещение
-ThaumicTinkerer:ichorclothLegsGem:0, Пылающие шаровары
-ThaumicTinkerer:ichorclothHelmGem:0, Капюшон адских глубин
-ThaumicTinkerer:focusXPDrain, Набалдашник: Высасывание опыта
-ThaumicTinkerer:ichorclothBootsGem:0, Щитовые сапоги
-ThaumicTinkerer:ichorPick, Ихориевая кирка
-ThaumicTinkerer:focusSmelt, Набалдашник: Пламя ифрита
-ThaumicTinkerer:ichorPickGem:0, Пробуждённая ихориевая кирка
-ThaumicTinkerer:ichorAxe, Ихориевый топор
-ThaumicTinkerer:bloodSword, Проклятое лезвие духа
-ThaumicTinkerer:darkQuartzItem, Закоптившийся кварц
-ThaumicTinkerer:gasRemover, Рассеиватель газа
-ThaumicTinkerer:skyPearl, Небесная жемчужина
-ThaumicTinkerer:ichorSword, Ихориевый меч
-ThaumicTinkerer:focusHeal, Набалдашник: Лечение
-ThaumicTinkerer:infusedSeeds:0, Наполненные семена
-ThaumicTinkerer:infusedSeeds:0, Наполненные семена
-ThaumicTinkerer:infusedSeeds:0, Наполненные семена
-ThaumicTinkerer:infusedSeeds:0, Наполненные семена
-ThaumicTinkerer:infusedSeeds:0, Наполненные семена
-ThaumicTinkerer:infusedSeeds:0, Наполненные семена
 ThaumicTinkerer:mobAspect:0, Аспект души
 ThaumicTinkerer:mobAspect:42, Наполненный аспект души
 ThaumicTinkerer:mobAspect:1, Аспект души
@@ -21111,7 +20955,19 @@ ThaumicTinkerer:mobAspect:15, Аспект души
 ThaumicTinkerer:mobAspect:57, Наполненный аспект души
 ThaumicTinkerer:mobAspect:16, Аспект души
 ThaumicTinkerer:mobAspect:58, Наполненный аспект души
-ThaumicTinkerer:revealingHelm, Шлем открытия
+ThaumicTinkerer:blockTalisman:0, Кольцо черной дыры
+ThaumicTinkerer:focusSmelt, Набалдашник: Пламя ифрита
+ThaumicTinkerer:ichorPickGem:0, Пробуждённая ихориевая кирка
+ThaumicTinkerer:xpTalisman, Талисман удержания
+ThaumicTinkerer:infusedPotion:0, Зелье Aer
+ThaumicTinkerer:infusedPotion:1, Зелье Ignis
+ThaumicTinkerer:infusedPotion:2, Зелье Terra
+ThaumicTinkerer:infusedPotion:3, Зелье Aqua
+ThaumicTinkerer:gaseousShadowItem, Газ темноты
+ThaumicTinkerer:gaseousLightItem, Светящийся газ
+ThaumicTinkerer:ichorShovel, Ихориевая лопата
+ThaumicTinkerer:focusDeflect, Набалдашник: Искажение
+ThaumicTinkerer:protoclay, Протоглина
 ThaumicTinkerer:kamiResource:0, Ихор
 ThaumicTinkerer:kamiResource:1, Ихоровая ткань
 ThaumicTinkerer:kamiResource:2, Ихорий
@@ -21120,26 +20976,50 @@ ThaumicTinkerer:kamiResource:4, Ихориевый наконечник
 ThaumicTinkerer:kamiResource:5, Ихорный серебродревесный стержень
 ThaumicTinkerer:kamiResource:6, Кристалл Нижнего мира
 ThaumicTinkerer:kamiResource:7, Кристалл Края
-ThaumicTinkerer:focusFlight, Набалдашник: Подъём
+ThaumicTinkerer:ichorSword, Ихориевый меч
+ThaumicTinkerer:brightNitor, Гиперэнергетический нитор
+ThaumicTinkerer:focusRecall, Набалдашник: Небесное вмешательство
+ThaumicTinkerer:ichorclothHelm, Ихоровый капюшон
+ThaumicTinkerer:ichorclothChest, Ихоровая роба
+ThaumicTinkerer:ichorclothLegs, Ихоровые шаровары
+ThaumicTinkerer:ichorclothBoots, Ихоровые сапоги
+ThaumicTinkerer:soulMould, Матрица души
+ThaumicTinkerer:ichorclothBootsGem:0, Щитовые сапоги
+ThaumicTinkerer:cleansingTalisman, Талисман очищения
 ThaumicTinkerer:connector, Трансвекторный соединитель
-ThaumicTinkerer:ichorShovel, Ихориевая лопата
-ThaumicTinkerer:infusedPotion:0, Зелье Aer
-ThaumicTinkerer:infusedPotion:1, Зелье Ignis
-ThaumicTinkerer:infusedPotion:2, Зелье Terra
-ThaumicTinkerer:infusedPotion:3, Зелье Aqua
-ThaumicTinkerer:ichorShovelGem:0, Пробуждённая ихориевая лопата
-ThaumicTinkerer:placementMirror, Терраформинговое стекло
 ThaumicTinkerer:ichorSwordGem:0, Пробуждённый ихориевый меч
-ThaumicTinkerer:focusDeflect, Набалдашник: Искажение
+ThaumicTinkerer:placementMirror, Терраформинговое стекло
+ThaumicTinkerer:ichorPick, Ихориевая кирка
+ThaumicTinkerer:ichorclothChestGem:0, Роба стратосферы
+ThaumicTinkerer:focusEnderChest, Набалдашник: Вмешательство Края
+ThaumicTinkerer:darkQuartzItem, Закоптившийся кварц
+ThaumicTinkerer:revealingHelm, Шлем открытия
+ThaumicTinkerer:shareBook, Том записи исследований
+ThaumicTinkerer:gasRemover, Рассеиватель газа
+ThaumicTinkerer:focusTelekinesis, Набалдашник: Телекинез
+ThaumicTinkerer:ichorShovelGem:0, Пробуждённая ихориевая лопата
 ThaumicTinkerer:ichorPouch, Бездонная сумка
+ThaumicTinkerer:ichorAxeGem:0, Пробуждённый ихориевый топор
+ThaumicTinkerer:catAmulet, Кошачий амулет
+ThaumicTinkerer:focusDislocation, Набалдашник: Перемещение
+ThaumicTinkerer:skyPearl, Небесная жемчужина
+ThaumicTinkerer:focusXPDrain, Набалдашник: Высасывание опыта
+ThaumicTinkerer:infusedInkwell, Наполняемые письменные принадлежности (NYI)
+ThaumicTinkerer:focusShadowbeam, Набалдашник: Теневой луч
 ThaumicTinkerer:infusedGrain:0, Пропитанные зёрна
 ThaumicTinkerer:infusedGrain:1, Пропитанные зёрна
 ThaumicTinkerer:infusedGrain:2, Пропитанные зёрна
 ThaumicTinkerer:infusedGrain:3, Пропитанные зёрна
-ThaumicTinkerer:focusShadowbeam, Набалдашник: Теневой луч
-ThaumicTinkerer:blockTalisman:0, Кольцо черной дыры
-ThaumicTinkerer:focusEnderChest, Набалдашник: Вмешательство Края
-ThaumicTinkerer:brightNitor, Гиперэнергетический нитор
-ThaumicTinkerer:soulMould, Матрица души
-ThaumicTinkerer:ichorclothChestGem:0, Роба стратосферы
-ThaumicTinkerer:focusRecall, Набалдашник: Небесное вмешательство
+ThaumicTinkerer:ichorAxe, Ихориевый топор
+ThaumicTinkerer:focusHeal, Набалдашник: Лечение
+ThaumicTinkerer:ichorclothHelmGem:0, Капюшон адских глубин
+ThaumicTinkerer:bloodSword, Проклятое лезвие духа
+ThaumicTinkerer:focusFlight, Набалдашник: Подъём
+ThaumicTinkerer:infusedSeeds:0, Наполненные семена
+ThaumicTinkerer:infusedSeeds:0, Наполненные семена
+ThaumicTinkerer:infusedSeeds:0, Наполненные семена
+ThaumicTinkerer:infusedSeeds:0, Наполненные семена
+ThaumicTinkerer:infusedSeeds:0, Наполненные семена
+ThaumicTinkerer:infusedSeeds:0, Наполненные семена
+ThaumicTinkerer:spellCloth, Ткань поглощения заклинаний
+ThaumicTinkerer:ichorclothLegsGem:0, Пылающие шаровары
