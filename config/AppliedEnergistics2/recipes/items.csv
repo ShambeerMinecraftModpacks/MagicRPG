@@ -2399,6 +2399,15 @@ ae2stuff:Wireless:30, Беспроводной соединитель
 ae2stuff:Wireless:31, Беспроводной соединитель
 ae2stuff:Wireless:32, Беспроводной соединитель
 ae2stuff:Wireless:33, Беспроводной соединитель
+aura:monitor, Монитор
+aura:fairyTorch, tile.fairyTorch.name
+aura:trampoline, Отталкивающая загадка
+aura:fortifiedDirt, Укрепленная земля
+aura:fortifiedWood, Укрепленные доски
+aura:fortifiedGlass, Укрепленное стекло
+aura:fortifiedCobblestone, Укрепленный булыжник
+aura:fortifiedStone, Укрепленный камень
+aura:fortifiedObsidian, Укрепленный обсидиан
 aura:consumerBlockfurnace, Каскадная плавильня
 aura:consumerBlockplant, Каскадный садовод
 aura:consumerBlockore, Каскадный обработчик
@@ -2414,16 +2423,6 @@ aura:consumerBlockminer, Каскадный шахтер
 aura:consumerBlockfish, Каскадный рыболов
 aura:consumerBlockend, Ритуал Энда
 aura:storageBookshelfCoordinator, Координатор книжных полок
-aura:storageBookshelf, Книжная полка хранения
-aura:trampoline, Отталкивающая загадка
-aura:fairyTorch, tile.fairyTorch.name
-aura:fortifiedDirt, Укрепленная земля
-aura:fortifiedWood, Укрепленные доски
-aura:fortifiedGlass, Укрепленное стекло
-aura:fortifiedCobblestone, Укрепленный булыжник
-aura:fortifiedStone, Укрепленный камень
-aura:fortifiedObsidian, Укрепленный обсидиан
-aura:monitor, Монитор
 aura:magicRoad, Кирпичи путешественника
 aura:auraNode, Узел ауры
 aura:auraNodepump, Огненная помпа ауры
@@ -2444,6 +2443,7 @@ aura:auraNodepumpCreative, Творческая помпа ауры (Тольк�
 aura:auraNodepumpLightAlt, Переменная помпа ауры освещения
 aura:auraNodepumpRedstoneAlt, Переменная редстоуновая помпа ауры
 aura:auraNodeflux, Потоковый узел
+aura:storageBookshelf, Книжная полка хранения
 Automagy:blockRedcrystal, Красный Кристалл
 Automagy:blockRedcrystalAmp, Усиленный Красный Кристалл
 Automagy:blockRedcrystalDim, Тусклый Красный Кристалл
@@ -5954,7 +5954,7 @@ evilcraft:boxOfEternalClosure:0, Коробка вечного закрытия
 ExtraUtilities:chestMini, Мини-сундук
 ExtraUtilities:chestFull, Немного длинный сундук
 ExtraUtilities:enderCollector, Коллектор Края
-ExtraUtilities:endConstructor:0, QED (Quail Eating Ducks)
+ExtraUtilities:endConstructor:0, QED (Quasar Entanglement Device)
 ExtraUtilities:endConstructor:2, Флаксовый кристалл Края
 ExtraUtilities:endMarker, Маркер Края
 ExtraUtilities:curtains, Занавесы
@@ -17220,15 +17220,15 @@ ThermalDynamics:cover:0, Крышка (Плита из резного истин
 ThermalDynamics:cover:0, Крышка (Плита из резного истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
-ThermalDynamics:cover:0, Крышка (Отталкивающая загадка)
+ThermalDynamics:cover:0, Крышка (Монитор)
 ThermalDynamics:cover:0, Крышка (tile.fairyTorch.name)
+ThermalDynamics:cover:0, Крышка (Отталкивающая загадка)
 ThermalDynamics:cover:0, Крышка (Укрепленная земля)
 ThermalDynamics:cover:0, Крышка (Укрепленные доски)
 ThermalDynamics:cover:0, Крышка (Укрепленное стекло)
 ThermalDynamics:cover:0, Крышка (Укрепленный булыжник)
 ThermalDynamics:cover:0, Крышка (Укрепленный камень)
 ThermalDynamics:cover:0, Крышка (Укрепленный обсидиан)
-ThermalDynamics:cover:0, Крышка (Монитор)
 ThermalDynamics:cover:0, Крышка (Кирпичи путешественника)
 ThermalDynamics:cover:0, Крышка (Накопитель Эссенции)
 ThermalDynamics:cover:0, Крышка (Зачарованная Книжная полка)
@@ -20921,42 +20921,15 @@ IguanaTweaksTConstruct:clayBucketsTinkers:28, Глиняное ведро рас
 IguanaTweaksTConstruct:clayBucketsTinkers:29, Глиняное ведро расплавленного мифрила
 IguanaTweaksTConstruct:clayBucketsTinkers:30, Глиняное ведро расплавленного эндериума
 IguanaTweaksTConstruct:clayBucketsTinkers:31, Глиняное ведро расплавленного кварца
-ThaumicTinkerer:focusDeflect, Набалдашник: Искажение
-ThaumicTinkerer:bloodSword, Проклятое лезвие духа
-ThaumicTinkerer:brightNitor, Гиперэнергетический нитор
-ThaumicTinkerer:ichorSwordGem:0, Пробуждённый ихориевый меч
-ThaumicTinkerer:darkQuartzItem, Закоптившийся кварц
-ThaumicTinkerer:ichorShovel, Ихориевая лопата
-ThaumicTinkerer:ichorAxe, Ихориевый топор
-ThaumicTinkerer:ichorclothChestGem:0, Роба стратосферы
-ThaumicTinkerer:ichorPick, Ихориевая кирка
-ThaumicTinkerer:xpTalisman, Талисман удержания
-ThaumicTinkerer:infusedSeeds:0, Наполненные семена
-ThaumicTinkerer:infusedSeeds:0, Наполненные семена
-ThaumicTinkerer:infusedSeeds:0, Наполненные семена
-ThaumicTinkerer:infusedSeeds:0, Наполненные семена
-ThaumicTinkerer:infusedSeeds:0, Наполненные семена
-ThaumicTinkerer:infusedSeeds:0, Наполненные семена
-ThaumicTinkerer:shareBook, Том записи исследований
-ThaumicTinkerer:ichorAxeGem:0, Пробуждённый ихориевый топор
-ThaumicTinkerer:revealingHelm, Шлем открытия
-ThaumicTinkerer:infusedGrain:0, Пропитанные зёрна
-ThaumicTinkerer:infusedGrain:1, Пропитанные зёрна
-ThaumicTinkerer:infusedGrain:2, Пропитанные зёрна
-ThaumicTinkerer:infusedGrain:3, Пропитанные зёрна
-ThaumicTinkerer:catAmulet, Кошачий амулет
-ThaumicTinkerer:protoclay, Протоглина
-ThaumicTinkerer:ichorSword, Ихориевый меч
 ThaumicTinkerer:gasRemover, Рассеиватель газа
-ThaumicTinkerer:placementMirror, Терраформинговое стекло
-ThaumicTinkerer:focusFlight, Набалдашник: Подъём
-ThaumicTinkerer:focusSmelt, Набалдашник: Пламя ифрита
-ThaumicTinkerer:infusedPotion:0, Зелье Aer
-ThaumicTinkerer:infusedPotion:1, Зелье Ignis
-ThaumicTinkerer:infusedPotion:2, Зелье Terra
-ThaumicTinkerer:infusedPotion:3, Зелье Aqua
-ThaumicTinkerer:ichorclothLegsGem:0, Пылающие шаровары
-ThaumicTinkerer:focusDislocation, Набалдашник: Перемещение
+ThaumicTinkerer:blockTalisman:0, Кольцо черной дыры
+ThaumicTinkerer:cleansingTalisman, Талисман очищения
+ThaumicTinkerer:ichorPick, Ихориевая кирка
+ThaumicTinkerer:ichorclothHelm, Ихоровый капюшон
+ThaumicTinkerer:ichorclothChest, Ихоровая роба
+ThaumicTinkerer:ichorclothLegs, Ихоровые шаровары
+ThaumicTinkerer:ichorclothBoots, Ихоровые сапоги
+ThaumicTinkerer:focusDeflect, Набалдашник: Искажение
 ThaumicTinkerer:kamiResource:0, Ихор
 ThaumicTinkerer:kamiResource:1, Ихоровая ткань
 ThaumicTinkerer:kamiResource:2, Ихорий
@@ -20965,23 +20938,54 @@ ThaumicTinkerer:kamiResource:4, Ихориевый наконечник
 ThaumicTinkerer:kamiResource:5, Ихорный серебродревесный стержень
 ThaumicTinkerer:kamiResource:6, Кристалл Нижнего мира
 ThaumicTinkerer:kamiResource:7, Кристалл Края
-ThaumicTinkerer:ichorclothHelmGem:0, Капюшон адских глубин
+ThaumicTinkerer:bloodSword, Проклятое лезвие духа
+ThaumicTinkerer:focusShadowbeam, Набалдашник: Теневой луч
+ThaumicTinkerer:ichorAxe, Ихориевый топор
+ThaumicTinkerer:connector, Трансвекторный соединитель
+ThaumicTinkerer:revealingHelm, Шлем открытия
+ThaumicTinkerer:focusHeal, Набалдашник: Лечение
+ThaumicTinkerer:catAmulet, Кошачий амулет
+ThaumicTinkerer:protoclay, Протоглина
+ThaumicTinkerer:brightNitor, Гиперэнергетический нитор
+ThaumicTinkerer:infusedGrain:0, Пропитанные зёрна
+ThaumicTinkerer:infusedGrain:1, Пропитанные зёрна
+ThaumicTinkerer:infusedGrain:2, Пропитанные зёрна
+ThaumicTinkerer:infusedGrain:3, Пропитанные зёрна
+ThaumicTinkerer:soulMould, Матрица души
+ThaumicTinkerer:infusedPotion:0, Зелье Aer
+ThaumicTinkerer:infusedPotion:1, Зелье Ignis
+ThaumicTinkerer:infusedPotion:2, Зелье Terra
+ThaumicTinkerer:infusedPotion:3, Зелье Aqua
+ThaumicTinkerer:ichorShovel, Ихориевая лопата
+ThaumicTinkerer:ichorAxeGem:0, Пробуждённый ихориевый топор
+ThaumicTinkerer:ichorclothLegsGem:0, Пылающие шаровары
 ThaumicTinkerer:focusTelekinesis, Набалдашник: Телекинез
-ThaumicTinkerer:skyPearl, Небесная жемчужина
+ThaumicTinkerer:shareBook, Том записи исследований
+ThaumicTinkerer:spellCloth, Ткань поглощения заклинаний
+ThaumicTinkerer:focusEnderChest, Набалдашник: Вмешательство Края
+ThaumicTinkerer:placementMirror, Терраформинговое стекло
+ThaumicTinkerer:ichorclothBootsGem:0, Щитовые сапоги
+ThaumicTinkerer:focusSmelt, Набалдашник: Пламя ифрита
+ThaumicTinkerer:infusedSeeds:0, Наполненные семена
+ThaumicTinkerer:infusedSeeds:0, Наполненные семена
+ThaumicTinkerer:infusedSeeds:0, Наполненные семена
+ThaumicTinkerer:infusedSeeds:0, Наполненные семена
+ThaumicTinkerer:infusedSeeds:0, Наполненные семена
+ThaumicTinkerer:infusedSeeds:0, Наполненные семена
 ThaumicTinkerer:ichorPouch, Бездонная сумка
+ThaumicTinkerer:ichorSwordGem:0, Пробуждённый ихориевый меч
+ThaumicTinkerer:focusFlight, Набалдашник: Подъём
+ThaumicTinkerer:focusRecall, Набалдашник: Небесное вмешательство
+ThaumicTinkerer:skyPearl, Небесная жемчужина
 ThaumicTinkerer:ichorShovelGem:0, Пробуждённая ихориевая лопата
+ThaumicTinkerer:darkQuartzItem, Закоптившийся кварц
+ThaumicTinkerer:xpTalisman, Талисман удержания
+ThaumicTinkerer:ichorclothChestGem:0, Роба стратосферы
+ThaumicTinkerer:ichorclothHelmGem:0, Капюшон адских глубин
+ThaumicTinkerer:focusDislocation, Набалдашник: Перемещение
 ThaumicTinkerer:gaseousShadowItem, Газ темноты
 ThaumicTinkerer:gaseousLightItem, Светящийся газ
-ThaumicTinkerer:ichorclothBootsGem:0, Щитовые сапоги
-ThaumicTinkerer:focusXPDrain, Набалдашник: Высасывание опыта
-ThaumicTinkerer:ichorPickGem:0, Пробуждённая ихориевая кирка
-ThaumicTinkerer:focusHeal, Набалдашник: Лечение
-ThaumicTinkerer:focusEnderChest, Набалдашник: Вмешательство Края
-ThaumicTinkerer:focusShadowbeam, Набалдашник: Теневой луч
 ThaumicTinkerer:infusedInkwell, Наполняемые письменные принадлежности (NYI)
-ThaumicTinkerer:soulMould, Матрица души
-ThaumicTinkerer:focusRecall, Набалдашник: Небесное вмешательство
-ThaumicTinkerer:blockTalisman:0, Кольцо черной дыры
 ThaumicTinkerer:mobAspect:0, Аспект души
 ThaumicTinkerer:mobAspect:42, Наполненный аспект души
 ThaumicTinkerer:mobAspect:1, Аспект души
@@ -21016,10 +21020,6 @@ ThaumicTinkerer:mobAspect:15, Аспект души
 ThaumicTinkerer:mobAspect:57, Наполненный аспект души
 ThaumicTinkerer:mobAspect:16, Аспект души
 ThaumicTinkerer:mobAspect:58, Наполненный аспект души
-ThaumicTinkerer:cleansingTalisman, Талисман очищения
-ThaumicTinkerer:connector, Трансвекторный соединитель
-ThaumicTinkerer:spellCloth, Ткань поглощения заклинаний
-ThaumicTinkerer:ichorclothHelm, Ихоровый капюшон
-ThaumicTinkerer:ichorclothChest, Ихоровая роба
-ThaumicTinkerer:ichorclothLegs, Ихоровые шаровары
-ThaumicTinkerer:ichorclothBoots, Ихоровые сапоги
+ThaumicTinkerer:ichorPickGem:0, Пробуждённая ихориевая кирка
+ThaumicTinkerer:ichorSword, Ихориевый меч
+ThaumicTinkerer:focusXPDrain, Набалдашник: Высасывание опыта
