@@ -1,8 +1,0 @@
-Total amount of conflicted potion ids: 5
-IDs in conflict:
-
-32 is asked by: Water Breathing (am2.buffs.ArsMagicaPotion), potion.taintWithdrawl (flaxbeard.thaumicexploration.misc.TXTaintPotion)
-100 is asked by: Red Curse (pixlepix.auracascade.potions.PotionRedCurse), Drowning (WayofTime.alchemicalWizardry.common.potion.PotionDrowning)
-115 is asked by: Demon Cloaking (WayofTime.alchemicalWizardry.common.potion.PotionDemonCloak), AddHeart (tombenpotter.sanguimancy.potion.PotionAddHeart)
-116 is asked by: Amphibian (WayofTime.alchemicalWizardry.common.potion.PotionAmphibian), RemoveHeart (tombenpotter.sanguimancy.potion.PotionRemoveHeart)
-128 is asked by: Yellow Curse (pixlepix.auracascade.potions.PotionYellowCurse), Violet Curse (pixlepix.auracascade.potions.PotionVioletCurse)

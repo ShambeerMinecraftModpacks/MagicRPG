@@ -4,17 +4,26 @@
 # Any handlers that are missing from this file will be assigned to 0.
 # Negative numbers are fine.
 # If you delete this file, it will be regenerated with all registered handler IDs.
+ThaumicExploration.replicator,0
 WayofTime.alchemicalWizardry.client.nei.NEIAlchemyRecipeHandler,0
 WayofTime.alchemicalWizardry.client.nei.NEIAltarRecipeHandler,0
 WayofTime.alchemicalWizardry.client.nei.NEIBindingRitualHandler,0
 WayofTime.alchemicalWizardry.client.nei.NEIBloodOrbShapedHandler,0
 WayofTime.alchemicalWizardry.client.nei.NEIBloodOrbShapelessHandler,0
+alchemicalwizardry.calcinator,0
+alchemicalwizardry.meteor,0
+alkalus.main.nei.NEI_Handler_Cauldron,0
+alkalus.main.nei.NEI_Handler_Distillery,0
+alkalus.main.nei.NEI_Handler_Kettle,0
+alkalus.main.nei.NEI_Handler_Oven,0
+alkalus.main.nei.NEI_Handler_SpinningWheel,0
 appeng.integration.modules.NEIHelpers.NEIAEShapedRecipeHandler,0
 appeng.integration.modules.NEIHelpers.NEIAEShapelessRecipeHandler,0
 appeng.integration.modules.NEIHelpers.NEICellViewHandler,0
 appeng.integration.modules.NEIHelpers.NEIFacadeRecipeHandler,0
 appeng.integration.modules.NEIHelpers.NEIGrinderRecipeHandler,0
 appeng.integration.modules.NEIHelpers.NEIInscriberRecipeHandler,0
+appeng.integration.modules.NEIHelpers.NEIPatternViewHandler,0
 appeng.integration.modules.NEIHelpers.NEIWorldCraftingHandler,0
 codechicken.nei.recipe.BrewingRecipeHandler,0
 codechicken.nei.recipe.FireworkRecipeHandler,0
@@ -46,6 +55,7 @@ com.emoniph.witchery.integration.NEIDistilleryRecipeHandler,0
 com.emoniph.witchery.integration.NEIKettleRecipeHandler,0
 com.emoniph.witchery.integration.NEISpinningWheelRecipeHandler,0
 com.emoniph.witchery.integration.NEIWitchesOvenRecipeHandler,0
+com.glodblock.github.nei.NEICellViewHandler,0
 com.rwtema.extrautils.nei.EnderConstructorHandler,0
 com.rwtema.extrautils.nei.FMPMicroBlocksHandler,0
 com.rwtema.extrautils.nei.InfoHandler,0
@@ -57,7 +67,6 @@ crazypants.enderio.nei.SagMillRecipeHandler,0
 crazypants.enderio.nei.SliceAndSpliceRecipeHandler,0
 crazypants.enderio.nei.SoulBinderRecipeHandler,0
 crazypants.enderio.nei.VatRecipeHandler,0
-extracells.integration.nei.UniversalTerminalRecipe,0
 forestry.factory.recipes.nei.NEIHandlerBottler,0
 forestry.factory.recipes.nei.NEIHandlerCarpenter,0
 forestry.factory.recipes.nei.NEIHandlerCentrifuge,0

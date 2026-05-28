@@ -85,9 +85,16 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_key.OpenTerminal:0
-key_key.OpenMagnetFilter:0
-key_key.SwitchMagnetMode:0
+key_key.container_interaction.desc:29
+key_key.wireless_extra_action.desc:29
+key_key.wireless_mode_switch.desc:15
+key_ae2wct.OpenTerminal:0
+key_ae2wct.OpenMagnetFilter:0
+key_ae2wct.SwitchMagnetMode:0
+key_ae2stuff.key.mode:0
+key_key.toggle_focus.desc:0
+key_key.search_connected_inventories.desc:0
+key_key.pick_block.desc:0
 key_key.discordRing:45
 key_key_ironbackpacks_openbackpack:19
 key_key_ironbackpacks_equipbackpack:48
@@ -105,6 +112,13 @@ key_Change Arcane Lens:47
 key_Activate Morphic Fingers:49
 key_Toggle Spider Climb:46
 key_Toggle Chameleon Skin:45
+key_ae2fc.key.OpenTerminal:0
+key_ae2fc.key.OpenCraftingTerminal:0
+key_ae2fc.key.OpenLevelTerminal:0
+key_ae2fc.key.OpenInterfaceTerminal:0
+key_ae2fc.key.OpenPatternTerminal:0
+key_ae2fc.key.OpenPatternExTerminal:0
+key_ae2fc.key.Restock:0
 key_aura.angelJump:200
 key_aura.angelJumpDown:208
 key_Automagy.key.focusCrafting:46
