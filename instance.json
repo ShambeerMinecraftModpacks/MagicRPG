@@ -1,6 +1,6 @@
 {
   "name": "MagicRPG",
-  "author": "DrasticDemise/Brizzle",
+  "author": "shamber",
   "description": "",
   "version": "",
   "runtime": {
@@ -31,7 +31,7 @@
   "icon": "",
   "fileApi": "",
   "server": null,
-  "lastAccessDate": 1780038042632,
+  "lastAccessDate": 1780060171934,
   "lastPlayedDate": 1780043280324,
   "playtime": 180664754,
   "creationDate": 1777326863535,
