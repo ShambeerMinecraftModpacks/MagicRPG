@@ -1,0 +1,12 @@
+tile.witchesovenexidle.name=Ведьмина печь
+tile.witchesovenexburning.name=Ведьмина печь (активная)
+tile.fumefunnelex.name=Дымовая воронка
+tile.filteredfumefunnelex.name=Фильтрующая дымовая воронка
+
+WitcheryExtras.nei.power=Требуется энергии: %s
+
+witchery.pott.attraho=Аттрахо
+
+gui.witcheryextras.distilleryidle.title=Перегонный куб
+gui.witcheryextras.spinningwheel.title=Прялка
+gui.witcheryextras.witchesoven.title=Ведьмина печь
