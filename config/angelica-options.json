@@ -26,6 +26,6 @@
     "use_compact_vertex_format": true,
     "translucency_sorting": true,
     "use_render_pass_optimization": true,
-    "cpu_render_ahead_limit": 2
+    "cpu_render_ahead_limit": 0
   }
 }
