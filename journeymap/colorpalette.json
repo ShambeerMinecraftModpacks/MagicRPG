@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "Цветовая палитра JourneyMap",
-  "generated": "Generated using JourneyMap 5.1.4p3 Unlimited for 1.7.10 on Fri May 29 20:54:03 MSK 2026",
+  "generated": "Generated using JourneyMap 5.1.4p3 Unlimited for 1.7.10 on Tue Jun 02 23:15:32 MSK 2026",
   "description": [
     "Этот файл может быть использован для сохранения целостности цветовой гаммы карты при смене темы оформления Minecraft.",
     "Редактируйте файл на свой страх и риск. Вы можете просмотреть этот файл: \u0027colorpalette.html\u0027",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "TranslateModsMagicRPG:folder:1779895702694",
-  "modNames": "AE2 Fluid Crafting:1.5.85-gtnh, AE2 Stuff:0.10.19-GTNH, AE2 Wireless Crafting Terminal:1.12.16, AI Improvements:0.0.1.8, AMCore:0.0.3, Advanced Botany:1.3.1.7, Advanced Thaumaturgy:2.0, Angelica:2.1.28, AnimationAPI:1.2.4, Another One Bites The Dust:2.9.2, Applied Energistics 2 Core:rv3-beta-959-GTNH, Applied Energistics 2:rv3-beta-959-GTNH, Ars Magica 2:1.4.0.009, Aura Cascade:unspecified, Automagy:0.28.2, Avaritia:1.97, Avaritiaddons:1.9.4-GTNH, BD lib:1.11.0-GTNH, Baubles Expanded:2.2.21-GTNH, Baubles:2.2.21-GTNH, Big Reactors:0.4.3A, Blood Magic: Alchemical Wizardry:1.9.4, Bookshelf:1.0.4.187, Botania:1.13.21-GTNH, BugTorch:1.2.14-GTNH, Chisel:2.17.26-GTNH, CoFH ASM:000, CoFH Core:1.7.10R3.1.4, CodeChicken Core:1.4.13, Controlling:2.1.7, Crafting Tweaks:1.0.79, Disenchanter:1.6, DivineRPG:1.4.1.4, DummyCore:1.21.0, Enchanting Plus:3.0.2-d, Ender IO:2.10.27, EnderCore:0.5.14, EvilCraft:0.9.13, Extended Potions:1.2, Extra Utilities:1.2.12, ExtraTiC:1.4.6, FPS Reducer:mc1.7.10-1.10.3, FTBLib:1.0.18.2, FTBUtilities:1.0.18.2, Forbidden Magic:0.9.16-GTNH, Forestry:4.11.26, Forge Mod Loader:7.10.99.99, Forgotten Relics:1.7.3, GTNH Lib:0.10.8, GTNHLib Core:0.10.8, Gadomancy:1.5.11, Guide-API:1.7.10-1.0.1-20, I\u0027m Looking At Blood:1.1, Iguana Tinker Tweaks:2.7.6, Inventory Bogo Sorter:1.3.28-GTNH, Iron Backpacks:1.7.10-1.2.20, Iron Chests:6.1.13, Iron Furnaces:1.2.4, JourneyMap:5.1.4p3, LunatriusCore:1.1.2.21, MCPatcherForge:1.0.0-alpha, Magic Bees:2.10.9-GTNH, Mantle:0.5.2, MineTweaker 3:3.0.10, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Modular UI 2:2.3.67-1.7.10, Morpheus:1.7.10-1.6.21, Mouse Tweaks:2.5.2-GTNH, Nature\u0027s Compass:1.5.2-GTNH, NotEnoughEnergistics:1.7.29, NotEnoughIDs:2.1.11, NotEnoughItems:2.8.99-GTNH, NotFine:2.1.28, OpenBlocks:1.12.14-GTNH, OpenMods:0.10.14, OpenModsCore:0.10.14, ProjectE:1.7.10-PE1.10.1, RFDrills:1.7.3, Roguelike Dungeons:1.5.0, Sanguimancy:1.7.10-1.1.9-35, TC Inventory Scanning:1.0.11, TC Node Tracker:1.1.2, TC4 Tweak:1.5.3, TCBotaniaExoflame:1.0, Tainted Magic:r7.6, Thaumcraft:4.2.3.5, Thaumic Bases:1.9.18, Thaumic Energistics:1.7.51-GTNH, Thaumic Exploration:1.5.24-GTNH, Thaumic Infusion:4.32, Thaumic Tinkerer Core:0.1, Thaumic Tinkerer:2.12.22, ThaumicHorizons:1.8.20, The Twilight Forest:2.7.33, Thermal Dynamics:1.7.10R1.2.1, Thermal Expansion:1.7.10R4.1.5, Thermal Foundation:1.7.10R1.2.6, TiC Tooltips:1.4.1, Tinkers\u0027 Construct:1.14.76-GTNH-pre, Traveller\u0027s Gear:1.16.6, UniMixins: Compatibility:0.3.0, UniMixins: GTNHMixins:2.2.0, UniMixins: Mixin (UniMix):0.3.0, UniMixins: MixinBooterLegacy:1.2.1, UniMixins: MixinExtras:0.3.0, UniMixins: Mixingasm:0.3, UniMixins: SpongeMixins:2.0.1, UniMixins:0.3.0, UnicodeFontFixer:1.1.12-mc1.7.10, WDMla:2.8.1, Waila:2.8.1, WanionLib:1.7.10-1.8, Witchery++:1.4.15, Witchery:0.24.1, Witching Gadgets:1.8.45-GTNH, menagerie:1.0",
+  "modNames": "AE2 Fluid Crafting:1.5.85-gtnh, AE2 Stuff:0.10.19-GTNH, AE2 Wireless Crafting Terminal:1.12.16, AI Improvements:0.0.1.8, AMCore:0.0.3, Advanced Botany:1.3.1.7, Advanced Thaumaturgy:2.0, Angelica:2.1.28, AnimationAPI:1.2.4, Another One Bites The Dust:2.9.2, Applied Energistics 2 Core:rv3-beta-959-GTNH, Applied Energistics 2:rv3-beta-959-GTNH, Ars Magica 2:1.4.0.009, Aura Cascade:unspecified, Automagy:0.28.2, Avaritia:1.97, Avaritiaddons:1.9.4-GTNH, BD lib:1.11.0-GTNH, Baubles Expanded:2.2.21-GTNH, Baubles:2.2.21-GTNH, Big Reactors:0.4.3A, Blood Magic: Alchemical Wizardry:1.9.4, Bookshelf:1.0.4.187, Botania:1.13.21-GTNH, BugTorch:1.2.14-GTNH, Chisel:2.17.26-GTNH, CoFH ASM:000, CoFH Core:1.7.10R3.1.4, CodeChicken Core:1.4.13, Controlling:2.1.7, Crafting Tweaks:1.0.79, Disenchanter:1.6, DivineRPG:1.4.1.4, DummyCore:1.21.0, Enchanting Plus:3.0.2-d, Ender IO:2.10.27, EnderCore:0.5.14, EvilCraft:0.9.13, Extended Potions:1.2, Extra Utilities:1.2.12, ExtraTiC:1.4.6, FPS Reducer:mc1.7.10-1.10.3, FTBLib:1.0.18.2, FTBUtilities:1.0.18.2, Forbidden Magic:0.9.16-GTNH, Forestry:4.11.26, Forge Mod Loader:7.10.99.99, Forgotten Relics:1.7.3, GTNH Lib:0.10.8, GTNHLib Core:0.10.8, Gadomancy:1.5.11, Guide-API:1.7.10-1.0.1-20, I\u0027m Looking At Blood:1.1, Iguana Tinker Tweaks:2.7.6, Inventory Bogo Sorter:1.3.28-GTNH, Iron Backpacks:1.7.10-1.2.20, Iron Chests:6.1.13, Iron Furnaces:1.2.4, JourneyMap:5.1.4p3, LunatriusCore:1.1.2.21, MCPatcherForge:1.0.0-alpha, Magic Bees:2.10.9-GTNH, Mantle:0.5.2, MineTweaker 3:3.0.10, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Modular UI 2:2.3.67-1.7.10, Morpheus:1.7.10-1.6.21, Mouse Tweaks:2.5.2-GTNH, Nature\u0027s Compass:1.5.2-GTNH, NotEnoughEnergistics:1.7.29, NotEnoughIDs:2.1.11, NotEnoughItems:2.8.99-GTNH, NotFine:2.1.28, OpenBlocks:1.12.14-GTNH, OpenMods:0.10.14, OpenModsCore:0.10.14, ProjectE:1.7.10-PE1.10.1, RFDrills:1.7.3, Roguelike Dungeons:1.5.0, Sanguimancy:1.7.10-1.1.9-35, Smooth Font Core:1.7.10-1.15.1, Smooth Font:1.7.10-1.15.3, TC Inventory Scanning:1.0.11, TC Node Tracker:1.1.2, TC4 Tweak:1.5.3, TCBotaniaExoflame:1.0, Tainted Magic:r7.6, Thaumcraft:4.2.3.5, Thaumic Bases:1.9.18, Thaumic Energistics:1.7.51-GTNH, Thaumic Exploration:1.5.24-GTNH, Thaumic Infusion:4.32, Thaumic Tinkerer Core:0.1, Thaumic Tinkerer:2.12.22, ThaumicHorizons:1.8.20, The Twilight Forest:2.7.33, Thermal Dynamics:1.7.10R1.2.1, Thermal Expansion:1.7.10R4.1.5, Thermal Foundation:1.7.10R1.2.6, TiC Tooltips:1.4.1, Tinkers\u0027 Construct:1.14.76-GTNH-pre, Traveller\u0027s Gear:1.16.6, UniMixins: Compatibility:0.3.0, UniMixins: GTNHMixins:2.2.0, UniMixins: Mixin (UniMix):0.3.0, UniMixins: MixinBooterLegacy:1.2.1, UniMixins: MixinExtras:0.3.0, UniMixins: Mixingasm:0.3, UniMixins: SpongeMixins:2.0.1, UniMixins:0.3.0, WDMla:2.8.1, Waila:2.8.1, WanionLib:1.7.10-1.8, Witchery++:1.4.15, Witchery:0.24.1, Witching Gadgets:1.8.45-GTNH, menagerie:1.0",
   "basicColors": [
     {
       "name": "1024-х ядерный сопроцессор создания",
@@ -2550,7 +2550,8 @@ var colorpalette={
       "name": "Keystone Door",
       "uid": "arsmagica2:keystoneDoor",
       "meta": 0,
-      "color": "#4b657f"
+      "color": "#4b657f",
+      "alpha": 0.7607843
     },
     {
       "name": "Lantern",
@@ -3060,7 +3061,8 @@ var colorpalette={
       "name": "Liquid Etherium",
       "uid": "arsmagica2:liquidEssence",
       "meta": 0,
-      "color": "#b7daff"
+      "color": "#b7daff",
+      "alpha": 0.7019608
     },
     {
       "name": "ME Storage Reshuffle",
@@ -4191,7 +4193,7 @@ var colorpalette={
       "color": "#6e4153"
     },
     {
-      "name": "QED (Quacky Ender Device)",
+      "name": "QED (Quantum Entanglement Diviner)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
@@ -4734,7 +4736,8 @@ var colorpalette={
       "name": "Spell-Sealed Door",
       "uid": "arsmagica2:spellSealedDoor",
       "meta": 0,
-      "color": "#4b657f"
+      "color": "#4b657f",
+      "alpha": 0.7607843
     },
     {
       "name": "Structural Concrete",
@@ -4782,7 +4785,8 @@ var colorpalette={
       "name": "Structural Concrete",
       "uid": "chisel:nucrete",
       "meta": 7,
-      "color": "#515f5e"
+      "color": "#515f5e",
+      "alpha": 0.99607843
     },
     {
       "name": "Structural Concrete",
@@ -4830,7 +4834,8 @@ var colorpalette={
       "name": "Structural Concrete",
       "uid": "chisel:nucrete",
       "meta": 15,
-      "color": "#515f5e"
+      "color": "#515f5e",
+      "alpha": 0.99607843
     },
     {
       "name": "Svelstone block",
@@ -5467,7 +5472,8 @@ var colorpalette={
       "name": "Wizard\u0027s Chalk Rune",
       "uid": "arsmagica2:wizardChalk",
       "meta": 0,
-      "color": "#f4fdff"
+      "color": "#f4fdff",
+      "alpha": 0.49019608
     },
     {
       "name": "Yellow Terracotta",
@@ -5850,7 +5856,8 @@ var colorpalette={
       "name": "tile.witchery:brewgas.name",
       "uid": "witchery:brewgas",
       "meta": 0,
-      "color": "#c3c3c3"
+      "color": "#c3c3c3",
+      "alpha": 0.5372549
     },
     {
       "name": "tile.witchery:brewliquid.name",
@@ -5912,7 +5919,8 @@ var colorpalette={
       "name": "Автоматическая наковальня",
       "uid": "OpenBlocks:autoanvil",
       "meta": 0,
-      "color": "#404040"
+      "color": "#404040",
+      "alpha": 0.99607843
     },
     {
       "name": "Автоматическая стамеска",
@@ -6869,7 +6877,8 @@ var colorpalette={
       "name": "Аум",
       "uid": "arsmagica2:Aum",
       "meta": 0,
-      "color": "#779767"
+      "color": "#779767",
+      "alpha": 0.99607843
     },
     {
       "name": "Аура-пилон",
@@ -7809,7 +7818,8 @@ var colorpalette={
       "name": "Бирюзовый мерцающий гриб",
       "uid": "Botania:mushroom",
       "meta": 9,
-      "color": "#42ad9e"
+      "color": "#42ad9e",
+      "alpha": 0.9843137
     },
     {
       "name": "Бирюзовый нестабильный куб",
@@ -7966,7 +7976,8 @@ var colorpalette={
       "name": "Блок Памяти",
       "uid": "Automagy:blockMetalGlow",
       "meta": 0,
-      "color": "#4c3e2e"
+      "color": "#4c3e2e",
+      "alpha": 0.99607843
     },
     {
       "name": "Блок Пустотного Металла",
@@ -8671,97 +8682,113 @@ var colorpalette={
       "name": "Большое хекс-покрытие",
       "uid": "chisel:hexLargePlating",
       "meta": 0,
-      "color": "#505c5b"
+      "color": "#505c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Большое хекс-покрытие",
       "uid": "chisel:hexLargePlating",
       "meta": 1,
-      "color": "#505c5b"
+      "color": "#505c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Большое хекс-покрытие",
       "uid": "chisel:hexLargePlating",
       "meta": 2,
-      "color": "#505c5b"
+      "color": "#505c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Большое хекс-покрытие",
       "uid": "chisel:hexLargePlating",
       "meta": 3,
-      "color": "#505c5b"
+      "color": "#505c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Большое хекс-покрытие",
       "uid": "chisel:hexLargePlating",
       "meta": 4,
-      "color": "#505c5b"
+      "color": "#505c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Большое хекс-покрытие",
       "uid": "chisel:hexLargePlating",
       "meta": 5,
-      "color": "#505c5b"
+      "color": "#505c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Большое хекс-покрытие",
       "uid": "chisel:hexLargePlating",
       "meta": 6,
-      "color": "#505c5b"
+      "color": "#505c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Большое хекс-покрытие",
       "uid": "chisel:hexLargePlating",
       "meta": 7,
-      "color": "#505c5b"
+      "color": "#505c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Большое хекс-покрытие",
       "uid": "chisel:hexLargePlating",
       "meta": 8,
-      "color": "#505c5b"
+      "color": "#505c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Большое хекс-покрытие",
       "uid": "chisel:hexLargePlating",
       "meta": 9,
-      "color": "#505c5b"
+      "color": "#505c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Большое хекс-покрытие",
       "uid": "chisel:hexLargePlating",
       "meta": 10,
-      "color": "#505c5b"
+      "color": "#505c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Большое хекс-покрытие",
       "uid": "chisel:hexLargePlating",
       "meta": 11,
-      "color": "#505c5b"
+      "color": "#505c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Большое хекс-покрытие",
       "uid": "chisel:hexLargePlating",
       "meta": 12,
-      "color": "#505c5b"
+      "color": "#505c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Большое хекс-покрытие",
       "uid": "chisel:hexLargePlating",
       "meta": 13,
-      "color": "#505c5b"
+      "color": "#505c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Большое хекс-покрытие",
       "uid": "chisel:hexLargePlating",
       "meta": 14,
-      "color": "#505c5b"
+      "color": "#505c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Большое хекс-покрытие",
       "uid": "chisel:hexLargePlating",
       "meta": 15,
-      "color": "#505c5b"
+      "color": "#505c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Большой буфер ингредиентов",
@@ -9091,7 +9118,8 @@ var colorpalette={
       "name": "Буфер для эссенции",
       "uid": "Thaumcraft:blockTube",
       "meta": 4,
-      "color": "#433e2b"
+      "color": "#433e2b",
+      "alpha": 0.93333334
     },
     {
       "name": "Буфер ингредиентов",
@@ -9321,7 +9349,8 @@ var colorpalette={
       "name": "Висовик",
       "uid": "thaumicbases:ashroom",
       "meta": 0,
-      "color": "#9d497a"
+      "color": "#9d497a",
+      "alpha": 0.9647059
     },
     {
       "name": "Висомор",
@@ -9385,49 +9414,57 @@ var colorpalette={
       "name": "Водный артишок",
       "uid": "witchery:artichoke",
       "meta": 0,
-      "color": "#145a3e"
+      "color": "#145a3e",
+      "alpha": 0.24313726
     },
     {
       "name": "Водный камень",
       "uid": "chisel:waterstone",
       "meta": 0,
-      "color": "#7e7e7e"
+      "color": "#7e7e7e",
+      "alpha": 0.7764706
     },
     {
       "name": "Водный камень",
       "uid": "chisel:waterstone",
       "meta": 1,
-      "color": "#212121"
+      "color": "#212121",
+      "alpha": 0.76862746
     },
     {
       "name": "Водный камень",
       "uid": "chisel:waterstone",
       "meta": 2,
-      "color": "#7f7f7f"
+      "color": "#7f7f7f",
+      "alpha": 0.76862746
     },
     {
       "name": "Водный камень",
       "uid": "chisel:waterstone",
       "meta": 3,
-      "color": "#6a6a6a"
+      "color": "#6a6a6a",
+      "alpha": 0.69411767
     },
     {
       "name": "Водный камень",
       "uid": "chisel:waterstone",
       "meta": 4,
-      "color": "#818181"
+      "color": "#818181",
+      "alpha": 0.9254902
     },
     {
       "name": "Водный камень",
       "uid": "chisel:waterstone",
       "meta": 5,
-      "color": "#737373"
+      "color": "#737373",
+      "alpha": 0.8666667
     },
     {
       "name": "Водный камень",
       "uid": "chisel:waterstone",
       "meta": 6,
-      "color": "#858585"
+      "color": "#858585",
+      "alpha": 0.93333334
     },
     {
       "name": "Водяная лампа",
@@ -9559,7 +9596,7 @@ var colorpalette={
       "name": "Восстанавливающийся блок",
       "uid": "TwilightForest:tile.TFTowerTranslucent",
       "meta": 5,
-      "color": "#6f3634",
+      "color": "#14121d",
       "alpha": 0.4
     },
     {
@@ -10706,7 +10743,8 @@ var colorpalette={
       "name": "Дикая ежевика",
       "uid": "witchery:bramble",
       "meta": 1,
-      "color": "#463625"
+      "color": "#463625",
+      "alpha": 0.99215686
     },
     {
       "name": "Динамит",
@@ -12285,13 +12323,15 @@ var colorpalette={
       "name": "Ежевика Края",
       "uid": "witchery:bramble",
       "meta": 0,
-      "color": "#533032"
+      "color": "#533032",
+      "alpha": 0.99215686
     },
     {
       "name": "Ежевика пустоты",
       "uid": "witchery:voidbramble",
       "meta": 0,
-      "color": "#50263a"
+      "color": "#50263a",
+      "alpha": 0.99215686
     },
     {
       "name": "Еловая древесина",
@@ -12757,7 +12797,8 @@ var colorpalette={
       "name": "Жидкий кремний",
       "uid": "ExtraTiC:liquidSilicon",
       "meta": 0,
-      "color": "#4e4850"
+      "color": "#4e4850",
+      "alpha": 0.7019608
     },
     {
       "name": "Жидкий солнечный свет",
@@ -12783,7 +12824,8 @@ var colorpalette={
       "name": "Жидкое стекло",
       "uid": "Forestry:fluid.glass",
       "meta": 0,
-      "color": "#a3a3a3"
+      "color": "#a3a3a3",
+      "alpha": 0.7019608
     },
     {
       "name": "Жидкостный резервуар",
@@ -13769,7 +13811,8 @@ var colorpalette={
       "name": "Замшелый храмовый блок",
       "uid": "chisel:mossy_templeblock",
       "meta": 3,
-      "color": "#505d5c"
+      "color": "#505d5c",
+      "alpha": 0.99607843
     },
     {
       "name": "Замшелый храмовый блок",
@@ -13885,7 +13928,8 @@ var colorpalette={
       "name": "Запрещённый блок двери",
       "uid": "divinerpg:barredDoorBlock",
       "meta": 0,
-      "color": "#103417"
+      "color": "#103417",
+      "alpha": 0.9882353
     },
     {
       "name": "Зараженная Кристалльная плита",
@@ -13918,7 +13962,8 @@ var colorpalette={
       "name": "Заражённая слизь",
       "uid": "Thaumcraft:blockFluxGoo",
       "meta": 0,
-      "color": "#831aa3"
+      "color": "#831aa3",
+      "alpha": 0.7294118
     },
     {
       "name": "Заражённое бревно",
@@ -13930,7 +13975,8 @@ var colorpalette={
       "name": "Заражённое волокно",
       "uid": "Thaumcraft:blockTaintFibres",
       "meta": 0,
-      "color": "#4b4b4b"
+      "color": "#4b4b4b",
+      "alpha": 0.60784316
     },
     {
       "name": "Заражённое волокно",
@@ -13966,7 +14012,8 @@ var colorpalette={
       "name": "Заражённый газ",
       "uid": "Thaumcraft:blockFluxGas",
       "meta": 0,
-      "color": "#831aa3"
+      "color": "#831aa3",
+      "alpha": 0.31764707
     },
     {
       "name": "Заражённый камень",
@@ -14002,7 +14049,8 @@ var colorpalette={
       "name": "Зараза",
       "uid": "witchery:disease",
       "meta": 0,
-      "color": "#6a2300"
+      "color": "#6a2300",
+      "alpha": 0.003921569
     },
     {
       "name": "Заросший камень",
@@ -14038,7 +14086,8 @@ var colorpalette={
       "name": "Заряженный пустотный камень",
       "uid": "chisel:voidstone2",
       "meta": 0,
-      "color": "#442251"
+      "color": "#442251",
+      "alpha": 0.84313726
     },
     {
       "name": "Заряженный пустотный камень",
@@ -14086,7 +14135,8 @@ var colorpalette={
       "name": "Заряженный светящийся камень",
       "uid": "ThermalFoundation:FluidGlowstone",
       "meta": 0,
-      "color": "#fdd806"
+      "color": "#fdd806",
+      "alpha": 0.8
     },
     {
       "name": "Застывшая зелёная слизь",
@@ -14180,7 +14230,8 @@ var colorpalette={
       "name": "Зеленое силовое поле",
       "uid": "TwilightForest:tile.ForceField",
       "meta": 3,
-      "color": "#89e701"
+      "color": "#89e701",
+      "alpha": 0.52156866
     },
     {
       "name": "Зеленый кристалл",
@@ -15172,7 +15223,8 @@ var colorpalette={
       "name": "Изначальная мана",
       "uid": "ThermalFoundation:FluidMana",
       "meta": 0,
-      "color": "#3c0071"
+      "color": "#3c0071",
+      "alpha": 0.9019608
     },
     {
       "name": "Изумрудная руда",
@@ -15524,7 +15576,8 @@ var colorpalette={
       "name": "Исцеляющий чан",
       "uid": "ThaumicHorizons:vat",
       "meta": 0,
-      "color": "#91b7e2"
+      "color": "#91b7e2",
+      "alpha": 0.34117648
     },
     {
       "name": "Исцеляющий чан",
@@ -15831,7 +15884,8 @@ var colorpalette={
       "name": "Камень Края",
       "uid": "chisel:end_Stone",
       "meta": 8,
-      "color": "#52605f"
+      "color": "#52605f",
+      "alpha": 0.99607843
     },
     {
       "name": "Камень Края",
@@ -17065,7 +17119,8 @@ var colorpalette={
       "name": "Корень тарма",
       "uid": "arsmagica2:TarmaRoot",
       "meta": 0,
-      "color": "#715e21"
+      "color": "#715e21",
+      "alpha": 0.9764706
     },
     {
       "name": "Коричневая минеральная шерсть",
@@ -17251,7 +17306,8 @@ var colorpalette={
       "name": "Краеугольный приёмник",
       "uid": "arsmagica2:keystoneReceptacle",
       "meta": 0,
-      "color": "#737a9e"
+      "color": "#737a9e",
+      "alpha": 0.9882353
     },
     {
       "name": "Красивая обожжённая плита",
@@ -18234,43 +18290,50 @@ var colorpalette={
       "name": "Лавовый камень",
       "uid": "chisel:lavastone",
       "meta": 0,
-      "color": "#8f776c"
+      "color": "#8f776c",
+      "alpha": 0.85882354
     },
     {
       "name": "Лавовый камень",
       "uid": "chisel:lavastone",
       "meta": 1,
-      "color": "#41271b"
+      "color": "#41271b",
+      "alpha": 0.85882354
     },
     {
       "name": "Лавовый камень",
       "uid": "chisel:lavastone",
       "meta": 2,
-      "color": "#8d7a72"
+      "color": "#8d7a72",
+      "alpha": 0.79607844
     },
     {
       "name": "Лавовый камень",
       "uid": "chisel:lavastone",
       "meta": 3,
-      "color": "#76665f"
+      "color": "#76665f",
+      "alpha": 0.7372549
     },
     {
       "name": "Лавовый камень",
       "uid": "chisel:lavastone",
       "meta": 4,
-      "color": "#867f7d"
+      "color": "#867f7d",
+      "alpha": 0.93333334
     },
     {
       "name": "Лавовый камень",
       "uid": "chisel:lavastone",
       "meta": 5,
-      "color": "#757575"
+      "color": "#757575",
+      "alpha": 0.85882354
     },
     {
       "name": "Лавовый камень",
       "uid": "chisel:lavastone",
       "meta": 6,
-      "color": "#858585"
+      "color": "#858585",
+      "alpha": 0.93333334
     },
     {
       "name": "Лавовый камень",
@@ -18698,7 +18761,8 @@ var colorpalette={
       "name": "Ледяной криотеум",
       "uid": "ThermalFoundation:FluidCryotheum",
       "meta": 0,
-      "color": "#22befa"
+      "color": "#22befa",
+      "alpha": 0.8980392
     },
     {
       "name": "Ледяной кристальный кластер",
@@ -19656,13 +19720,15 @@ var colorpalette={
       "name": "Магический каменный блок",
       "uid": "chisel:arcane",
       "meta": 3,
-      "color": "#586766"
+      "color": "#586766",
+      "alpha": 0.99607843
     },
     {
       "name": "Магический каменный блок",
       "uid": "chisel:arcane",
       "meta": 4,
-      "color": "#586766"
+      "color": "#586766",
+      "alpha": 0.99607843
     },
     {
       "name": "Магический каменный блок",
@@ -19692,19 +19758,22 @@ var colorpalette={
       "name": "Магический каменный блок",
       "uid": "chisel:arcane",
       "meta": 9,
-      "color": "#526160"
+      "color": "#526160",
+      "alpha": 0.99607843
     },
     {
       "name": "Магический каменный блок",
       "uid": "chisel:arcane",
       "meta": 10,
-      "color": "#52605f"
+      "color": "#52605f",
+      "alpha": 0.99607843
     },
     {
       "name": "Магический каменный блок",
       "uid": "chisel:arcane",
       "meta": 11,
-      "color": "#515e5d"
+      "color": "#515e5d",
+      "alpha": 0.99607843
     },
     {
       "name": "Магический камень",
@@ -19716,7 +19785,8 @@ var colorpalette={
       "name": "Магический карандаш",
       "uid": "OpenBlocks:imaginary",
       "meta": 0,
-      "color": "#000000"
+      "color": "#000000",
+      "alpha": 0.12156863
     },
     {
       "name": "Магический кирпич",
@@ -19789,7 +19859,8 @@ var colorpalette={
       "name": "Майндрейк",
       "uid": "witchery:mindrake",
       "meta": 0,
-      "color": "#175112"
+      "color": "#175112",
+      "alpha": 0.64705884
     },
     {
       "name": "Мак",
@@ -19875,7 +19946,8 @@ var colorpalette={
       "name": "Мандрагора",
       "uid": "witchery:mandrake",
       "meta": 0,
-      "color": "#0d5d06"
+      "color": "#0d5d06",
+      "alpha": 0.6666667
     },
     {
       "name": "Манипулятор алтаря",
@@ -22053,7 +22125,8 @@ var colorpalette={
       "name": "Невесомый аэротеум",
       "uid": "ThermalFoundation:FluidAerotheum",
       "meta": 0,
-      "color": "#ada77b"
+      "color": "#ada77b",
+      "alpha": 0.7019608
     },
     {
       "name": "Невидимый Писарь",
@@ -22206,7 +22279,8 @@ var colorpalette={
       "name": "Нить",
       "uid": "minecraft:tripwire",
       "meta": 0,
-      "color": "#818181"
+      "color": "#818181",
+      "alpha": 0.41960785
     },
     {
       "name": "Нить-трава",
@@ -22683,7 +22757,8 @@ var colorpalette={
       "name": "Огненная вода",
       "uid": "EnderIO:blockFire_water",
       "meta": 0,
-      "color": "#8a490f"
+      "color": "#8a490f",
+      "alpha": 0.54901963
     },
     {
       "name": "Огненная древесина",
@@ -22726,7 +22801,8 @@ var colorpalette={
       "name": "Огненная эссенция",
       "uid": "TwilightForest:fiery_essence",
       "meta": 0,
-      "color": "#420000"
+      "color": "#420000",
+      "alpha": 0.7019608
     },
     {
       "name": "Огненный Кристальный блок",
@@ -25585,7 +25661,8 @@ var colorpalette={
       "name": "Оранжевое силовое поле",
       "uid": "TwilightForest:tile.ForceField",
       "meta": 2,
-      "color": "#ff5b02"
+      "color": "#ff5b02",
+      "alpha": 0.33333334
     },
     {
       "name": "Оранжевое стекло",
@@ -25834,7 +25911,8 @@ var colorpalette={
       "name": "Пар",
       "uid": "ThermalFoundation:FluidSteam",
       "meta": 0,
-      "color": "#b3b3b3"
+      "color": "#b3b3b3",
+      "alpha": 0.8
     },
     {
       "name": "Пар лёгкости",
@@ -26213,7 +26291,8 @@ var colorpalette={
       "name": "Песочные часы",
       "uid": "Botania:hourglass",
       "meta": 0,
-      "color": "#b1bdff"
+      "color": "#b1bdff",
+      "alpha": 0.2
     },
     {
       "name": "Песочный змеиный камень",
@@ -26585,7 +26664,8 @@ var colorpalette={
       "name": "Пион",
       "uid": "minecraft:double_plant",
       "meta": 5,
-      "color": "#85868e"
+      "color": "#85868e",
+      "alpha": 0.9882353
     },
     {
       "name": "Пироплазма",
@@ -28547,7 +28627,8 @@ var colorpalette={
       "name": "Поставщик наполнения",
       "uid": "thaumicenergistics:thaumicenergistics.block.infusion.provider",
       "meta": 0,
-      "color": "#535353"
+      "color": "#535353",
+      "alpha": 0.3529412
     },
     {
       "name": "Поставщик эссенции",
@@ -28688,13 +28769,15 @@ var colorpalette={
       "name": "Предупреждающая табличка",
       "uid": "chisel:warningSign",
       "meta": 0,
-      "color": "#c7c405"
+      "color": "#c7c405",
+      "alpha": 0.9882353
     },
     {
       "name": "Предупреждающая табличка",
       "uid": "chisel:warningSign",
       "meta": 1,
-      "color": "#197a0d"
+      "color": "#197a0d",
+      "alpha": 0.9764706
     },
     {
       "name": "Предупреждающая табличка",
@@ -28730,7 +28813,8 @@ var colorpalette={
       "name": "Предупреждающая табличка",
       "uid": "chisel:warningSign",
       "meta": 7,
-      "color": "#bc931c"
+      "color": "#bc931c",
+      "alpha": 0.9882353
     },
     {
       "name": "Предупреждающая табличка",
@@ -28754,13 +28838,15 @@ var colorpalette={
       "name": "Предупреждающая табличка",
       "uid": "chisel:warningSign",
       "meta": 11,
-      "color": "#9b9b9b"
+      "color": "#9b9b9b",
+      "alpha": 0.9411765
     },
     {
       "name": "Предупреждающая табличка",
       "uid": "chisel:warningSign",
       "meta": 12,
-      "color": "#b5b5b5"
+      "color": "#b5b5b5",
+      "alpha": 0.9254902
     },
     {
       "name": "Предупреждающая табличка",
@@ -28973,13 +29059,15 @@ var colorpalette={
       "name": "Промышленный технический блок",
       "uid": "chisel:technical3",
       "meta": 0,
-      "color": "#4f5c5b"
+      "color": "#4f5c5b",
+      "alpha": 0.99607843
     },
     {
       "name": "Промышленный технический блок",
       "uid": "chisel:technical3",
       "meta": 1,
-      "color": "#515f5e"
+      "color": "#515f5e",
+      "alpha": 0.99607843
     },
     {
       "name": "Пропитанный Aer огонь",
@@ -29434,13 +29522,15 @@ var colorpalette={
       "name": "Пылающий Янтарь",
       "uid": "Automagy:blockTranslucent",
       "meta": 0,
-      "color": "#f1b761"
+      "color": "#f1b761",
+      "alpha": 0.9098039
     },
     {
       "name": "Пылающий пиротеум",
       "uid": "ThermalFoundation:FluidPyrotheum",
       "meta": 0,
-      "color": "#febb2f"
+      "color": "#febb2f",
+      "alpha": 0.8666667
     },
     {
       "name": "Пыль",
@@ -29452,7 +29542,8 @@ var colorpalette={
       "name": "Пыльная лилия",
       "uid": "divinerpg:dustLily",
       "meta": 0,
-      "color": "#a2a2a2"
+      "color": "#a2a2a2",
+      "alpha": 0.99607843
     },
     {
       "name": "Пыльные колючки",
@@ -29866,7 +29957,8 @@ var colorpalette={
       "name": "Расплавленное стекло",
       "uid": "TConstruct:fluid.molten.glass",
       "meta": 0,
-      "color": "#9feefd"
+      "color": "#9feefd",
+      "alpha": 0.7019608
     },
     {
       "name": "Расплавленной алюминий",
@@ -30232,103 +30324,120 @@ var colorpalette={
       "name": "Резервуар крови",
       "uid": "Sanguimancy:BlockBloodTank",
       "meta": 0,
-      "color": "#940000"
+      "color": "#940000",
+      "alpha": 0.87058824
     },
     {
       "name": "Резервуар крови",
       "uid": "Sanguimancy:BlockBloodTank",
       "meta": 1,
-      "color": "#940000"
+      "color": "#940000",
+      "alpha": 0.87058824
     },
     {
       "name": "Резервуар крови",
       "uid": "Sanguimancy:BlockBloodTank",
       "meta": 2,
-      "color": "#940000"
+      "color": "#940000",
+      "alpha": 0.87058824
     },
     {
       "name": "Резервуар крови",
       "uid": "Sanguimancy:BlockBloodTank",
       "meta": 3,
-      "color": "#940000"
+      "color": "#940000",
+      "alpha": 0.87058824
     },
     {
       "name": "Резервуар крови",
       "uid": "Sanguimancy:BlockBloodTank",
       "meta": 4,
-      "color": "#940000"
+      "color": "#940000",
+      "alpha": 0.87058824
     },
     {
       "name": "Резервуар крови",
       "uid": "Sanguimancy:BlockBloodTank",
       "meta": 5,
-      "color": "#940000"
+      "color": "#940000",
+      "alpha": 0.87058824
     },
     {
       "name": "Резервуар крови",
       "uid": "Sanguimancy:BlockBloodTank",
       "meta": 6,
-      "color": "#940000"
+      "color": "#940000",
+      "alpha": 0.87058824
     },
     {
       "name": "Резервуар крови",
       "uid": "Sanguimancy:BlockBloodTank",
       "meta": 7,
-      "color": "#940000"
+      "color": "#940000",
+      "alpha": 0.87058824
     },
     {
       "name": "Резервуар крови",
       "uid": "Sanguimancy:BlockBloodTank",
       "meta": 8,
-      "color": "#940000"
+      "color": "#940000",
+      "alpha": 0.87058824
     },
     {
       "name": "Резервуар крови",
       "uid": "Sanguimancy:BlockBloodTank",
       "meta": 9,
-      "color": "#940000"
+      "color": "#940000",
+      "alpha": 0.87058824
     },
     {
       "name": "Резервуар крови",
       "uid": "Sanguimancy:BlockBloodTank",
       "meta": 10,
-      "color": "#940000"
+      "color": "#940000",
+      "alpha": 0.87058824
     },
     {
       "name": "Резервуар крови",
       "uid": "Sanguimancy:BlockBloodTank",
       "meta": 11,
-      "color": "#940000"
+      "color": "#940000",
+      "alpha": 0.87058824
     },
     {
       "name": "Резервуар крови",
       "uid": "Sanguimancy:BlockBloodTank",
       "meta": 12,
-      "color": "#940000"
+      "color": "#940000",
+      "alpha": 0.87058824
     },
     {
       "name": "Резервуар крови",
       "uid": "Sanguimancy:BlockBloodTank",
       "meta": 13,
-      "color": "#940000"
+      "color": "#940000",
+      "alpha": 0.87058824
     },
     {
       "name": "Резервуар крови",
       "uid": "Sanguimancy:BlockBloodTank",
       "meta": 14,
-      "color": "#940000"
+      "color": "#940000",
+      "alpha": 0.87058824
     },
     {
       "name": "Резервуар крови",
       "uid": "Sanguimancy:BlockBloodTank",
       "meta": 15,
-      "color": "#940000"
+      "color": "#940000",
+      "alpha": 0.87058824
     },
     {
       "name": "Резервуар эссенции",
       "uid": "Thaumcraft:blockEssentiaReservoir",
       "meta": 0,
-      "color": "#708cab"
+      "color": "#708cab",
+      "alpha": 0.4117647
     },
     {
       "name": "Резная древесина мечтаний",
@@ -30614,7 +30723,8 @@ var colorpalette={
       "name": "Резонирующий эндериум",
       "uid": "ThermalFoundation:FluidEnder",
       "meta": 0,
-      "color": "#083c3c"
+      "color": "#083c3c",
+      "alpha": 0.8509804
     },
     {
       "name": "Реле из антиматерии MK1",
@@ -30875,7 +30985,8 @@ var colorpalette={
       "name": "Розовое силовое поле",
       "uid": "TwilightForest:tile.ForceField",
       "meta": 1,
-      "color": "#fa057e"
+      "color": "#fa057e",
+      "alpha": 0.42745098
     },
     {
       "name": "Розовое стекло",
@@ -30950,7 +31061,8 @@ var colorpalette={
       "name": "Розовый мерцающий гриб",
       "uid": "Botania:mushroom",
       "meta": 6,
-      "color": "#e09188"
+      "color": "#e09188",
+      "alpha": 0.9882353
     },
     {
       "name": "Розовый нестабильный куб",
@@ -31071,7 +31183,8 @@ var colorpalette={
       "name": "Руководитель по строительству",
       "uid": "OpenBlocks:guide",
       "meta": 0,
-      "color": "#cccccc"
+      "color": "#cccccc",
+      "alpha": 0.58431375
     },
     {
       "name": "Руна дислокации",
@@ -31534,7 +31647,8 @@ var colorpalette={
       "name": "Саженец разноцветного дерева",
       "uid": "TwilightForest:tile.TFSapling",
       "meta": 9,
-      "color": "#626b4b"
+      "color": "#626b4b",
+      "alpha": 0.95686275
     },
     {
       "name": "Саженец серебрянного дерева",
@@ -31552,7 +31666,8 @@ var colorpalette={
       "name": "Саженец сумеречного дуба",
       "uid": "TwilightForest:tile.TFSapling",
       "meta": 0,
-      "color": "#496831"
+      "color": "#496831",
+      "alpha": 0.95686275
     },
     {
       "name": "Саженец сумеречной берёзы",
@@ -31920,7 +32035,8 @@ var colorpalette={
       "name": "Светло-серый мерцающий гриб",
       "uid": "Botania:mushroom",
       "meta": 8,
-      "color": "#b5a99c"
+      "color": "#b5a99c",
+      "alpha": 0.99607843
     },
     {
       "name": "Светло-серый нестабильный куб",
@@ -32013,7 +32129,8 @@ var colorpalette={
       "name": "Светогриб",
       "uid": "TwilightForest:tile.TFPlant",
       "meta": 9,
-      "color": "#b8a86a"
+      "color": "#b8a86a",
+      "alpha": 0.92941177
     },
     {
       "name": "Светодетектор",
@@ -32381,7 +32498,8 @@ var colorpalette={
       "name": "Секретер",
       "uid": "Forestry:core",
       "meta": 1,
-      "color": "#8a4f1f"
+      "color": "#8a4f1f",
+      "alpha": 0.99607843
     },
     {
       "name": "Семена лилии Края",
@@ -32665,7 +32783,8 @@ var colorpalette={
       "name": "Синее силовое поле",
       "uid": "TwilightForest:tile.ForceField",
       "meta": 4,
-      "color": "#0ddeff"
+      "color": "#0ddeff",
+      "alpha": 0.52156866
     },
     {
       "name": "Синее стекло",
@@ -33018,7 +33137,8 @@ var colorpalette={
       "name": "Сломанное соединение связи",
       "uid": "arsmagica2:brokenLinkBlock",
       "meta": 0,
-      "color": "#ea1616"
+      "color": "#ea1616",
+      "alpha": 0.5137255
     },
     {
       "name": "Смеситель краски",
@@ -33408,7 +33528,8 @@ var colorpalette={
       "name": "Стальная Рожь",
       "uid": "thaumicbases:metalleat",
       "meta": 0,
-      "color": "#91b4b4"
+      "color": "#91b4b4",
+      "alpha": 0.6666667
     },
     {
       "name": "Стальная листва",
@@ -34835,13 +34956,15 @@ var colorpalette={
       "name": "Сумеречный цвет",
       "uid": "divinerpg:duskBloom",
       "meta": 0,
-      "color": "#afa4bd"
+      "color": "#afa4bd",
+      "alpha": 0.9843137
     },
     {
       "name": "Сумеречный цветок",
       "uid": "divinerpg:duskFlower",
       "meta": 0,
-      "color": "#583d78"
+      "color": "#583d78",
+      "alpha": 0.99215686
     },
     {
       "name": "Сундук",
@@ -35165,7 +35288,8 @@ var colorpalette={
       "name": "Тар",
       "uid": "divinerpg:Tar",
       "meta": 0,
-      "color": "#1a1a1a"
+      "color": "#1a1a1a",
+      "alpha": 0.9882353
     },
     {
       "name": "Таум - Сборочный ящик",
@@ -35468,7 +35592,8 @@ var colorpalette={
       "name": "Технический блок",
       "uid": "chisel:technical",
       "meta": 12,
-      "color": "#505e5d"
+      "color": "#505e5d",
+      "alpha": 0.99607843
     },
     {
       "name": "Технический блок",
@@ -35522,13 +35647,15 @@ var colorpalette={
       "name": "Технический блок",
       "uid": "chisel:technical4",
       "meta": 5,
-      "color": "#515e5d"
+      "color": "#515e5d",
+      "alpha": 0.99607843
     },
     {
       "name": "Технический блок",
       "uid": "chisel:technical4",
       "meta": 6,
-      "color": "#505e5d"
+      "color": "#505e5d",
+      "alpha": 0.99607843
     },
     {
       "name": "Технический блок",
@@ -35696,7 +35823,8 @@ var colorpalette={
       "name": "Тонкий шёлк",
       "uid": "witchery:somniancotton",
       "meta": 0,
-      "color": "#5f814d"
+      "color": "#5f814d",
+      "alpha": 0.92941177
     },
     {
       "name": "Торба",
@@ -36668,7 +36796,8 @@ var colorpalette={
       "name": "Улучшенная алхимическая конструкция",
       "uid": "Thaumcraft:blockMetalDevice",
       "meta": 3,
-      "color": "#83633d"
+      "color": "#83633d",
+      "alpha": 0.99607843
     },
     {
       "name": "Улучшенная алхимическая печь",
@@ -36680,13 +36809,15 @@ var colorpalette={
       "name": "Улучшенный поставщик наполнения",
       "uid": "thaumicenergistics:thaumicenergistics.block.advanced.infusion.provider",
       "meta": 0,
-      "color": "#535353"
+      "color": "#535353",
+      "alpha": 0.3529412
     },
     {
       "name": "Улучшенный руководитель по строительству",
       "uid": "OpenBlocks:builder_guide",
       "meta": 0,
-      "color": "#cccccc"
+      "color": "#cccccc",
+      "alpha": 0.58431375
     },
     {
       "name": "Улучшенный узел-стабилизатор",
@@ -36773,7 +36904,8 @@ var colorpalette={
       "name": "Усиленное стекло",
       "uid": "Thaumcraft:blockCosmeticOpaque",
       "meta": 2,
-      "color": "#798ca2"
+      "color": "#798ca2",
+      "alpha": 0.42745098
     },
     {
       "name": "Усиленное тёмное стекло",
@@ -36957,7 +37089,8 @@ var colorpalette={
       "name": "Фабричный блок",
       "uid": "chisel:factoryblock",
       "meta": 13,
-      "color": "#52605f"
+      "color": "#52605f",
+      "alpha": 0.99607843
     },
     {
       "name": "Фабричный блок",
@@ -37101,7 +37234,8 @@ var colorpalette={
       "name": "Факелонтовый росток",
       "uid": "TwilightForest:tile.TFPlant",
       "meta": 13,
-      "color": "#a8ae66"
+      "color": "#a8ae66",
+      "alpha": 0.972549
     },
     {
       "name": "Фантастический блок",
@@ -37326,7 +37460,8 @@ var colorpalette={
       "name": "Фиолетовое силовое поле",
       "uid": "TwilightForest:tile.ForceField",
       "meta": 0,
-      "color": "#5c1074"
+      "color": "#5c1074",
+      "alpha": 0.29803923
     },
     {
       "name": "Фиолетовое стекло",
@@ -37510,97 +37645,113 @@ var colorpalette={
       "name": "Футура-контур",
       "uid": "chisel:futuraCircuit",
       "meta": 0,
-      "color": "#52605e"
+      "color": "#52605e",
+      "alpha": 0.99607843
     },
     {
       "name": "Футура-контур",
       "uid": "chisel:futuraCircuit",
       "meta": 1,
-      "color": "#52605e"
+      "color": "#52605e",
+      "alpha": 0.99607843
     },
     {
       "name": "Футура-контур",
       "uid": "chisel:futuraCircuit",
       "meta": 2,
-      "color": "#52605e"
+      "color": "#52605e",
+      "alpha": 0.99607843
     },
     {
       "name": "Футура-контур",
       "uid": "chisel:futuraCircuit",
       "meta": 3,
-      "color": "#52605e"
+      "color": "#52605e",
+      "alpha": 0.99607843
     },
     {
       "name": "Футура-контур",
       "uid": "chisel:futuraCircuit",
       "meta": 4,
-      "color": "#52605e"
+      "color": "#52605e",
+      "alpha": 0.99607843
     },
     {
       "name": "Футура-контур",
       "uid": "chisel:futuraCircuit",
       "meta": 5,
-      "color": "#52605e"
+      "color": "#52605e",
+      "alpha": 0.99607843
     },
     {
       "name": "Футура-контур",
       "uid": "chisel:futuraCircuit",
       "meta": 6,
-      "color": "#52605e"
+      "color": "#52605e",
+      "alpha": 0.99607843
     },
     {
       "name": "Футура-контур",
       "uid": "chisel:futuraCircuit",
       "meta": 7,
-      "color": "#52605e"
+      "color": "#52605e",
+      "alpha": 0.99607843
     },
     {
       "name": "Футура-контур",
       "uid": "chisel:futuraCircuit",
       "meta": 8,
-      "color": "#52605e"
+      "color": "#52605e",
+      "alpha": 0.99607843
     },
     {
       "name": "Футура-контур",
       "uid": "chisel:futuraCircuit",
       "meta": 9,
-      "color": "#52605e"
+      "color": "#52605e",
+      "alpha": 0.99607843
     },
     {
       "name": "Футура-контур",
       "uid": "chisel:futuraCircuit",
       "meta": 10,
-      "color": "#52605e"
+      "color": "#52605e",
+      "alpha": 0.99607843
     },
     {
       "name": "Футура-контур",
       "uid": "chisel:futuraCircuit",
       "meta": 11,
-      "color": "#52605e"
+      "color": "#52605e",
+      "alpha": 0.99607843
     },
     {
       "name": "Футура-контур",
       "uid": "chisel:futuraCircuit",
       "meta": 12,
-      "color": "#52605e"
+      "color": "#52605e",
+      "alpha": 0.99607843
     },
     {
       "name": "Футура-контур",
       "uid": "chisel:futuraCircuit",
       "meta": 13,
-      "color": "#52605e"
+      "color": "#52605e",
+      "alpha": 0.99607843
     },
     {
       "name": "Футура-контур",
       "uid": "chisel:futuraCircuit",
       "meta": 14,
-      "color": "#52605e"
+      "color": "#52605e",
+      "alpha": 0.99607843
     },
     {
       "name": "Футура-контур",
       "uid": "chisel:futuraCircuit",
       "meta": 15,
-      "color": "#52605e"
+      "color": "#52605e",
+      "alpha": 0.99607843
     },
     {
       "name": "Хайровая древесина",
@@ -37780,7 +37931,8 @@ var colorpalette={
       "name": "Храмовый блок",
       "uid": "chisel:templeblock",
       "meta": 3,
-      "color": "#505d5c"
+      "color": "#505d5c",
+      "alpha": 0.99607843
     },
     {
       "name": "Храмовый блок",
@@ -38350,7 +38502,8 @@ var colorpalette={
       "name": "Шиповник",
       "uid": "thaumicbases:briar",
       "meta": 0,
-      "color": "#0e5600"
+      "color": "#0e5600",
+      "alpha": 0.91764706
     },
     {
       "name": "Шипы",
@@ -38698,19 +38851,22 @@ var colorpalette={
       "name": "Янтарные пылающие кирпичи",
       "uid": "Automagy:blockTranslucent",
       "meta": 1,
-      "color": "#ecaf5c"
+      "color": "#ecaf5c",
+      "alpha": 0.9098039
     },
     {
       "name": "Янтарный блок",
       "uid": "Thaumcraft:blockCosmeticOpaque",
       "meta": 0,
-      "color": "#f1b761"
+      "color": "#f1b761",
+      "alpha": 0.9098039
     },
     {
       "name": "Янтарный кирпич",
       "uid": "Thaumcraft:blockCosmeticOpaque",
       "meta": 1,
-      "color": "#ecaf5c"
+      "color": "#ecaf5c",
+      "alpha": 0.9098039
     },
     {
       "name": "Янтарный мох",
