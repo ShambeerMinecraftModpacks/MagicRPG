@@ -115,11 +115,6 @@ key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_waila.keybind.details:42
-key_ttmisc.toggleArmor:22
-key_Change Arcane Lens:47
-key_Activate Morphic Fingers:49
-key_Toggle Spider Climb:46
-key_Toggle Chameleon Skin:45
 key_ae2fc.key.OpenTerminal:0
 key_ae2fc.key.OpenCraftingTerminal:0
 key_ae2fc.key.OpenLevelTerminal:0
@@ -134,6 +129,11 @@ key_Zoom:0
 key_aura.angelJump:200
 key_aura.angelJumpDown:208
 key_Automagy.key.focusCrafting:46
+key_ttmisc.toggleArmor:22
+key_key.tarmor:24
+key_key.tgoggles:34
+key_key.tbelt:48
+key_key.tzoom:44
 key_key.craftingtweaks.rotate:19
 key_key.craftingtweaks.balance:48
 key_key.craftingtweaks.clear:46
@@ -153,10 +153,6 @@ key_Переключить электромагнит:0
 key_Travel Staff Blink:0
 key_Переключить пукание:0
 key_Открыть продвинутый верстак:46
-key_key.tarmor:24
-key_key.tgoggles:34
-key_key.tbelt:48
-key_key.tzoom:44
 key_FpsReducer.key.guiOpen:207
 key_openmodslib.key.calc:13
 key_pe.key.armor_toggle:33
@@ -165,17 +161,22 @@ key_pe.key.extra_function:46
 key_pe.key.fire_projectile:19
 key_pe.key.mode:34
 key_key.aspectMenu:23
+key_Change Arcane Lens:47
+key_Activate Morphic Fingers:49
+key_Toggle Spider Climb:46
+key_Toggle Chameleon Skin:45
 key_TG.keybind.openInv:71
 key_TG.keybind.activeaAbilities:19
 key_wg.config.activateKey:0
-key_key.cofh.empower:47
-key_key.cofh.multimode:46
 key_key.ShapeGroups:46
 key_key.SpellBookNext:45
 key_key.SpellBookPrev:44
 key_key.AuraCustomization:48
 key_key.ToggleManaDisplay:24
 key_key.ActivateAffinityAbility:45
+key_key.fastBlockPlacing.desc:0
+key_key.cofh.empower:47
+key_key.cofh.multimode:46
 key_key.sort_config:0
 key_key.sort_nogui:0
 key_key.sort_gui:-98
