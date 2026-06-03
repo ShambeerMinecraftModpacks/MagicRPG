@@ -1,35 +1,49 @@
 # === Логи и отчеты об ошибках ===
-logs/
-crash-reports/
+/logs/
+/crash-reports/
 *.log
 
-# === Миры, бэкапы и данные карт (у каждого игрока свои) ===
-saves/
-backups/
+# === Миры, бэкапы и серверные данные ===
+/saves/
+/backups/
+/server-resource-packs/
+banned-ips.json
+banned-players.json
+ops.json
+whitelist.json
+
+# === Кэш, библиотеки и служебные папки лаунчера ===
+/.analytics/
+/libraries/
+/versions/
+/data/
+/local/
+/asm/
+/assets/
+
+# === Данные карт и прогресса (у каждого игрока свои) ===
 XaeroWaypoints/
 XaeroWaypoints_BACKUP*/
 XaeroWorldMap/
-TIWorldData/
+journeymap/data/
+journeymap/icon/
 TCNodeTracker/
 compendiumunlocks/
 compendiumUpdates/
-DivineRPG/
 BotaniaVars.dat
 
-# === Кэш, библиотеки и служебные папки лаунчера ===
-.analytics/
-libraries/
-versions/
-data/
-local/
-asm/
+# === Локальный кэш сессий (отслеживать нельзя) ===
 usernamecache.json
 usercache.json
-
-# === Пользовательские настройки (чтобы не сбивать чужие) ===
-betterfps.txt
-servers.dat
-perms.txt
+realms_persistence.json
 
 # === Медиа ===
-screenshots/
+/screenshots/
+
+# === Системный мусор и файлы IDE ===
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.iml

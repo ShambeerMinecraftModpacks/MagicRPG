@@ -1,0 +1,477 @@
+# chat messages
+chat.msg.waila.norecipe=Рецептов не найдено.
+chat.msg.waila.nousage=Применений не найдено.
+chat.msg.wdmla.dump.success=Все провайдеры успешно выгружены в %s
+
+
+# tooltip messages
+
+# block
+hud.msg.wdmla.wheatcrop=Пшеница
+hud.msg.wdmla.pumpkinstem=Стебель тыквы
+hud.msg.wdmla.melonstem=Стебель арбуза
+hud.msg.wdmla.flower.pot=%s в горшке
+
+# Entity
+hud.msg.wdmla.entity.falling=Падающий блок: %s
+
+# tool
+hud.msg.wdmla.toolclass.pickaxe=Кирка
+hud.msg.wdmla.toolclass.shovel=Лопата
+hud.msg.wdmla.toolclass.axe=Топор
+hud.msg.wdmla.toolclass.chisel=Стамеска
+hud.msg.wdmla.toolclass.scoop=Сачок
+hud.msg.wdmla.toolclass.crowbar=Монтировка
+hud.msg.wdmla.toolclass.sword=Меч
+hud.msg.wdmla.toolclass.wrench=Гаечный ключ
+hud.msg.wdmla.toolclass.cutter=Кусачки
+hud.msg.wdmla.toolclass.bucket=Ведро
+hud.msg.wdmla.toolclass.unbreakable=Неразрушимый
+
+# profession
+hud.msg.wdmla.villager.profession.farmer=Фермер
+hud.msg.wdmla.villager.profession.librarian=Библиотекарь
+hud.msg.wdmla.villager.profession.priest=Священник
+hud.msg.wdmla.villager.profession.blacksmith=Кузнец
+hud.msg.wdmla.villager.profession.butcher=Мясник
+hud.msg.wdmla.villager.profession.nodata=Нет данных
+
+# instrument
+hud.msg.wdmla.instrument.piano=Пианино
+hud.msg.wdmla.instrument.bassdrum=Бас-барабан
+hud.msg.wdmla.instrument.snare=Малый барабан
+hud.msg.wdmla.instrument.clicks=Щелчки
+hud.msg.wdmla.instrument.bassguitar=Бас-гитара
+
+# side
+hud.msg.wdmla.side.decorator=[%s]
+hud.msg.wdmla.side.down=Снизу
+hud.msg.wdmla.side.up=Сверху
+hud.msg.wdmla.side.east=Восток
+hud.msg.wdmla.side.west=Запад
+hud.msg.wdmla.side.north=Север
+hud.msg.wdmla.side.south=Юг
+
+# unit
+hud.msg.wdmla.ticks=т
+hud.msg.wdmla.seconds=с
+hud.msg.wdmla.minutes=м
+hud.msg.wdmla.hours=ч
+hud.msg.wdmla.blocks=блоков
+hud.msg.wdmla.blockspersecond=блоков/сек
+hud.msg.wdmla.item.count=x
+hud.wdmla.msg.millibucket=мВ
+
+# information
+hud.msg.wdmla.growth=Рост
+hud.msg.wdmla.state=Состояние
+hud.msg.wdmla.delay=Задержка
+hud.msg.wdmla.progress=Прогресс
+hud.msg.wdmla.level=Уровень
+hud.msg.wdmla.hardness=Твердость
+hud.msg.wdmla.blast.resistance=Взрывоустойчивость
+hud.msg.wdmla.mode=Режим
+hud.msg.wdmla.out=Вывод
+hud.msg.wdmla.in=Ввод
+hud.msg.wdmla.effectivetool=Подходящий инструмент
+hud.msg.wdmla.harvestlevel=Уровень добычи
+hud.msg.wdmla.currentlyharvestable=Можно добыть
+hud.msg.wdmla.harvestable=Добываемый
+hud.msg.wdmla.power=Энергия
+hud.msg.wdmla.jumpStrength=Сила прыжка
+hud.msg.wdmla.speed=Скорость
+hud.msg.wdmla.fuse=Запал
+hud.msg.wdmla.animal.growth=Время взросления
+hud.msg.wdmla.animal.breedcooldown=Перезарядка размножения
+hud.msg.wdmla.primary=Первый эффект
+hud.msg.wdmla.secondary=Второй эффект
+hud.msg.wdmla.item=Предмет
+hud.msg.wdmla.sitting=Сидит
+hud.msg.wdmla.owner=Владелец
+hud.msg.wdmla.cansleep=Можно спать
+hud.msg.wdmla.collectingItems=Сбор предметов...
+hud.msg.wdmla.enchantment.power=Сила зачарования
+hud.msg.wdmla.now.playing=Сейчас играет
+hud.msg.wdmla.nextegg=Следующее яйцо
+hud.msg.wdmla.infinity.icon=∞
+hud.msg.wdmla.total.enchantment.power=Общая сила зачарования
+hud.msg.wdmla.conversion.time=Время превращения
+hud.msg.wdmla.block.id=ID блока
+hud.msg.wdmla.metadata=Метаданные
+hud.msg.wdmla.registry.name=Реестровое имя
+hud.msg.wdmla.registry.id=Реестровый ID
+hud.msg.wdmla.entity.id=ID сущности
+hud.msg.wdmla.seeing=Видит
+hud.msg.wdmla.seeing.block=Видит блок
+hud.msg.wdmla.seeing.entity=Видит сущность
+hud.msg.wdmla.more.tanks=+ %d доп. резервуаров
+hud.msg.wdmla.remaining.time=Оставшееся время
+hud.msg.wdmla.rng.multiplier=[+ГСЧ x%s]
+hud.msg.wdmla.milk.cooldown=Доение через
+hud.msg.wdmla.must.surround=Должно быть окружено %s
+hud.msg.wdmla.dirt.or.grass=Землей или Травой
+hud.msg.wdmla.any.fluid=Любой жидкостью
+hud.msg.wdmla.stack.limit=Лимит стака
+hud.msg.wdmla.cut.from=Вырезано из
+
+# state
+hud.msg.wdmla.mature=Выросло
+hud.msg.wdmla.off=Выкл
+hud.msg.wdmla.on=Вкл
+hud.msg.wdmla.comparator=Компаратор
+hud.msg.wdmla.substractor=Вычитатель
+hud.msg.wdmla.yes=Да
+hud.msg.wdmla.no=Нет
+hud.msg.wdmla.effect.format=%s (%s)
+hud.msg.wdmla.block.registry.data.short=[%d:%d] | %s
+hud.msg.wdmla.entity.registry.data.short=[%d:%d] | %s
+hud.msg.wdmla.coordinates="%s:%s:%s"
+hud.msg.wdmla.empty=Пусто
+hud.msg.wdmla.incomplete.structure=НЕЗАВЕРШЕННАЯ СТРУКТУРА
+hud.msg.wdmla.has.problem=ЕСТЬ ПРОБЛЕМЫ
+hud.msg.wdmla.running.fine=Работает нормально
+hud.msg.wdmla.idle=Простаивает
+hud.msg.wdmla.working.disabled=Работа отключена
+hud.msg.wdmla.insufficient.energy=Недостаточно энергии
+hud.msg.wdmla.insufficient.fuel=Недостаточно топлива
+hud.msg.wdmla.near.water=Рядом с водой
+hud.msg.wdmla.cannot.hoe=Нельзя вспахать
+hud.msg.wdmla.locked=Заблокировано
+hud.msg.wdmla.no.access=Нет доступа
+hud.msg.wdmla.access.protected=Доступ защищен
+hud.msg.wdmla.void.overflow=Уничтожение излишков
+hud.msg.wdmla.sealed=Запечатано
+
+# dummy tooltip
+hud.msg.wdmla.cfg.dummy.1=Наведите курсор на любой объект в игре,
+hud.msg.wdmla.cfg.dummy.2=чтобы включить редактирование в реальном времени
+hud.msg.wdmla.cfg.dummy.3=Это тестовая подсказка
+
+# tooltip messages in legacy modules(unsorted, it will be deleted soon)
+# don't add entries to here
+
+hud.msg.none=<Ничего>
+hud.msg.empty=<Пусто>
+hud.msg.output=Вывод
+hud.msg.input=Ввод
+hud.msg.storage=Хранилище
+hud.msg.stored=Хранится
+hud.msg.any=Всё
+hud.msg.maxpower=Макс. энергия
+hud.msg.trigger=Триггер
+hud.msg.maxio=Макс. ввод/вывод
+hud.msg.send=Передача
+hud.msg.recv=Приём
+hud.msg.item=Предмет
+hud.msg.fluid=Жидкость
+hud.msg.energ=Энергия
+hud.msg.frequency=Частота
+hud.msg.owner=Владелец
+hud.msg.public=Публичный
+hud.msg.restricted=Ограниченный
+hud.msg.private=Приватный
+
+hud.msg.white=Белый
+hud.msg.orange=Оранжевый
+hud.msg.magenta=Сиреневый
+hud.msg.lblue=Светло-синий
+hud.msg.yellow=Жёлтый
+hud.msg.lime=Светло-зелёный
+hud.msg.pink=Розовый
+hud.msg.gray=Серый
+hud.msg.lgray=Светло-серый
+hud.msg.cyan=Бирюзовый
+hud.msg.purple=Фиолетовый
+hud.msg.blue=Синий
+hud.msg.brown=Коричневый
+hud.msg.green=Зелёный
+hud.msg.red=Красный
+hud.msg.black=Чёрный
+
+
+# provider names (auto generated key)
+
+provider.wdmla.core.category=Ядро
+provider.wdmla.core.equipment=Экипировка сущности
+provider.wdmla.core.entity.health=Здоровье сущности
+provider.wdmla.core.default.block=Стандартный блок
+provider.wdmla.core.default.entity=Стандартная сущность
+provider.wdmla.core.armor=Броня сущности
+provider.wdmla.core.enchantment.power=Сила зачарования
+provider.wdmla.core.status.effect=Эффекты зелий
+provider.wdmla.core.block.face=Сторона блока
+
+provider.wdmla.universal.category=Универсальное
+provider.wdmla.universal.item.storage=Хранилище предметов
+provider.wdmla.universal.fluid.storage=Хранилище жидкостей
+provider.wdmla.universal.energy.storage=Хранилище энергии
+
+provider.wdmla.minecraft.category=Minecraft
+provider.wdmla.minecraft.custom.meta.header=Свои метаданные блока
+provider.wdmla.minecraft.redstone.ore=Красная руда
+provider.wdmla.minecraft.dropped.item.header=Блок в виде выброшенного предмета
+provider.wdmla.minecraft.pet=Питомец
+provider.wdmla.minecraft.animal=Животное
+provider.wdmla.minecraft.silverfish.header=Чешуйница
+provider.wdmla.minecraft.redstone.state=Статус красного камня
+provider.wdmla.minecraft.growable.header=Растение
+provider.wdmla.minecraft.double.plant.header=Двойное растение
+provider.wdmla.minecraft.player.head.header=Голова игрока
+provider.wdmla.minecraft.growth.rate=Скорость роста
+provider.wdmla.minecraft.bed=Кровать
+provider.wdmla.minecraft.redstone.wire.header=Провод красного камня (заголовок)
+provider.wdmla.minecraft.redstone.wire=Провод красного камня
+provider.wdmla.minecraft.furnace=Печь
+provider.wdmla.minecraft.mob.spawner.header=Спаунер мобов (заголовок)
+provider.wdmla.minecraft.beacon=Маяк
+provider.wdmla.minecraft.horse=Лошадь
+provider.wdmla.minecraft.primed.tnt=Зажженный ТНТ
+provider.wdmla.minecraft.item.frame=Рамка
+provider.wdmla.minecraft.villager.profession=Профессия жителя
+provider.wdmla.minecraft.command.block=Командный блок
+provider.wdmla.minecraft.falling.block.header=Падающий блок (заголовок)
+provider.wdmla.minecraft.flower.pot.header=Цветочный горшок (заголовок)
+provider.wdmla.minecraft.jukebox=Проигрыватель
+provider.wdmla.minecraft.mob.spawner=Спаунер мобов
+provider.wdmla.minecraft.chicken=Курица
+provider.wdmla.minecraft.note.block=Нотный блок
+provider.wdmla.minecraft.painting=Картина
+provider.wdmla.minecraft.total.enchantment.power=Общая сила зачарования
+provider.wdmla.minecraft.zombie.villager=Зомби-житель
+provider.wdmla.minecraft.zombie.villager.header=Зомби-житель (заголовок)
+provider.wdmla.minecraft.te.custom.name.header=Пользовательское имя (заголовок)
+provider.wdmla.minecraft.cauldron=Котел
+provider.wdmla.minecraft.minecart.command.block=Вагонетка с командным блоком
+provider.wdmla.minecraft.minecart.furnace=Вагонетка с печью
+provider.wdmla.minecraft.snow.layer=Слой снега
+provider.wdmla.minecraft.ender.dragon.header=Дракон Края (заголовок)
+provider.wdmla.minecraft.end.portal.header=Портал в Край (заголовок)
+
+provider.wdmla.harvestability.category=Waila Harvestability
+provider.wdmla.harvestability.tinkersconstruct=Tinkers' Construct
+provider.wdmla.harvestability.iguanatweaks=Iguana Tweaks
+provider.wdmla.harvestability.icon=Иконка
+provider.wdmla.harvestability.text=Текст
+provider.wdmla.harvestability.condition=Условие
+
+provider.wdmla.debug.category=Отладка
+provider.wdmla.debug.hardness=Твердость блока
+provider.wdmla.debug.blast.resistance=Взрывоустойчивость
+provider.wdmla.debug.registry.data=Данные реестра
+provider.wdmla.debug.coordinates=Координаты
+
+provider.wdmla.hungeroverhaul.category=Hunger Overhaul
+provider.wdmla.hungeroverhaul.slow.chicken=Замедленная активность куриц
+provider.wdmla.hungeroverhaul.slow.animal=Замедленная активность животных
+provider.wdmla.hungeroverhaul.milk.cooldown=Перезарядка доения
+provider.wdmla.hungeroverhaul.hoe.result=Результат вспашки
+
+provider.wdmla.harvestcraft.category=Pam's Harvestcraft
+provider.wdmla.harvestcraft.fruit.growth.rate=Скорость роста фруктов
+provider.wdmla.harvestcraft.animal.trap=Ловушка для животных
+provider.wdmla.harvestcraft.fish.trap=Рыболовная ловушка
+
+provider.wdmla.natura.category=Natura
+provider.wdmla.natura.berry.bush=Ягодный куст
+provider.wdmla.natura.crop.header=Урожай (заголовок)
+provider.wdmla.natura.growth.rate=Скорость роста
+provider.wdmla.natura.leaves=Листва
+
+provider.wdmla.storagedrawers.category=Storage Drawers
+provider.wdmla.storagedrawers.content=Содержимое ящика
+provider.wdmla.storagedrawers.property=Свойства ящика
+
+provider.wdmla.forestry.category=Forestry
+provider.wdmla.forestry.tool.harvest=Инструмент для сбора
+
+provider.wdmla.architecturecraft.category=ArchitectureCraft
+provider.wdmla.architecturecraft.block.shape=Форма блока
+
+# options
+
+# general options
+option.wdmla.general.category=Общие настройки WDMla
+option.wdmla.general.forcelegacy=Устаревший режим (Legacy)
+option.wdmla.general.ghostproduct=Фантомный предмет
+option.wdmla.general.theme=Пресет темы
+option.wdmla.general.previewincfg=Предпросмотр в настройках
+option.wdmla.general.customnameoverride=Замена кастомных имен
+option.wdmla.general.maxnamelengthpixel=Макс. длина имени (В пикселях)
+option.wdmla.general.align.icon.right.top=Выравнивать иконку по правому верхнему углу
+option.wdmla.general.override.waila.tooltips=Переопределять подсказки Waila
+
+option.wdmla.textcolor.category=Цвета текста
+option.wdmla.general.textcolor.info=Информация
+option.wdmla.general.textcolor.title=Заголовок
+option.wdmla.general.textcolor.success=Успех
+option.wdmla.general.textcolor.warning=Предупреждение
+option.wdmla.general.textcolor.danger=Опасность
+option.wdmla.general.textcolor.failure=Ошибка
+option.wdmla.general.textcolor.modname=Название мода
+
+option.wdmla.progresscolor.category=Цвета прогресс-баров
+option.wdmla.general.progresscolor.background=Фон
+option.wdmla.general.progresscolor.border=Граница фона
+option.wdmla.general.progresscolor.filled=Заливка прогресса
+option.wdmla.general.progresscolor.filled.alternate=Градиент прогресса
+
+option.wdmla.breakprogress.category=Прогресс разрушения
+option.wdmla.general.breakprogress.mode=Режим отображения
+option.wdmla.general.breakprogress.position=Позиция
+option.wdmla.breakprogress.fill.animation=Анимация прозрачности заливки
+option.wdmla.breakprogress.fade.animation=Анимация затухания
+option.wdmla.general.breakprogress.fade.speed=Скорость затухания
+
+# plugin autogen options
+option.wdmla.autogen.category=Автосгенерированные настройки плагинов
+option.wdmla.autogen.enabled=Включено
+option.wdmla.autogen.priority=Приоритет
+option.wdmla.autogen.time.format=Формат времени
+
+option.wdmla.plugin.category=Настройки плагинов
+
+# core options
+option.wdmla.core.show.blockicon=Показывать иконку блока
+option.wdmla.core.show.blockname=Показывать название блока
+option.wdmla.core.show.modname=Показывать название мода
+option.wdmla.core.show.entity=Рендерить сущность
+option.wdmla.core.show.entityname=Показывать имя сущности
+option.wdmla.core.fancy.renderer=Продвинутый рендерер
+option.wdmla.core.renderer.rotation.speed=Скорость вращения рендерера
+option.wdmla.core.entity.icon.auto.scale=Авто-масштабирование иконки
+option.wdmla.core.entity.icon.default.scale=Стандартный масштаб иконки
+
+# universal options
+option.wdmla.universal.normal.amount=Обычное количество
+option.wdmla.universal.detailed.amount=Подробное количество
+option.wdmla.universal.items.per.line=Предметов в строке
+option.wdmla.universal.show.name.amount=Порог отображения имен
+option.wdmla.universal.fluid.normal.amount=Количество жидкости
+option.wdmla.universal.fluid.detailed=Только в подробном режиме
+
+# vanilla plugin options
+option.wdmla.vanilla.show.petsitting=Показывать, сидит ли питомец
+option.wdmla.vanilla.show.petowner=Показывать владельца питомца
+option.wdmla.vanilla.show.animalgrowth=Показывать рост животного
+option.wdmla.vanilla.show.breedcooldown=Показывать перезарядку размножения
+option.wdmla.vanilla.leverstate=Показывать положение рычага
+option.wdmla.vanilla.repeater=Показывать задержку повторителя
+option.wdmla.vanilla.comparator=Показывать режим компаратора
+option.wdmla.vanilla.max.command.length=Макс. длина команды
+
+# waila harvestability options
+option.wdmla.harvestability.harvestlevelname=Название уровня добычи
+option.wdmla.harvestability.effectivetool.line=Строка подходящего инструмента
+option.wdmla.harvestability.currentlyharvestable.line=Строка возможности добычи
+option.wdmla.harvestability.oresonly=Только для руд
+option.wdmla.harvestability.unharvestableonly=Только если нельзя добыть
+option.wdmla.harvestability.toolrequiredonly=Только если требуется инструмент
+option.wdmla.harvestability.shearability=Возможность срезать ножницами
+option.wdmla.harvestability.silktouchability=Возможность Шелкового касания
+option.wdmla.harvestability.harvestlevelnum=Номер уровня добычи
+option.wdmla.harvestability.currentlyharvestable.string=Текст возможности добычи
+option.wdmla.harvestability.notcurrentlyharvestable.string=Текст невозможности добычи
+option.wdmla.harvestability.shearability.string=Текст для добычи ножницами
+option.wdmla.harvestability.silktouchability.string=Текст для Шелкового касания
+option.wdmla.harvestability.shearability.item=Иконка-предмет для ножниц
+option.wdmla.harvestability.silktouchability.item=Иконка-предмет для Шелкового касания
+option.wdmla.harvestability.currentlyHarvestable.icon=Иконка возможности добычи
+option.wdmla.harvestability.effectivetool.icon=Иконка подходящего инструмента
+option.wdmla.harvestability.shearability.icon=Иконка добычи ножницами
+option.wdmla.harvestability.silktouchability.icon=Иконка Шелкового касания
+option.wdmla.harvestability.textdetailsonly=Только в деталях: Текст
+option.wdmla.harvestability.coloriconwitheffectiveness=Окрашивать иконку по эффективности
+option.wdmla.harvestability.always.show.additional.tools=Всегда показывать доп. инструменты
+
+# debug options
+option.wdmla.debug.entity.registry.data=Показывать данные реестра сущности
+option.wdmla.debug.registry.data.display.mode=Режим отображения данных реестра
+
+# options in the untouched sections(unsorted, it will be deleted soon)
+# don't add entries to here
+option.appeng.monitorcontent=Содержимое монитора
+option.bb.content=Содержимое бочки
+option.bc.tankamount=Кол-во жидкости
+option.bc.tanktype=Тип жидкости
+option.enderstorage.colors=Цвета
+option.ic2.inputeumach=Макс. вход EU [Механизмы]
+option.ic2.inputeuother=Макс. вход EU [Другое]
+option.ic2.inputeu=Макс. вход EU
+option.ic2.outputeu=Макс. выход EU
+option.ic2.storage=Хранится энергии
+option.ic2.consump=Показывать потребление
+option.ic2.tradeomat=Показывать запрос ресурсообменника
+option.thaumcraft.storedvis=Заряд конденсатора
+option.thermalexpansion.energyhandler=Показывать заряд RF
+option.thermalexpansion.energycell=Показывать ввод/вывод Э.батареи
+option.thermalexpansion.fluidtype=Показывать тип жидкости
+option.thermalexpansion.fluidamount=Показывать кол-во жидкости
+option.thermalexpansion.tankmode=Показывать режим цистерны
+option.thermalexpansion.tesssendrecv=Режим тессеракта
+option.thermalexpansion.tessfreq=Частота тессеракта
+option.thermalexpansion.owner=Показывать владельца
+option.thermalexpansion.conditemmode=Показывать режим предметных труб
+option.etb.displaydata=Показывать инф. о сокетах
+option.enderio.inout=Показывать ввод/вывод
+option.enderio.storage=Показывать заряд MJ
+option.enderio.owner=Показывать владельца блока
+option.enderio.channel=Показывать канал гиперкуба
+option.bcapi.storage=Показывать заряд MJ
+option.bcapi.consump=Показывать макс. энергию
+option.bcapi.trigger=Показывать энергию активации
+option.pr.showio=Показывать ввод/вывод схем
+option.pr.showdata=Показывать данные о схемах
+option.pr.showsignal=Показывать силу сигнала провода
+option.extrautilities.fluidamount=Показывать кол-во жидкости
+option.openblocks.fluidamount=Показывать кол-во жидкости
+option.railcraft.fluidamount=Показывать кол-во жидкости
+option.secretrooms.hide=Спрятать камуфляжные блоки
+option.carpenters.hide=Спрятать камуфляжные блоки
+option.stevescarts.showall=Показывать данные
+option.stevescarts.colorblind=Режим цветокоррекции
+option.stevescarts.shifttoggle=Приседание показывает
+option.thaumcraft.aspects=Показывать аспекты
+
+# missing block key section
+block.EndPortal.name=Портал в Край
+
+# missing entity key section
+# vanilla minecart uses special switch case to add lang key
+entity.MinecartRideable.name=Вагонетка
+entity.MinecartChest.name=Грузовая вагонетка
+entity.MinecartFurnace.name=Самоходная вагонетка
+entity.MinecartHopper.name=Загрузочная вагонетка
+entity.MinecartTNT.name=Вагонетка с ТНТ
+entity.MinecartCommandBlock.name=Вагонетка с командным блоком
+entity.zombievillager.name=Зомби-житель
+
+
+# legacy key section
+# can't touch naming rule of these otherwise Waila.cfg and Waila KeyBind will be ignored
+waila.cfg.show=Показывать/Скрывать Waila
+waila.cfg.metadata=Показывать ID:Метаданные
+waila.cfg.showmode=Переключ./Нажатая клав.
+waila.cfg.liquid=Показывать жидкости
+waila.cfg.shiftblock=Не используется (Приседание для блоков)
+waila.cfg.shiftents=Не используется (Приседание для сущностей)
+# following config keys did not exist in Waila since they were hardcoded in screen
+waila.cfg.posx=Позиция подсказки по X
+waila.cfg.posy=Позиция подсказки по Y
+waila.cfg.scale=Масштаб подсказки
+waila.cfg.alpha=Прозрачность фона
+waila.cfg.bgcolor=Цвет фона
+waila.cfg.gradient1=Градиент фона 1
+waila.cfg.gradient2=Градиент фона 2
+waila.cfg.fontcolor=Цвет текста по умолчанию
+waila.cfg.heartsperline=Сердец в ряду
+waila.cfg.maxhpbeforetext=Макс. кол-во отображаемых сердец
+waila.cfg.keybind=Не используется (Назначение клавиш)
+waila.cfg.newfilters=Добавить фильтр для NEI
+
+waila.keybind.wailaconfig=[Waila] Меню настроек
+waila.keybind.wailadisplay=[Waila] Показать/Скрыть
+waila.keybind.liquid=[Waila] Показать жидкости
+waila.keybind.recipe=[Waila] Показать рецепт
+waila.keybind.usage=[Waila] Показать применение
+waila.keybind.testing=[Waila] Тестировать
+waila.keybind.details=Показать детали
