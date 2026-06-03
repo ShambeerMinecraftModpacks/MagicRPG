@@ -2073,15 +2073,6 @@ ae2stuff:Wireless:30, Беспроводной соединитель
 ae2stuff:Wireless:31, Беспроводной соединитель
 ae2stuff:Wireless:32, Беспроводной соединитель
 ae2stuff:Wireless:33, Беспроводной соединитель
-aura:trampoline, Отталкивающая загадка
-aura:fairyTorch, tile.fairyTorch.name
-aura:fortifiedDirt, Укрепленная земля
-aura:fortifiedWood, Укрепленные доски
-aura:fortifiedGlass, Укрепленное стекло
-aura:fortifiedCobblestone, Укрепленный булыжник
-aura:fortifiedStone, Укрепленный камень
-aura:fortifiedObsidian, Укрепленный обсидиан
-aura:monitor, Монитор
 aura:auraNode, Узел ауры
 aura:auraNodepump, Огненная помпа ауры
 aura:auraNodeblack, Манипулятор ауры: Черный
@@ -2101,7 +2092,7 @@ aura:auraNodepumpCreative, Творческая помпа ауры (Тольк�
 aura:auraNodepumpLightAlt, Переменная помпа ауры освещения
 aura:auraNodepumpRedstoneAlt, Переменная редстоуновая помпа ауры
 aura:auraNodeflux, Потоковый узел
-aura:magicRoad, Кирпичи путешественника
+aura:storageBookshelf, Книжная полка хранения
 aura:consumerBlockfurnace, Каскадная плавильня
 aura:consumerBlockplant, Каскадный садовод
 aura:consumerBlockore, Каскадный обработчик
@@ -2116,7 +2107,16 @@ aura:consumerBlockoreAdv, Призматический обработчик
 aura:consumerBlockminer, Каскадный шахтер
 aura:consumerBlockfish, Каскадный рыболов
 aura:consumerBlockend, Ритуал Энда
-aura:storageBookshelf, Книжная полка хранения
+aura:fortifiedDirt, Укрепленная земля
+aura:fortifiedWood, Укрепленные доски
+aura:fortifiedGlass, Укрепленное стекло
+aura:fortifiedCobblestone, Укрепленный булыжник
+aura:fortifiedStone, Укрепленный камень
+aura:fortifiedObsidian, Укрепленный обсидиан
+aura:fairyTorch, tile.fairyTorch.name
+aura:trampoline, Отталкивающая загадка
+aura:magicRoad, Кирпичи путешественника
+aura:monitor, Монитор
 aura:storageBookshelfCoordinator, Координатор книжных полок
 Automagy:blockRedcrystal, Красный Кристалл
 Automagy:blockRedcrystalAmp, Усиленный Красный Кристалл
@@ -2379,7 +2379,7 @@ ForbiddenMagic:TaintBlock:1, Заражённые каменные кирпич�
 ExtraUtilities:chestMini, Мини-сундук
 ExtraUtilities:chestFull, Немного длинный сундук
 ExtraUtilities:enderCollector, Коллектор Края
-ExtraUtilities:endConstructor:0, QED (Quantum Entanglement Doohicky)
+ExtraUtilities:endConstructor:0, QED (Quantum Emission Decompiler)
 ExtraUtilities:endConstructor:2, Флаксовый кристалл Края
 ExtraUtilities:endMarker, Маркер Края
 ExtraUtilities:curtains, Занавесы
@@ -3029,7 +3029,7 @@ BloodArsenal:blood_stone:1, Укреплённый Кровавый камень
 BloodArsenal:blood_stone:2, Пропитанный Кровавый камень
 BloodArsenal:blood_stone:3, Демонический Кровавый камень
 BloodArsenal:blood_stone:4, Эфирный Кровавый камень
-BloodArsenal:blood_tnt, Кровавое ТNT
+BloodArsenal:blood_tnt, Кровавый ТNT
 BloodArsenal:blood_stained_glass, Окровавленное стекло
 BloodArsenal:blood_infused_wood, Пропитанная кровью древесина
 BloodArsenal:blood_infused_planks, Доски из пропитанной древесины
@@ -3046,7 +3046,7 @@ BloodArsenal:life_infuser, Наполнитель кровью
 BloodArsenal:compacter, Уплотнитель душ
 BloodArsenal:lp_materializer, Материализатор жизненной эссенции
 BloodArsenal:compacted_mrs, Уплотнённый ритуальный камень Мастера
-BloodArsenal:block_burned_string, Обожённая кровавая нить
+BloodArsenal:block_burned_string, Обожжённая кровавая нить
 witchery:belladonna, Белладонна
 witchery:mandrake, Мандрагора
 witchery:artichoke, Водный артишок
@@ -9315,7 +9315,7 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Укре�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пропитанный Кровавый камень
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Демонический Кровавый камень
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Эфирный Кровавый камень
-appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кровавое ТNT
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кровавый ТNT
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пропитанная кровью древесина
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Доски из пропитанной древесины
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Окровавленный плотный лёд
@@ -11681,8 +11681,8 @@ ae2fc:wireless_level_terminal, Беспроводной терминал уро�
 ae2fc:wireless_fluid_pattern_terminal, Беспроводной жидкостный терминал шаблонов
 ae2fc:wireless_ultra_terminal, Беспроводной универсальный терминал
 ae2fc:wireless_interface_terminal, Беспроводной терминал интерфейсов
-ae2fc:part_fluid_formation_plane, Fluid Formation Plane
-ae2fc:part_fluid_annihilation_plane, Fluid Annihilation Plane
+ae2fc:part_fluid_formation_plane, Плоскость формирования жидкостей
+ae2fc:part_fluid_annihilation_plane, Плоскость истребления жидкостей
 ae2fc:fluid_packet, Жидкостный пакет
 ae2fc:fluid_storage1, %s1К%s МЭ жидкостная ячейка хранения
 ae2fc:fluid_storage4, %s4К%s МЭ жидкостная ячейка хранения
@@ -13330,7 +13330,7 @@ BloodArsenal:soul_booster, Ускоритель души
 BloodArsenal:soul_nullifier, Аннулятор души
 BloodArsenal:blood_cookie, Кровавое печенье
 BloodArsenal:orange_juice, Апельсиновый сок
-BloodArsenal:juice_and_cookies, Сок и печенюшки
+BloodArsenal:juice_and_cookies, Сок и печенье
 BloodArsenal:item_blood_cake, Кровавый торт
 BloodArsenal:vampire_cape, Плащ Вампира
 BloodArsenal:vampire_greaves, Поножи Вампира
@@ -13344,12 +13344,12 @@ BloodArsenal:blood_money:0, Кровавые деньги x1
 BloodArsenal:blood_money:1, Кровавые деньги x4
 BloodArsenal:blood_money:2, Кровавые деньги x16
 BloodArsenal:blood_money:3, Кровавые деньги x64
-BloodArsenal:blood_burned_string, Кровавая обожённая нить
+BloodArsenal:blood_burned_string, Обожжённая кровавая нить
 BloodArsenal:glass_shard, Стеклянный осколок
-BloodArsenal:sigil_of_augmented_holding, Сигил расширенного владения
+BloodArsenal:sigil_of_augmented_holding, Сигил Расширенного Владения
 BloodArsenal:sigil_of_lightning, Сигил Молнии
-BloodArsenal:glass_sacrificial_dagger, Стеклянный жертвенный кинжал
-BloodArsenal:glass_dagger_of_sacrifice, Стеклянный кинжал жертвоприношения
+BloodArsenal:glass_sacrificial_dagger, Стеклянный Жертвенный Кинжал
+BloodArsenal:glass_dagger_of_sacrifice, Стеклянный Кинжал Жертвоприношения
 BloodArsenal:glass_helmet, Стеклянный шлем
 BloodArsenal:glass_chestplate, Стеклянный нагрудник
 BloodArsenal:glass_leggings, Стеклянные поножи
@@ -13364,8 +13364,8 @@ BloodArsenal:bound_diamond_shard:1, Связанный алмазный оско
 BloodArsenal:bound_diamond_shard:2, Связанный алмазный осколок земли
 BloodArsenal:bound_diamond_shard:3, Связанный алмазный осколок огня
 BloodArsenal:bound_diamond_shard:4, Связанный алмазный осколок воды
-BloodArsenal:bound_diamond_shard:5, Связанный алмазный сумеречный осколок
-BloodArsenal:bound_diamond_shard:6, Связанный алмазный осколок рассвета
+BloodArsenal:bound_diamond_shard:5, Связанный сумеречный алмазный осколок
+BloodArsenal:bound_diamond_shard:6, Связанный рассветный алмазный осколок
 witchery:ingredient:0, Канделябр
 witchery:ingredient:1, Кубок
 witchery:ingredient:2, Кубок (Наполненный)
@@ -17085,16 +17085,16 @@ ThermalDynamics:cover:0, Крышка (Плита из резного истин
 ThermalDynamics:cover:0, Крышка (Плита из резного истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
 ThermalDynamics:cover:0, Крышка (Плита из колонны истинного кварца)
-ThermalDynamics:cover:0, Крышка (Отталкивающая загадка)
-ThermalDynamics:cover:0, Крышка (tile.fairyTorch.name)
 ThermalDynamics:cover:0, Крышка (Укрепленная земля)
 ThermalDynamics:cover:0, Крышка (Укрепленные доски)
 ThermalDynamics:cover:0, Крышка (Укрепленное стекло)
 ThermalDynamics:cover:0, Крышка (Укрепленный булыжник)
 ThermalDynamics:cover:0, Крышка (Укрепленный камень)
 ThermalDynamics:cover:0, Крышка (Укрепленный обсидиан)
-ThermalDynamics:cover:0, Крышка (Монитор)
+ThermalDynamics:cover:0, Крышка (tile.fairyTorch.name)
+ThermalDynamics:cover:0, Крышка (Отталкивающая загадка)
 ThermalDynamics:cover:0, Крышка (Кирпичи путешественника)
+ThermalDynamics:cover:0, Крышка (Монитор)
 ThermalDynamics:cover:0, Крышка (Накопитель Эссенции)
 ThermalDynamics:cover:0, Крышка (Зачарованная Книжная полка)
 ThermalDynamics:cover:0, Крышка (Заколдованная Книжная полка)
@@ -17721,7 +17721,7 @@ ThermalDynamics:cover:0, Крышка (Укреплённый Кровавый �
 ThermalDynamics:cover:0, Крышка (Пропитанный Кровавый камень)
 ThermalDynamics:cover:0, Крышка (Демонический Кровавый камень)
 ThermalDynamics:cover:0, Крышка (Эфирный Кровавый камень)
-ThermalDynamics:cover:0, Крышка (Кровавое ТNT)
+ThermalDynamics:cover:0, Крышка (Кровавый ТNT)
 ThermalDynamics:cover:0, Крышка (Окровавленное стекло)
 ThermalDynamics:cover:0, Крышка (Пропитанная кровью древесина)
 ThermalDynamics:cover:0, Крышка (Доски из пропитанной древесины)
@@ -17733,7 +17733,7 @@ ThermalDynamics:cover:0, Крышка (Кровавый факел)
 ThermalDynamics:cover:0, Крышка (Пропитанный кровью светящийся камень)
 ThermalDynamics:cover:0, Крышка (Кровавая лампа)
 ThermalDynamics:cover:0, Крышка (Пропитанный кровью алмазный блок)
-ThermalDynamics:cover:0, Крышка (Обожённая кровавая нить)
+ThermalDynamics:cover:0, Крышка (Обожжённая кровавая нить)
 ThermalDynamics:cover:0, Крышка (Белладонна)
 ThermalDynamics:cover:0, Крышка (Мандрагора)
 ThermalDynamics:cover:0, Крышка (Водный артишок)
@@ -20607,7 +20607,7 @@ WarpTheory:item.warptheory.amulet:0, Талисман очищения
 WarpTheory:item.warptheory.portableshower:0, item.warptheory.portableshower.name
 WarpTheory:item.warptheory.something:0, Кусок мяса
 WarpTheory:item.warptheory.paper:0, Магическая лакмусовая бумажка
-WarpTheory:item.warptheory.oblivionpotion, Potion of Blissful Oblivion
+WarpTheory:item.warptheory.oblivionpotion, Зелье блаженного забвения
 WitchingGadgets:item.WG_Material:0, Пряжа
 WitchingGadgets:item.WG_Material:1, Позолоченная нить
 WitchingGadgets:item.WG_Material:2, Таум-нить
