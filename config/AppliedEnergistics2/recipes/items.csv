@@ -2073,6 +2073,17 @@ ae2stuff:Wireless:30, Беспроводной соединитель
 ae2stuff:Wireless:31, Беспроводной соединитель
 ae2stuff:Wireless:32, Беспроводной соединитель
 ae2stuff:Wireless:33, Беспроводной соединитель
+aura:fortifiedDirt, Укрепленная земля
+aura:fortifiedWood, Укрепленные доски
+aura:fortifiedGlass, Укрепленное стекло
+aura:fortifiedCobblestone, Укрепленный булыжник
+aura:fortifiedStone, Укрепленный камень
+aura:fortifiedObsidian, Укрепленный обсидиан
+aura:storageBookshelf, Книжная полка хранения
+aura:fairyTorch, tile.fairyTorch.name
+aura:storageBookshelfCoordinator, Координатор книжных полок
+aura:monitor, Монитор
+aura:magicRoad, Кирпичи путешественника
 aura:auraNode, Узел ауры
 aura:auraNodepump, Огненная помпа ауры
 aura:auraNodeblack, Манипулятор ауры: Черный
@@ -2092,7 +2103,7 @@ aura:auraNodepumpCreative, Творческая помпа ауры (Тольк�
 aura:auraNodepumpLightAlt, Переменная помпа ауры освещения
 aura:auraNodepumpRedstoneAlt, Переменная редстоуновая помпа ауры
 aura:auraNodeflux, Потоковый узел
-aura:storageBookshelf, Книжная полка хранения
+aura:trampoline, Отталкивающая загадка
 aura:consumerBlockfurnace, Каскадная плавильня
 aura:consumerBlockplant, Каскадный садовод
 aura:consumerBlockore, Каскадный обработчик
@@ -2107,17 +2118,6 @@ aura:consumerBlockoreAdv, Призматический обработчик
 aura:consumerBlockminer, Каскадный шахтер
 aura:consumerBlockfish, Каскадный рыболов
 aura:consumerBlockend, Ритуал Энда
-aura:fortifiedDirt, Укрепленная земля
-aura:fortifiedWood, Укрепленные доски
-aura:fortifiedGlass, Укрепленное стекло
-aura:fortifiedCobblestone, Укрепленный булыжник
-aura:fortifiedStone, Укрепленный камень
-aura:fortifiedObsidian, Укрепленный обсидиан
-aura:fairyTorch, tile.fairyTorch.name
-aura:trampoline, Отталкивающая загадка
-aura:magicRoad, Кирпичи путешественника
-aura:monitor, Монитор
-aura:storageBookshelfCoordinator, Координатор книжных полок
 Automagy:blockRedcrystal, Красный Кристалл
 Automagy:blockRedcrystalAmp, Усиленный Красный Кристалл
 Automagy:blockRedcrystalDim, Тусклый Красный Кристалл
@@ -2247,7 +2247,7 @@ AWWayofTime:AlchemicalWizardrytile.blockSpellEffect:1, Производител�
 AWWayofTime:AlchemicalWizardrytile.blockSpellEffect:2, Ветрогенератор
 AWWayofTime:AlchemicalWizardrytile.blockSpellEffect:3, Формировщик земли
 AWWayofTime:blockTeleposer, Телепозер
-AWWayofTime:spectralBlock, Призрачный блок
+AWWayofTime:spectralBlock, Спектральный Блок
 AWWayofTime:bloodLight, Кровавый свет
 AWWayofTime:spectralContainer, Призрачный контейнер
 AWWayofTime:lifeEssence, Жизненная эссенция
@@ -2379,7 +2379,7 @@ ForbiddenMagic:TaintBlock:1, Заражённые каменные кирпич�
 ExtraUtilities:chestMini, Мини-сундук
 ExtraUtilities:chestFull, Немного длинный сундук
 ExtraUtilities:enderCollector, Коллектор Края
-ExtraUtilities:endConstructor:0, QED (Quantum Emission Decompiler)
+ExtraUtilities:endConstructor:0, QED (Quantum Energy Device)
 ExtraUtilities:endConstructor:2, Флаксовый кристалл Края
 ExtraUtilities:endMarker, Маркер Края
 ExtraUtilities:curtains, Занавесы
@@ -5747,6 +5747,67 @@ chisel:road:13, Road Block
 chisel:road:14, Road Block
 chisel:road:15, Road Block
 DisenchanterMod:BlockDisenchantmentTable:0, Disenchantment Table
+DraconicEvolution:xRayBlock, Искажающее пламя
+DraconicEvolution:weatherController, Контроллер погоды
+DraconicEvolution:sunDial, Солнечные часы
+DraconicEvolution:draconiumOre, Дракониевая руда
+DraconicEvolution:grinder, Уничтожитель мобов/монстров
+DraconicEvolution:potentiometer, Потенциометр
+DraconicEvolution:rainSensor, Датчик дождя
+DraconicEvolution:particleGenerator, Генератор частиц
+DraconicEvolution:playerDetector, Детектор игроков
+DraconicEvolution:playerDetectorAdvanced, Улучшенный детектор игроков
+DraconicEvolution:energyInfuser, Наполнитель энергии
+DraconicEvolution:customSpawner, Стабилизированный спаунер
+DraconicEvolution:generator, Генератор
+DraconicEvolution:energyStorageCore, Энергетическое ядро
+DraconicEvolution:earth, Earth
+DraconicEvolution:draconium:0, Дракониевый блок
+DraconicEvolution:draconium:1, Камень Воскрешения
+DraconicEvolution:draconium:2, Заряженный дракониевый блок
+DraconicEvolution:invisibleMultiblock, Энергетическое ядро
+DraconicEvolution:energyPylon, Энергетический пилон
+DraconicEvolution:placedItem, Placed Item
+DraconicEvolution:safetyFlame, Safety Flame
+DraconicEvolution:cKeyStone:0, Творческий замок
+DraconicEvolution:cKeyStone:1, Творческий замок
+DraconicEvolution:cKeyStone:2, Творческий замок
+DraconicEvolution:cKeyStone:3, Творческий замок
+DraconicEvolution:dissEnchanter, Стол снятия зачарований
+DraconicEvolution:teleporterStand, Пьедестал телепортации
+DraconicEvolution:draconiumChest, Дракониевый сундук
+DraconicEvolution:draconicBlock, Пробуждённый дракониевый блок
+DraconicEvolution:energyCrystal:0, Энергетическое реле
+DraconicEvolution:energyCrystal:1, Улучшенное энергетическое реле
+DraconicEvolution:energyCrystal:2, Энергетический передатчик
+DraconicEvolution:energyCrystal:3, Улучшенный энергетический передатчик
+DraconicEvolution:energyCrystal:4, Беспроводной энергетический передатчик
+DraconicEvolution:energyCrystal:5, Улучшенный беспроводной энергетический передатчик
+DraconicEvolution:infusedObsidian, Заряженный обсидиан
+DraconicEvolution:dislocatorReceptacle, Телепортационный приёмник
+DraconicEvolution:portal, Портал
+DraconicEvolution:reactorCore, Ядро дракониевого реактора
+DraconicEvolution:flowGate:0, Энергетический ограничитель
+DraconicEvolution:flowGate:6, Жидкостный ограничитель
+DraconicEvolution:reactorStabilizer, Стабилизатор реактора
+DraconicEvolution:reactorEnergyInjector, Энергетический инжектор реактора
+DraconicEvolution:chaosCrystal, Кристалл Хаоса
+DraconicEvolution:upgradeModifier, Модификационный стол
+DraconicEvolution:dislocatorInhibitor, Dislocator Inhibitor
+DraconicEvolution:longRangeDislocator:1, Телепортер администратора
+DraconicEvolution:chaosShardAtmos, Chaos Shard
+wizardry:arcane_workbench, Чародейский Стол
+wizardry:crystal_ore, Кристальная Руда
+wizardry:petrified_stone, Окаменелый Камень
+wizardry:ice_statue, Ледяная Статуя
+wizardry:magic_light, tile.magicLight.name
+wizardry:crystal_flower, Кристальный Цветок
+wizardry:snare, Ловушка
+wizardry:transportation_stone, Камень Транспортировки
+wizardry:spectral_block, Спектральный Блок
+wizardry:crystal_block, Кристальный Блок
+wizardry:meteor, tile.null.name
+wizardry:vanishing_cobweb, tile.vanishingCobweb.name
 eplus:tile.advancedEnchantmentTable, Advanced Enchantment Table
 Forestry:core:0, Анализатор
 Forestry:core:1, Секретер
@@ -6397,7 +6458,6 @@ evilcraft:darkTank:0, Тёмный резервуар
 evilcraft:darkTank:0, Тёмный резервуар
 evilcraft:darkTank:0, Тёмный резервуар
 evilcraft:darkTank:0, Тёмный резервуар
-evilcraft:darkTank:0, Тёмный резервуар
 evilcraft:sanguinaryPedestal:0, Кровавый пьедестал
 evilcraft:sanguinaryPedestal:1, Кровавый пьедестал
 evilcraft:spikedPlate:0, Шипованная пластина
@@ -6422,6 +6482,18 @@ ExtraTiC:moltenBrass, Расплавленная латунь
 ExtraTiC:moltenAdamantine., Расплавленный адамантин
 ExtraTiC:moltenConductiveIron, Расплавленное проводящее железо
 ExtraTiC:moltenElectricalSteel, Расплавленная наэлектризованная сталь
+minecraft:record_13, Пластинка
+minecraft:record_cat, Пластинка
+minecraft:record_blocks, Пластинка
+minecraft:record_chirp, Пластинка
+minecraft:record_far, Пластинка
+minecraft:record_mall, Пластинка
+minecraft:record_mellohi, Пластинка
+minecraft:record_stal, Пластинка
+minecraft:record_strad, Пластинка
+minecraft:record_ward, Пластинка
+minecraft:record_11, Пластинка
+minecraft:record_wait, Пластинка
 ExtraTiC:moltenEnergeticAlloy, Расплавленный энергетический сплав
 ExtraTiC:moltenPhasedGold, Расплавленное пульсирующее золото
 ExtraTiC:moltenPhasedIron, Расплавленное пульсирующее железо
@@ -6522,18 +6594,6 @@ OpenBlocks:elevator_rotating:13, Вращающийся лифт
 OpenBlocks:elevator_rotating:14, Вращающийся лифт
 OpenBlocks:elevator_rotating:15, Вращающийся лифт
 OpenBlocks:heal, Исцелитель
-minecraft:record_13, Пластинка
-minecraft:record_cat, Пластинка
-minecraft:record_blocks, Пластинка
-minecraft:record_chirp, Пластинка
-minecraft:record_far, Пластинка
-minecraft:record_mall, Пластинка
-minecraft:record_mellohi, Пластинка
-minecraft:record_stal, Пластинка
-minecraft:record_strad, Пластинка
-minecraft:record_ward, Пластинка
-minecraft:record_11, Пластинка
-minecraft:record_wait, Пластинка
 OpenBlocks:target, Мишень
 OpenBlocks:grave, Могила
 OpenBlocks:flag, Флаг
@@ -11300,6 +11360,17 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Road Bloc
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Road Block
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Road Block
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Road Block
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Искажающее пламя
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Дракониевая руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Дракониевый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заряженный дракониевый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Энергетический пилон
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пробуждённый дракониевый блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Заряженный обсидиан
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Телепортер администратора
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кристальная Руда
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кристальный Блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - tile.null.name
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Апатитовая руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Медная руда
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Оловянная руда
@@ -11723,171 +11794,6 @@ ae2fc:quantum_bridge_card, Карта квантового моста
 ae2stuff:WirelessKit, Набор для настройки беспроводного соединителя
 ae2stuff:AdvWirelessKit, Advanced Wireless Setup Kit
 ae2stuff:Visualiser, Устройство визуализации Сети
-arsmagica2:spellBase, item.arsmagica2:spell_base.name
-arsmagica2:itemOre:0, Винтеумная пыль
-arsmagica2:itemOre:1, Тайная смесь
-arsmagica2:itemOre:2, Тайный пепел
-arsmagica2:itemOre:3, Очищенная винтеумная пыль
-arsmagica2:itemOre:4, Химерит
-arsmagica2:itemOre:5, Синий топаз
-arsmagica2:itemOre:6, Солнечный камень
-arsmagica2:itemOre:7, Лунный камень
-arsmagica2:itemOre:8, Свиной жир
-arsmagica2:essence:0, Тайная эссенция
-arsmagica2:essence:1, Эссенция земли
-arsmagica2:essence:2, Эссенция воздуха
-arsmagica2:essence:3, Огненная эссенция
-arsmagica2:essence:4, Эссенция воды
-arsmagica2:essence:5, Природная эссенция
-arsmagica2:essence:6, Ледяная эссенция
-arsmagica2:essence:7, Эссенция молнии
-arsmagica2:essence:8, Жизненная эссенция
-arsmagica2:essence:9, Эссенция Края
-arsmagica2:essence:10, Чистая эссенция
-arsmagica2:essence:11, Лучшее ядро эссенции
-arsmagica2:essence:12, Основное ядро эссенции
-arsmagica2:essenceBag, Мешочек эссенции
-arsmagica2:spellParchment, Пергамент заклинаний
-arsmagica2:spellBook, item.arsmagica2:spell_book.name
-arsmagica2:rune:0, Чёрная руна
-arsmagica2:rune:1, Пустая руна
-arsmagica2:rune:2, Синяя руна
-arsmagica2:rune:3, Коричневая руна
-arsmagica2:rune:4, Бирюзовая руна
-arsmagica2:rune:5, Серая руна
-arsmagica2:rune:6, Зелёная руна
-arsmagica2:rune:7, Светло-синяя руна
-arsmagica2:rune:8, Светло-серая руна
-arsmagica2:rune:9, Лаймовая руна
-arsmagica2:rune:10, Фиолетовая руна
-arsmagica2:rune:11, Оранжевая руна
-arsmagica2:rune:12, Розовая руна
-arsmagica2:rune:13, Сиреневая руна
-arsmagica2:rune:14, Красная руна
-arsmagica2:rune:15, Белая руна
-arsmagica2:rune:16, Жёлтая руна
-arsmagica2:rune:17, Сфера бесконечности
-arsmagica2:rune:18, Сфера бесконечности
-arsmagica2:rune:19, Сфера бесконечности
-arsmagica2:rune:20, Руна отладки
-arsmagica2:lesserFocus, Малый фокус
-arsmagica2:standardFocus, Обычный фокус
-arsmagica2:greaterFocus, Большой фокус
-arsmagica2:manaFocus, Фокус на ману
-arsmagica2:chargeFocus, Фокус на энергию
-arsmagica2:playerFocus, Фокус на игрока
-arsmagica2:mobFocus, Фокус на монстра
-arsmagica2:itemFocus, Фокус на предмет
-arsmagica2:creatureFocus, Фокус на существ
-arsmagica2:blueChalk, Мел волшебника
-arsmagica2:manaCake, Торт маны
-arsmagica2:keystone, Краеугольный камень
-arsmagica2:bookAffinity:0, Большая книга родства: NONE
-arsmagica2:bookAffinity:1, Большая книга родства: ARCANE
-arsmagica2:bookAffinity:2, Большая книга родства: WATER
-arsmagica2:bookAffinity:3, Большая книга родства: FIRE
-arsmagica2:bookAffinity:4, Большая книга родства: EARTH
-arsmagica2:bookAffinity:5, Большая книга родства: AIR
-arsmagica2:bookAffinity:6, Большая книга родства: LIGHTNING
-arsmagica2:bookAffinity:7, Большая книга родства: ICE
-arsmagica2:bookAffinity:8, Большая книга родства: NATURE
-arsmagica2:bookAffinity:9, Большая книга родства: LIFE
-arsmagica2:bookAffinity:10, Большая книга родства: ENDER
-arsmagica2:lesserManaPotion, Малое зелье маны
-arsmagica2:standardManaPotion, Обычное зелье маны
-arsmagica2:greaterManaPotion, Большое зелье маны
-arsmagica2:epicManaPotion, Очень большое зелье маны
-arsmagica2:legendaryManaPotion, Легендарное зелье маны
-arsmagica2:manaPotionBundle:3, Малое зелье маны (Связка)
-arsmagica2:manaPotionBundle:259, Обычное зелье маны (Связка)
-arsmagica2:manaPotionBundle:515, Большое зелье маны (Связка)
-arsmagica2:manaPotionBundle:771, Очень большое зелье маны (Связка)
-arsmagica2:manaPotionBundle:1027, Легендарное зелье маны (Связка)
-arsmagica2:mageHood, Капюшон мага
-arsmagica2:mageArmor, Мантия мага
-arsmagica2:mageLeggings, Поножи мага
-arsmagica2:mageBoots, Ботинки мага
-arsmagica2:battlemageHood, Диадема боевого мага
-arsmagica2:battlemageArmor, Броня боевого мага
-arsmagica2:battlemageLeggings, Поножи боевого мага
-arsmagica2:battlemageBoots, Ботинки боевого мага
-arsmagica2:BoundHoeNor, Мотыга связывания
-arsmagica2:BoundShovelNor, Лопата связывания
-arsmagica2:BoundAxeNor, Топор связывания
-arsmagica2:BoundPickaxeNor, Кирка связывания
-arsmagica2:BoundSwordNor, Меч связывания
-arsmagica2:AMSpawnEgg:0, Призвать существо - Крипер маны
-arsmagica2:AMSpawnEgg:1, Призвать существо - Дриада
-arsmagica2:AMSpawnEgg:2, Призвать существо - Геката
-arsmagica2:AMSpawnEgg:3, Призвать существо - Маг-житель
-arsmagica2:AMSpawnEgg:4, Призвать существо - Элементаль маны
-arsmagica2:AMSpawnEgg:5, Призвать существо - Элементаль воды
-arsmagica2:AMSpawnEgg:6, Призвать существо - Светлый маг
-arsmagica2:AMSpawnEgg:7, Призвать существо - Тёмный маг
-arsmagica2:AMSpawnEgg:8, Призвать существо - Адская корова
-arsmagica2:AMSpawnEgg:9, Призвать существо - Вспышка
-arsmagica2:AMSpawnEgg:10, Призвать существо - Элементаль земли
-arsmagica2:AMSpawnEgg:11, Призвать существо - Элементаль огня
-arsmagica2:AMSpawnEgg:12, Призвать существо - Тьма
-arsmagica2:AMSpawnEgg:13, Призвать существо - Хранитель природы
-arsmagica2:AMSpawnEgg:14, Призвать существо - Хранитель арканы
-arsmagica2:AMSpawnEgg:15, Призвать существо - Хранитель земли
-arsmagica2:AMSpawnEgg:16, Призвать существо - Хранитель воды
-arsmagica2:AMSpawnEgg:17, Призвать существо - Хранитель зимы
-arsmagica2:AMSpawnEgg:18, Призвать существо - Хранитель воздуха
-arsmagica2:AMSpawnEgg:19, Призвать существо - Хранитель огня
-arsmagica2:AMSpawnEgg:20, Призвать существо - Хранитель жизни
-arsmagica2:AMSpawnEgg:21, Призвать существо - Хранитель молний
-arsmagica2:AMSpawnEgg:22, Призвать существо - Хранитель Края
-arsmagica2:deficitCrystal, Кристал нехватки
-arsmagica2:crystal_wrench, Кристальный ключ
-arsmagica2:ArcaneCompendium, Тайный компендиум
-arsmagica2:SpellComponent, item.null.name
-arsmagica2:Crystal Phylactery, Кристальная филактерия
-arsmagica2:liquidEssenceBucket, Ведро жидкого эфириума
-arsmagica2:natureScythe, §6Коса природы§f
-arsmagica2:magitechStaff, Посох техномага
-arsmagica2:liquidEssenceBottle, Зелье наполненное эфириумом
-arsmagica2:bindingCatalyst:0, Связующий катализатор: Кирка
-arsmagica2:bindingCatalyst:1, Связующий катализатор: Топор
-arsmagica2:bindingCatalyst:3, Связующий катализатор: Лопата
-arsmagica2:bindingCatalyst:2, Связующий катализатор: Меч
-arsmagica2:bindingCatalyst:4, Связующий катализатор: Мотыга
-arsmagica2:evilBook, Зловещая книга
-arsmagica2:woodenLeg, Деревянная нога
-arsmagica2:cowHorn, Рог адской коровы
-arsmagica2:magicBroom, магической метлы
-arsmagica2:arcane_spellbook, item.arsmagica2:arcane_spellbook.name
-arsmagica2:winter_arm, §6Хватка зимы§f
-arsmagica2:air_sled, §6Воздушная упряжка§f
-arsmagica2:earth_armor, §6Доспехи земли§f
-arsmagica2:water_orbs, §6Сферы воды§f
-arsmagica2:fire_ears, §6Щупальце огня хранителя§f
-arsmagica2:workbenchUpgrade, Улучшение верстака мага: Создание
-arsmagica2:keystoneDoorPlacer:0, Краеугольная дверь
-arsmagica2:keystoneDoorPlacer:1, Spell-Sealed Door
-arsmagica2:enderBoots, §6Ботинки Края§f
-arsmagica2:wardingCandle:0, Свеча оберега (Ненастроенная)
-arsmagica2:magitechGoggles, Очки техномага
-arsmagica2:flickerJar:0, Мерцающий кувшин: Пусто
-arsmagica2:flickerJar:1, Мерцающий кувшин: Arcane
-arsmagica2:flickerJar:2, Мерцающий кувшин: Water
-arsmagica2:flickerJar:3, Мерцающий кувшин: Fire
-arsmagica2:flickerJar:4, Мерцающий кувшин: Earth
-arsmagica2:flickerJar:5, Мерцающий кувшин: Air
-arsmagica2:flickerJar:6, Мерцающий кувшин: Lightning
-arsmagica2:flickerJar:7, Мерцающий кувшин: Ice
-arsmagica2:flickerJar:8, Мерцающий кувшин: Nature
-arsmagica2:flickerJar:9, Мерцающий кувшин: Life
-arsmagica2:flickerJar:10, Мерцающий кувшин: Ender
-arsmagica2:runeBag, Рунный мешочек
-arsmagica2:lightningCharm, §6Амулет молний§f
-arsmagica2:lifeWard, §6Укрепление жизни§f
-arsmagica2:playerjournal, Журнал
-arsmagica2:manaMartini, Mana Martini
-arsmagica2:inscriptionUpgrade:0, Inscription Table Tier 1 Upgrade
-arsmagica2:inscriptionUpgrade:1, Inscription Table Tier 2 Upgrade
-arsmagica2:inscriptionUpgrade:2, Inscription Table Tier 3 Upgrade
 Automagy:shardSliver:0, Грозовая Щепка
 Automagy:shardSliver:1, Огненная Щепка
 Automagy:shardSliver:2, Ледяная Щепка
@@ -12438,8 +12344,6 @@ ForbiddenMagic:WandCores:32766, Обитый орихалком космичес
 ForbiddenMagic:WandCores:12, Обитый железом Нечестивый жезл
 ForbiddenMagic:WandCores:84, Алхимически коронованный кровавый жезл
 ForbiddenMagic:WandCores:168, Алхимически коронованный кровавый посох
-ForbiddenMagic:WandCores:72, Утолщённой винтеумом ведьмодревесный жезл
-ForbiddenMagic:WandCores:144, Утолщённой винтеумом ведьмодревесный посох
 ForbiddenMagic:WandCores:72, Обвитый манасталью живодревесный жезл
 ForbiddenMagic:WandCores:108, Поцелованный элементием мечтодревесный жезл
 ForbiddenMagic:WandCores:225, Поцелованный элементием мечтодревесный посох
@@ -13268,6 +13172,8 @@ TConstruct:BoltPart:167, Сапфировый болт
 TConstruct:BoltPart:171, Тёмностальной болт
 TConstruct:BoltPart:172, Пустотнометаллический болт
 TConstruct:BoltPart:173, Красноаурумный болт
+TConstruct:BoltPart:178, Драконий болт
+TConstruct:BoltPart:179, Пробуждённодракониевый болт
 TConstruct:BoltPart:180, Клеевой болт
 TConstruct:BoltPart:181, Йеллориумовый болт
 TConstruct:BoltPart:182, Цианитовый болт
@@ -13790,6 +13696,438 @@ chisel:obsidianChisel, Обсидиановая стамеска
 chisel:netherStarChisel, Стамеска из адских звёзд
 chisel:cloudinabottle, Облако в бутылке
 chisel:smashingrock, Сокрушительный камень
+DraconicEvolution:draconicDistructionStaff:0, Посох силы
+DraconicEvolution:draconicDistructionStaff:0, Посох силы
+DraconicEvolution:draconicPickaxe:0, Кирка Дракона
+DraconicEvolution:draconicPickaxe:0, Кирка Дракона
+DraconicEvolution:draconicAxe:0, Топор Дракона
+DraconicEvolution:draconicAxe:0, Топор Дракона
+DraconicEvolution:draconicShovel:0, Лопата Дракона
+DraconicEvolution:draconicShovel:0, Лопата Дракона
+DraconicEvolution:draconicHoe, Мотыга Дракона
+DraconicEvolution:draconicSword, Меч Дракона
+DraconicEvolution:draconicBow:0, Лук Дракона
+DraconicEvolution:draconicBow:0, Лук Дракона
+DraconicEvolution:draconicHelm, Шлем Дракона
+DraconicEvolution:draconicChest, Нагрудник Дракона
+DraconicEvolution:draconicLeggs, Поножи Дракона
+DraconicEvolution:draconicBoots, Ботинки Дракона
+DraconicEvolution:wyvernPickaxe:0, Кирка Виверны
+DraconicEvolution:wyvernPickaxe:0, Кирка Виверны
+DraconicEvolution:wyvernShovel:0, Лопата Виверны
+DraconicEvolution:wyvernShovel:0, Лопата Виверны
+DraconicEvolution:wyvernSword, Меч Виверны
+DraconicEvolution:wyvernBow:0, Лук Виверны
+DraconicEvolution:wyvernBow:0, Лук Виверны
+DraconicEvolution:wyvernHelm, Шлем Виверны
+DraconicEvolution:wyvernChest, Нагрудник Виверны
+DraconicEvolution:wyvernLeggs, Поножи Виверны
+DraconicEvolution:wyvernBoots, Ботинки Виверны
+DraconicEvolution:draconicCore, Ядро Дракона
+DraconicEvolution:wyvernCore, Ядро Виверны
+DraconicEvolution:awakenedCore, Пробуждённое ядро
+DraconicEvolution:chaoticCore, Ядро Хаоса
+DraconicEvolution:draconiumDust, Дракониевая пыль
+DraconicEvolution:draconiumIngot, Дракониевый слиток
+DraconicEvolution:draconiumBlend, Смесь дракония (Отключена)
+DraconicEvolution:dragonHeart, Сердце Дракона
+DraconicEvolution:teleporterMKI, Амулет телепортации
+DraconicEvolution:teleporterMKII, Усовершенствованный амулет телепортации
+DraconicEvolution:tclogo, TCЛого
+DraconicEvolution:sunFocus, Солнечный фокус
+DraconicEvolution:mobSoul, Душа существа
+DraconicEvolution:enderArrow, Стрела Края
+DraconicEvolution:safetyMatch:0, Спичечный коробок
+DraconicEvolution:safetyMatch:1000, Спичка
+DraconicEvolution:key:0, Ключ
+DraconicEvolution:key:1, Ключ
+DraconicEvolution:creativeStructureSpawner:0, Заспавнить комету
+DraconicEvolution:creativeStructureSpawner:1, Заспавнить остров Края
+DraconicEvolution:adminSpawnEgg, Spawn Egg
+DraconicEvolution:infoTablet, Информационный планшет Draconic Evolution
+DraconicEvolution:draconicIngot, Пробуждённый дракониевый слиток
+DraconicEvolution:draconiumEnergyCore:0, Энергетическое Ядро Виверны
+DraconicEvolution:draconiumEnergyCore:1, Энергетическое Ядро Дракона
+DraconicEvolution:draconiumFluxCapacitor, Flux Capacitor
+DraconicEvolution:wrench, Связыватель кристаллов
+DraconicEvolution:chaosShard, Осколок Хаоса
+DraconicEvolution:reactorCraftingPart:0, Рамка стабилизатора реактора
+DraconicEvolution:reactorCraftingPart:1, Внутренний ротор стабилизатора реактора
+DraconicEvolution:reactorCraftingPart:2, Внешний ротор стабилизатора реактора
+DraconicEvolution:reactorCraftingPart:3, Готовый ротор стабилизатора реактора
+DraconicEvolution:reactorCraftingPart:4, Фокусирующее кольцо стабилизатора реактора
+DraconicEvolution:nugget:0, Дракониевый самородок
+DraconicEvolution:nugget:1, Пробуждённый дракониевый самородок
+DraconicEvolution:chaosFragment:0, Крошечный осколок Хаоса
+DraconicEvolution:chaosFragment:1, Маленький осколок Хаоса
+DraconicEvolution:chaosFragment:2, Большой осколок Хаоса
+DraconicEvolution:magnet:0, Телепортационный магнит
+DraconicEvolution:magnet:1, Пробуждённый телепортационный магнит
+DraconicEvolution:dezilsMarshmallow, Зефир Dezil'а
+wizardry:magic_crystal, Магический Кристалл
+wizardry:magic_wand, Волшебный Жезл
+wizardry:apprentice_wand, Жезл Ученика
+wizardry:advanced_wand, Продвинутый Жезл
+wizardry:master_wand, Жезл Мастера
+wizardry:spell_book:1, Книга Заклинаний
+wizardry:spell_book:2, Книга Заклинаний
+wizardry:spell_book:3, Книга Заклинаний
+wizardry:spell_book:4, Книга Заклинаний
+wizardry:spell_book:5, Книга Заклинаний
+wizardry:spell_book:6, Книга Заклинаний
+wizardry:spell_book:7, Книга Заклинаний
+wizardry:spell_book:8, Книга Заклинаний
+wizardry:spell_book:9, Книга Заклинаний
+wizardry:spell_book:10, Книга Заклинаний
+wizardry:spell_book:11, Книга Заклинаний
+wizardry:spell_book:12, Книга Заклинаний
+wizardry:spell_book:13, Книга Заклинаний
+wizardry:spell_book:14, Книга Заклинаний
+wizardry:spell_book:15, Книга Заклинаний
+wizardry:spell_book:16, Книга Заклинаний
+wizardry:spell_book:17, Книга Заклинаний
+wizardry:spell_book:18, Книга Заклинаний
+wizardry:spell_book:19, Книга Заклинаний
+wizardry:spell_book:20, Книга Заклинаний
+wizardry:spell_book:21, Книга Заклинаний
+wizardry:spell_book:22, Книга Заклинаний
+wizardry:spell_book:23, Книга Заклинаний
+wizardry:spell_book:24, Книга Заклинаний
+wizardry:spell_book:25, Книга Заклинаний
+wizardry:spell_book:26, Книга Заклинаний
+wizardry:spell_book:27, Книга Заклинаний
+wizardry:spell_book:28, Книга Заклинаний
+wizardry:spell_book:29, Книга Заклинаний
+wizardry:spell_book:30, Книга Заклинаний
+wizardry:spell_book:31, Книга Заклинаний
+wizardry:spell_book:32, Книга Заклинаний
+wizardry:spell_book:33, Книга Заклинаний
+wizardry:spell_book:34, Книга Заклинаний
+wizardry:spell_book:35, Книга Заклинаний
+wizardry:spell_book:36, Книга Заклинаний
+wizardry:spell_book:37, Книга Заклинаний
+wizardry:spell_book:38, Книга Заклинаний
+wizardry:spell_book:39, Книга Заклинаний
+wizardry:spell_book:40, Книга Заклинаний
+wizardry:spell_book:41, Книга Заклинаний
+wizardry:spell_book:42, Книга Заклинаний
+wizardry:spell_book:43, Книга Заклинаний
+wizardry:spell_book:44, Книга Заклинаний
+wizardry:spell_book:45, Книга Заклинаний
+wizardry:spell_book:46, Книга Заклинаний
+wizardry:spell_book:47, Книга Заклинаний
+wizardry:spell_book:48, Книга Заклинаний
+wizardry:spell_book:49, Книга Заклинаний
+wizardry:spell_book:50, Книга Заклинаний
+wizardry:spell_book:51, Книга Заклинаний
+wizardry:spell_book:52, Книга Заклинаний
+wizardry:spell_book:53, Книга Заклинаний
+wizardry:spell_book:54, Книга Заклинаний
+wizardry:spell_book:55, Книга Заклинаний
+wizardry:spell_book:56, Книга Заклинаний
+wizardry:spell_book:57, Книга Заклинаний
+wizardry:spell_book:58, Книга Заклинаний
+wizardry:spell_book:59, Книга Заклинаний
+wizardry:spell_book:60, Книга Заклинаний
+wizardry:spell_book:61, Книга Заклинаний
+wizardry:spell_book:62, Книга Заклинаний
+wizardry:spell_book:63, Книга Заклинаний
+wizardry:spell_book:64, Книга Заклинаний
+wizardry:spell_book:65, Книга Заклинаний
+wizardry:spell_book:66, Книга Заклинаний
+wizardry:spell_book:67, Книга Заклинаний
+wizardry:spell_book:68, Книга Заклинаний
+wizardry:spell_book:69, Книга Заклинаний
+wizardry:spell_book:70, Книга Заклинаний
+wizardry:spell_book:71, Книга Заклинаний
+wizardry:spell_book:72, Книга Заклинаний
+wizardry:spell_book:73, Книга Заклинаний
+wizardry:spell_book:74, Книга Заклинаний
+wizardry:spell_book:75, Книга Заклинаний
+wizardry:spell_book:76, Книга Заклинаний
+wizardry:spell_book:77, Книга Заклинаний
+wizardry:spell_book:78, Книга Заклинаний
+wizardry:spell_book:79, Книга Заклинаний
+wizardry:spell_book:80, Книга Заклинаний
+wizardry:spell_book:81, Книга Заклинаний
+wizardry:spell_book:82, Книга Заклинаний
+wizardry:spell_book:83, Книга Заклинаний
+wizardry:spell_book:84, Книга Заклинаний
+wizardry:spell_book:85, Книга Заклинаний
+wizardry:spell_book:86, Книга Заклинаний
+wizardry:spell_book:87, Книга Заклинаний
+wizardry:spell_book:88, Книга Заклинаний
+wizardry:spell_book:89, Книга Заклинаний
+wizardry:spell_book:90, Книга Заклинаний
+wizardry:spell_book:91, Книга Заклинаний
+wizardry:spell_book:92, Книга Заклинаний
+wizardry:spell_book:93, Книга Заклинаний
+wizardry:spell_book:94, Книга Заклинаний
+wizardry:spell_book:95, Книга Заклинаний
+wizardry:spell_book:96, Книга Заклинаний
+wizardry:spell_book:97, Книга Заклинаний
+wizardry:spell_book:98, Книга Заклинаний
+wizardry:spell_book:99, Книга Заклинаний
+wizardry:spell_book:100, Книга Заклинаний
+wizardry:spell_book:101, Книга Заклинаний
+wizardry:spell_book:102, Книга Заклинаний
+wizardry:spell_book:103, Книга Заклинаний
+wizardry:spell_book:104, Книга Заклинаний
+wizardry:spell_book:105, Книга Заклинаний
+wizardry:spell_book:106, Книга Заклинаний
+wizardry:spell_book:107, Книга Заклинаний
+wizardry:spell_book:108, Книга Заклинаний
+wizardry:spell_book:109, Книга Заклинаний
+wizardry:spell_book:110, Книга Заклинаний
+wizardry:spell_book:111, Книга Заклинаний
+wizardry:spell_book:112, Книга Заклинаний
+wizardry:spell_book:113, Книга Заклинаний
+wizardry:spell_book:114, Книга Заклинаний
+wizardry:spell_book:115, Книга Заклинаний
+wizardry:spell_book:116, Книга Заклинаний
+wizardry:spell_book:117, Книга Заклинаний
+wizardry:spell_book:118, Книга Заклинаний
+wizardry:spell_book:119, Книга Заклинаний
+wizardry:spell_book:120, Книга Заклинаний
+wizardry:spell_book:121, Книга Заклинаний
+wizardry:spell_book:122, Книга Заклинаний
+wizardry:spell_book:123, Книга Заклинаний
+wizardry:spell_book:124, Книга Заклинаний
+wizardry:spell_book:125, Книга Заклинаний
+wizardry:spell_book:126, Книга Заклинаний
+wizardry:spell_book:127, Книга Заклинаний
+wizardry:spell_book:128, Книга Заклинаний
+wizardry:spell_book:129, Книга Заклинаний
+wizardry:spell_book:130, Книга Заклинаний
+wizardry:spell_book:131, Книга Заклинаний
+wizardry:spell_book:132, Книга Заклинаний
+wizardry:spell_book:133, Книга Заклинаний
+wizardry:spell_book:134, Книга Заклинаний
+wizardry:spell_book:135, Книга Заклинаний
+wizardry:spell_book:136, Книга Заклинаний
+wizardry:spell_book:137, Книга Заклинаний
+wizardry:spell_book:138, Книга Заклинаний
+wizardry:spell_book:139, Книга Заклинаний
+wizardry:spell_book:140, Книга Заклинаний
+wizardry:arcane_tome:1, Фолиант Арканы
+wizardry:arcane_tome:2, Фолиант Арканы
+wizardry:arcane_tome:3, Фолиант Арканы
+wizardry:wizard_handbook, Книга Волшебника
+wizardry:basic_fire_wand, Жезл Огня
+wizardry:basic_ice_wand, Жезл Мороза
+wizardry:basic_lightning_wand, Жезл Искр
+wizardry:basic_necromancy_wand, Жезл Теней
+wizardry:basic_earth_wand, Жезл Леса
+wizardry:basic_sorcery_wand, Жезл Тайн
+wizardry:basic_healing_wand, Жезл Лечения
+wizardry:apprentice_fire_wand, Жезл Ученика Пироманта
+wizardry:apprentice_ice_wand, Жезл Ученика Ледяного Мага
+wizardry:apprentice_lightning_wand, Жезл Ученика Штормового Мага
+wizardry:apprentice_necromancy_wand, Жезл Ученика Некроманта
+wizardry:apprentice_earth_wand, Жезл Ученика Земляного Мага
+wizardry:apprentice_sorcery_wand, Жезл Ученика Колдуна
+wizardry:apprentice_healing_wand, Жезл Ученика Целителя
+wizardry:advanced_fire_wand, Жезл Пироманта
+wizardry:advanced_ice_wand, Жезл Ледяного Мага
+wizardry:advanced_lightning_wand, Жезл Штормового Мага
+wizardry:advanced_necromancy_wand, Жезл Некроманта
+wizardry:advanced_earth_wand, Жезл Земляного Мага
+wizardry:advanced_sorcery_wand, Жезл Колдуна
+wizardry:advanced_healing_wand, Жезл Целителя
+wizardry:master_fire_wand, Жезл Мастера Пироманта
+wizardry:master_ice_wand, Жезл Мастера Ледяного Мага
+wizardry:master_lightning_wand, Жезл Мастера Штормового Мага
+wizardry:master_necromancy_wand, Жезл Мастера Некроманта
+wizardry:master_earth_wand, Жезл Мастера Земляного Мага
+wizardry:master_sorcery_wand, Жезл Мастера Колдуна
+wizardry:master_healing_wand, Жезл Мастера Целителя
+wizardry:spectral_sword, Спектральный Меч
+wizardry:spectral_pickaxe, Спектральная Кирка
+wizardry:spectral_bow, Спектральный Лук
+wizardry:mana_flask, Бутылка Маны
+wizardry:storage_upgrade, Улучшение Хранилища Жезла
+wizardry:siphon_upgrade, Улучшение Сифона Жезла
+wizardry:condenser_upgrade, Улучшение Конденсатора Жезла
+wizardry:range_upgrade, Улучшение Радиуса Жезла
+wizardry:duration_upgrade, Улучшение Длительности Жезла
+wizardry:cooldown_upgrade, Улучшение Кулдауна Жезла
+wizardry:blast_upgrade, Улучшение Обновления Жезла
+wizardry:attunement_upgrade, Wand Attunement Upgrade
+wizardry:flaming_axe, Огненный Топор
+wizardry:frost_axe, Ледяной Топор
+wizardry:firebomb, Огненная Бомба
+wizardry:poison_bomb, Ядовитая Бомба
+wizardry:blank_scroll, Пустой Свиток
+wizardry:scroll:1, Свиток Магическая Ракета
+wizardry:scroll:2, Свиток Воспламенение
+wizardry:scroll:3, Свиток Замораживание
+wizardry:scroll:4, Свиток Снежок
+wizardry:scroll:5, Свиток Дуга
+wizardry:scroll:6, Свиток Штормовой Удар
+wizardry:scroll:7, Свиток Призыв Зомби
+wizardry:scroll:8, Свиток Ловушка
+wizardry:scroll:9, Свиток Дротик
+wizardry:scroll:10, Свиток Свет
+wizardry:scroll:11, Свиток Телекинез
+wizardry:scroll:12, Свиток Исцеление
+wizardry:scroll:13, Свиток Огненный Шар
+wizardry:scroll:15, Свиток Огенная Бомба
+wizardry:scroll:16, Свиток Огненная Печать
+wizardry:scroll:17, Свиток Огненный Болт
+wizardry:scroll:19, Свиток Призыв Снеговика
+wizardry:scroll:20, Свиток Ледяной Осколок
+wizardry:scroll:21, Свиток Ледяная Статуя
+wizardry:scroll:22, Свиток Ледяная Печать
+wizardry:scroll:24, Свиток Бомба Искр
+wizardry:scroll:25, Свиток Самонаводящаяся Искра
+wizardry:scroll:26, Свиток Печать Молнии
+wizardry:scroll:27, Свиток Стрела Молнии
+wizardry:scroll:29, Свиток Призыв Скелета
+wizardry:scroll:30, Свиток Превращение
+wizardry:scroll:31, Свиток Иссушение
+wizardry:scroll:32, Свиток Отравление
+wizardry:scroll:33, Свиток Аура Роста
+wizardry:scroll:34, Свиток Пузыри
+wizardry:scroll:35, Свиток Вихрь
+wizardry:scroll:36, Свиток Ядовитая Бомба
+wizardry:scroll:37, Свиток Призыв Призрачного Волка
+wizardry:scroll:38, Свиток Блинк
+wizardry:scroll:39, Свиток Ловкость
+wizardry:scroll:40, Свиток Призвать Меч
+wizardry:scroll:41, Свиток Призвать Кирку
+wizardry:scroll:42, Свиток Призвать Лук
+wizardry:scroll:43, Свиток Силовая Стрела
+wizardry:scroll:45, Свиток Насыщение
+wizardry:scroll:46, Свиток Эффект Лечения
+wizardry:scroll:47, Свиток Исцеление Союзника
+wizardry:scroll:48, Свиток Призыв Блейза
+wizardry:scroll:49, Свиток Кольцо Огня
+wizardry:scroll:50, Свиток Взрыв
+wizardry:scroll:51, Свиток Огестойкость
+wizardry:scroll:52, Свиток Огненная Кожа
+wizardry:scroll:53, Свиток Огненный Топор
+wizardry:scroll:54, Свиток Метель
+wizardry:scroll:55, Свиток Призыв Ледяного Призрака
+wizardry:scroll:56, Свиток Ледяная Кожа
+wizardry:scroll:57, Свиток Ледяной Заряд
+wizardry:scroll:58, Свиток Ледяной Топор
+wizardry:scroll:59, Свиток Вызов Погоды
+wizardry:scroll:60, Свиток Цепная Молния
+wizardry:scroll:61, Свиток Удар Молнии
+wizardry:scroll:62, Свиток Призыв Штормового Призрака
+wizardry:scroll:63, Свиток Статическая Аура
+wizardry:scroll:64, Свиток Диск Молнии
+wizardry:scroll:65, Свиток Контроль Разума
+wizardry:scroll:66, Свиток Призыв Скелета-Иссушителя
+wizardry:scroll:67, Свиток Захват
+wizardry:scroll:68, Свиток Череп Иссушителя
+wizardry:scroll:69, Свиток Тёмная Сфера
+wizardry:scroll:71, Свиток Гниение
+wizardry:scroll:72, Свиток Дыхание Под Водой
+wizardry:scroll:73, Свиток Торнадо
+wizardry:scroll:75, Свиток Призыв Призрачной Лошади
+wizardry:scroll:76, Свиток Рой Пауков
+wizardry:scroll:77, Свиток Слизь
+wizardry:scroll:78, Свиток Окаменение
+wizardry:scroll:79, Свиток Невидимость
+wizardry:scroll:81, Свиток Силовая Сфера
+wizardry:scroll:82, Свиток Транспортировка
+wizardry:scroll:83, Свиток Спектральный Путь
+wizardry:scroll:84, Свиток Фазовый Шаг
+wizardry:scroll:85, Свиток Исчезающая Коробка
+wizardry:scroll:86, Свиток Великое Исцеление
+wizardry:scroll:87, Свиток Аура Исцеления
+wizardry:scroll:88, Свиток Силовое Поле
+wizardry:scroll:89, Свиток Железная Кожа
+wizardry:scroll:90, Свиток Быстрота
+wizardry:scroll:91, Свиток Метеор
+wizardry:scroll:93, Свиток Призыв Феникса
+wizardry:scroll:94, Свиток Ледниковый Период
+wizardry:scroll:96, Свиток Призыв Ледяного Гиганта
+wizardry:scroll:97, Свиток Гроза
+wizardry:scroll:98, Свиток Молот Молнии
+wizardry:scroll:99, Свиток Чума Темноты
+wizardry:scroll:100, Свиток Призыв Легиона Скелета
+wizardry:scroll:101, Свиток Призыв Тёмного Призрака
+wizardry:scroll:102, Свиток Проклятие Леса
+wizardry:scroll:104, Свиток Рой Чешуйниц
+wizardry:scroll:105, Свиток Чёрная Дыра
+wizardry:scroll:106, Свиток Ударная Волна
+wizardry:scroll:107, Свиток Призыв Железного Голема
+wizardry:scroll:108, Свиток Дождь Стрел
+wizardry:scroll:109, Свиток Алмазная Кожа
+wizardry:scroll:110, Свиток Источник Жизненной Силы
+wizardry:scroll:111, Свиток Smoke Bomb
+wizardry:scroll:112, Свиток Mind Trick
+wizardry:scroll:113, Свиток Leap
+wizardry:scroll:114, Свиток Pocket Furnace
+wizardry:scroll:115, Свиток Intimidate
+wizardry:scroll:116, Свиток Banish
+wizardry:scroll:117, Свиток Sixth Sense
+wizardry:scroll:118, Свиток Darkvision
+wizardry:scroll:119, Свиток Clairvoyance
+wizardry:scroll:120, Свиток Pocket Workbench
+wizardry:scroll:121, Свиток Imbue Weapon
+wizardry:scroll:122, Свиток Invigorating Presence
+wizardry:scroll:123, Свиток Oakflesh
+wizardry:scroll:124, Свиток Greater Fireball
+wizardry:scroll:125, Свиток Flaming Weapon
+wizardry:scroll:126, Свиток Ice Lance
+wizardry:scroll:127, Свиток Freezing Weapon
+wizardry:scroll:128, Свиток Ice Spikes
+wizardry:scroll:129, Свиток Lightning Pulse
+wizardry:scroll:130, Свиток Curse of Soulbinding
+wizardry:scroll:131, Свиток Cobwebs
+wizardry:scroll:132, Свиток Decoy
+wizardry:scroll:133, Свиток Arcane Jammer
+wizardry:scroll:134, Свиток Conjure Armor
+wizardry:scroll:135, Свиток Group Heal
+wizardry:scroll:136, Свиток Hailstorm
+wizardry:scroll:138, Свиток Summon Storm Elemental
+wizardry:scroll:139, Свиток Earthquake
+wizardry:scroll:140, Свиток Font of Mana
+wizardry:armour_upgrade, Печать Магической Защиты
+wizardry:magic_silk, Магический Шёлк
+wizardry:wizard_hat, Шляпа Волшебника
+wizardry:wizard_robe, Роба Волшебника
+wizardry:wizard_leggings, Поножи Волшебника
+wizardry:wizard_boots, Ботинки Волшебника
+wizardry:wizard_hat_fire, Шляпа Пироманта
+wizardry:wizard_robe_fire, Роба Пироманта
+wizardry:wizard_leggings_fire, Поножи Пироманта
+wizardry:wizard_boots_fire, Ботинки Пироманта
+wizardry:wizard_hat_ice, Шляпа Ледяного Мага
+wizardry:wizard_robe_ice, Роба Ледяного Мага
+wizardry:wizard_leggings_ice, Поножи Ледяного Мага
+wizardry:wizard_boots_ice, Ботинки Ледяного Мага
+wizardry:wizard_hat_lightning, Шляпа Штормового Мага
+wizardry:wizard_robe_lightning, Роба Штормового Мага
+wizardry:wizard_leggings_lightning, Поножи Штормового Мага
+wizardry:wizard_boots_lightning, Ботинки Штормового Мага
+wizardry:wizard_hat_necromancy, Шляпа Некроманта
+wizardry:wizard_robe_necromancy, Роба Некроманта
+wizardry:wizard_leggings_necromancy, Поножи Некроманта
+wizardry:wizard_boots_necromancy, Ботинки Некроманта
+wizardry:wizard_hat_earth, Шляпа Земляного Мага
+wizardry:wizard_robe_earth, Роба Земляного Мага
+wizardry:wizard_leggings_earth, Поножи Земляного Мага
+wizardry:wizard_boots_earth, Ботинки Земляного Мага
+wizardry:wizard_hat_sorcery, Шляпа Колдуна
+wizardry:wizard_robe_sorcery, Роба Колдуна
+wizardry:wizard_leggings_sorcery, Поножи Колдуна
+wizardry:wizard_boots_sorcery, Ботинки Колдуна
+wizardry:wizard_hat_healing, Шляпа Целителя
+wizardry:wizard_robe_healing, Роба Целителя
+wizardry:wizard_leggings_healing, Поножи Целителя
+wizardry:wizard_boots_healing, Ботинки Целителя
+wizardry:spawn_wizard:0, Спаун Волшебника
+wizardry:spawn_wizard:1, Spawn Evil Wizard
+wizardry:spectral_helmet, Spectral Helmet
+wizardry:spectral_chestplate, Spectral Chestplate
+wizardry:spectral_leggings, Spectral Leggings
+wizardry:spectral_boots, Spectral Boots
+wizardry:smoke_bomb, Smoke Bomb
+wizardry:identification_scroll, Scroll of Identification
 eplus:item.tableUpgrade, Table Upgrade
 Forestry:fertilizerBio, Компост
 Forestry:fertilizerCompound, Минеральное удобрение
@@ -14396,6 +14734,8 @@ ExtraTiC:arrowhead:167, Сапфировый наконечник стрелы
 ExtraTiC:arrowhead:171, Наконечник стрелы из тёмной стали
 ExtraTiC:arrowhead:172, Наконечник стрелы из пустотного металла
 ExtraTiC:arrowhead:173, Наконечник стрелы из красного аурума
+ExtraTiC:arrowhead:178, Наконечник стрелы из дракония
+ExtraTiC:arrowhead:179, Наконечник стрелы из пробуждённого дракония
 ExtraTiC:arrowhead:180, Наконечник стрелы из клея
 ExtraTiC:arrowhead:181, Йеллориум наконечник стрелы
 ExtraTiC:arrowhead:182, Цианит наконечник стрелы
@@ -14423,6 +14763,8 @@ ExtraTiC:axeHead:167, Сапфировый обух топора
 ExtraTiC:axeHead:171, Обух топора из тёмной стали
 ExtraTiC:axeHead:172, Обух топора из пустотного металла
 ExtraTiC:axeHead:173, Обух топора из красного аурума
+ExtraTiC:axeHead:178, Обух топора из дракония
+ExtraTiC:axeHead:179, Обух топора из пробуждённого дракония
 ExtraTiC:axeHead:180, Обух топора из клея
 ExtraTiC:axeHead:181, Йеллориум обух топора
 ExtraTiC:axeHead:182, Цианит обух топора
@@ -14450,6 +14792,8 @@ ExtraTiC:battelSign:167, Сапфировая боевая табличка
 ExtraTiC:battelSign:171, Боевая табличка из тёмной стали
 ExtraTiC:battelSign:172, Боевая табличка из пустотного металла
 ExtraTiC:battelSign:173, Боевая табличка из красного аурума
+ExtraTiC:battelSign:178, Боевая табличка из дракония
+ExtraTiC:battelSign:179, Боевая табличка из пробуждённого дракония
 ExtraTiC:battelSign:180, Боевая табличка из клея
 ExtraTiC:battelSign:181, Йеллориумовая боевая табличка
 ExtraTiC:battelSign:182, Цианитовая боевая табличка
@@ -14477,6 +14821,8 @@ ExtraTiC:binding:167, Сапфировое крепление
 ExtraTiC:binding:171, Крепление из тёмной стали
 ExtraTiC:binding:172, Крепление из пустотного металла
 ExtraTiC:binding:173, Крепление из красного аурума
+ExtraTiC:binding:178, Крепление из дракония
+ExtraTiC:binding:179, Крепление из пробуждённого дракония
 ExtraTiC:binding:180, Крепление из клея
 ExtraTiC:binding:181, Йеллориумовое крепление
 ExtraTiC:binding:182, Цианитовое крепление
@@ -14504,6 +14850,8 @@ ExtraTiC:chiselHead:167, Сапфировое лезвие стамески
 ExtraTiC:chiselHead:171, Лезвие стамески из тёмной стали
 ExtraTiC:chiselHead:172, Лезвие стамески из пустотного металла
 ExtraTiC:chiselHead:173, Лезвие стамески из красного аурума
+ExtraTiC:chiselHead:178, Лезвие стамески из дракония
+ExtraTiC:chiselHead:179, Лезвие стамески из пробуждённого дракония
 ExtraTiC:chiselHead:180, Лезвие стамески из клея
 ExtraTiC:chiselHead:181, Йеллориумовое лезвие стамески
 ExtraTiC:chiselHead:182, Цианитовое лезвие стамески
@@ -14531,6 +14879,8 @@ ExtraTiC:chunk:167, Сапфировый кусок
 ExtraTiC:chunk:171, Кусок из тёмной стали
 ExtraTiC:chunk:172, Кусок из пустотного металла
 ExtraTiC:chunk:173, Кусок из красного аурума
+ExtraTiC:chunk:178, Кусок из дракония
+ExtraTiC:chunk:179, Кусок из пробуждённого дракония
 ExtraTiC:chunk:180, Кусок из клея
 ExtraTiC:chunk:181, Йеллориум кусок
 ExtraTiC:chunk:182, Цианит кусок
@@ -14558,6 +14908,8 @@ ExtraTiC:crossbar:167, Сапфировая поперечная гарда
 ExtraTiC:crossbar:171, Поперечная гарда из тёмной стали
 ExtraTiC:crossbar:172, Поперечная гарда из пустотного металла
 ExtraTiC:crossbar:173, Поперечная гарда из красного аурума
+ExtraTiC:crossbar:178, Поперечная гарда из дракония
+ExtraTiC:crossbar:179, Поперечная гарда из пробуждённого дракония
 ExtraTiC:crossbar:180, Поперечная гарда из клея
 ExtraTiC:crossbar:181, Йеллориумовая поперечная гарда
 ExtraTiC:crossbar:182, Цианитовая поперечная гарда
@@ -14585,6 +14937,8 @@ ExtraTiC:excavatorHead:167, Сапфировая пластина копалки
 ExtraTiC:excavatorHead:171, Пластина копалки из тёмной стали
 ExtraTiC:excavatorHead:172, Пластина копалки из пустотного металла
 ExtraTiC:excavatorHead:173, Пластина копалки из красного аурума
+ExtraTiC:excavatorHead:178, Пластина копалки из дракония
+ExtraTiC:excavatorHead:179, Пластина копалки из пробуждённого дракония
 ExtraTiC:excavatorHead:180, Пластина копалки из клея
 ExtraTiC:excavatorHead:181, Йеллориумовая пластина копалки
 ExtraTiC:excavatorHead:182, Цианитовая пластина копалки
@@ -14612,6 +14966,8 @@ ExtraTiC:frypanHead:167, Сапфировая сковорода
 ExtraTiC:frypanHead:171, Сковорода из тёмной стали
 ExtraTiC:frypanHead:172, Сковорода из пустотного металла
 ExtraTiC:frypanHead:173, Сковорода из красного аурума
+ExtraTiC:frypanHead:178, Сковорода из дракония
+ExtraTiC:frypanHead:179, Сковорода из пробуждённого дракония
 ExtraTiC:frypanHead:180, Сковорода из клея
 ExtraTiC:frypanHead:181, Йеллориумовая сковорода
 ExtraTiC:frypanHead:182, Цианитовая сковорода
@@ -14639,6 +14995,8 @@ ExtraTiC:fullGuard:167, Сапфировая полная гарда
 ExtraTiC:fullGuard:171, Полная гарда из тёмной стали
 ExtraTiC:fullGuard:172, Полная гарда из пустотного металла
 ExtraTiC:fullGuard:173, Полная гарда из красного аурума
+ExtraTiC:fullGuard:178, Полная гарда из дракония
+ExtraTiC:fullGuard:179, Полная гарда из пробуждённого дракония
 ExtraTiC:fullGuard:180, Полная гарда из клея
 ExtraTiC:fullGuard:181, Йеллориумовая полная гарда
 ExtraTiC:fullGuard:182, Цианитовая полная гарда
@@ -14666,6 +15024,8 @@ ExtraTiC:hammerHead:167, Сапфировый боёк молота
 ExtraTiC:hammerHead:171, Боёк молота из тёмной стали
 ExtraTiC:hammerHead:172, Боёк молота из пустотного металла
 ExtraTiC:hammerHead:173, Боёк молота из красного аурума
+ExtraTiC:hammerHead:178, Боёк молота из дракония
+ExtraTiC:hammerHead:179, Боёк молота из пробуждённого дракония
 ExtraTiC:hammerHead:180, Боёк молота из клея
 ExtraTiC:hammerHead:181, Йеллориум боёк молота
 ExtraTiC:hammerHead:182, Цианит боёк молота
@@ -14693,6 +15053,8 @@ ExtraTiC:knifeBlade:167, Сапфировое лезвие ножа
 ExtraTiC:knifeBlade:171, Лезвие ножа из тёмной стали
 ExtraTiC:knifeBlade:172, Лезвие ножа из пустотного металла
 ExtraTiC:knifeBlade:173, Лезвие ножа из красного аурума
+ExtraTiC:knifeBlade:178, Лезвие ножа из дракония
+ExtraTiC:knifeBlade:179, Лезвие ножа из пробуждённого дракония
 ExtraTiC:knifeBlade:180, Лезвие ножа из клея
 ExtraTiC:knifeBlade:181, Йеллориумовое лезвие ножа
 ExtraTiC:knifeBlade:182, Цианитовое лезвие ножа
@@ -14720,6 +15082,8 @@ ExtraTiC:largeGuard:167, Сапфировая широкая гарда
 ExtraTiC:largeGuard:171, Широкая гарда из тёмной стали
 ExtraTiC:largeGuard:172, Широкая гарда из пустотного металла
 ExtraTiC:largeGuard:173, Широкая гарда из красного аурума
+ExtraTiC:largeGuard:178, Широкая гарда из дракония
+ExtraTiC:largeGuard:179, Широкая гарда из пробуждённого дракония
 ExtraTiC:largeGuard:180, Широкая гарда из клея
 ExtraTiC:largeGuard:181, Йеллориумовая широкая гарда
 ExtraTiC:largeGuard:182, Цианитовая широкая гарда
@@ -14747,6 +15111,8 @@ ExtraTiC:largeSwordBlade:167, Сапфировое большое лезвие �
 ExtraTiC:largeSwordBlade:171, Большое лезвие меча из тёмной стали
 ExtraTiC:largeSwordBlade:172, Большое лезвие меча из пустотного металла
 ExtraTiC:largeSwordBlade:173, Большое лезвие меча из красного аурума
+ExtraTiC:largeSwordBlade:178, Большое лезвие меча из дракония
+ExtraTiC:largeSwordBlade:179, Большое лезвие меча из пробуждённого дракония
 ExtraTiC:largeSwordBlade:180, Большое лезвие меча из клея
 ExtraTiC:largeSwordBlade:181, Йеллориумовое большое лезвие меча
 ExtraTiC:largeSwordBlade:182, Цианитовое большое лезвие меча
@@ -14774,6 +15140,8 @@ ExtraTiC:largeplate:167, Сапфировая большая пластина
 ExtraTiC:largeplate:171, Тёмностальной большая пластина
 ExtraTiC:largeplate:172, Пустотнометаллический большая пластина
 ExtraTiC:largeplate:173, Красноаурумный большая пластина
+ExtraTiC:largeplate:178, Драконий большая пластина
+ExtraTiC:largeplate:179, Пробуждённодракониевый большая пластина
 ExtraTiC:largeplate:180, Клеевой большая пластина
 ExtraTiC:largeplate:181, Йеллориумовая большая пластина
 ExtraTiC:largeplate:182, Цианитовая большая пластина
@@ -14801,6 +15169,8 @@ ExtraTiC:lumberaxeHead:167, Сапфировый большой обух топ�
 ExtraTiC:lumberaxeHead:171, Тёмностальной большой обух топора
 ExtraTiC:lumberaxeHead:172, Пустотнометаллический большой обух топора
 ExtraTiC:lumberaxeHead:173, Красноаурумный большой обух топора
+ExtraTiC:lumberaxeHead:178, Драконий большой обух топора
+ExtraTiC:lumberaxeHead:179, Пробуждённодракониевый большой обух топора
 ExtraTiC:lumberaxeHead:180, Клеевой большой обух топора
 ExtraTiC:lumberaxeHead:181, Йеллориум большой обух топора
 ExtraTiC:lumberaxeHead:182, Цианит большой обух топора
@@ -14828,6 +15198,8 @@ ExtraTiC:mediumGuard:167, Сапфировая малая гарда
 ExtraTiC:mediumGuard:171, Малая гарда из тёмной стали
 ExtraTiC:mediumGuard:172, Малая гарда из пустотного металла
 ExtraTiC:mediumGuard:173, Малая гарда из красного аурума
+ExtraTiC:mediumGuard:178, Малая гарда из дракония
+ExtraTiC:mediumGuard:179, Малая гарда из пробуждённого дракония
 ExtraTiC:mediumGuard:180, Малая гарда из клея
 ExtraTiC:mediumGuard:181, Йеллориумовая малая гарда
 ExtraTiC:mediumGuard:182, Цианитовая малая гарда
@@ -14855,6 +15227,8 @@ ExtraTiC:pickaxeHead:167, Сапфировый обух кирки
 ExtraTiC:pickaxeHead:171, Обух кирки из тёмной стали
 ExtraTiC:pickaxeHead:172, Обух кирки из пустотного металла
 ExtraTiC:pickaxeHead:173, Обух кирки из красного аурума
+ExtraTiC:pickaxeHead:178, Обух кирки из дракония
+ExtraTiC:pickaxeHead:179, Обух кирки из пробуждённого дракония
 ExtraTiC:pickaxeHead:180, Обух кирки из клея
 ExtraTiC:pickaxeHead:181, Йеллориум обух кирки
 ExtraTiC:pickaxeHead:182, Цианит обух кирки
@@ -14882,6 +15256,8 @@ ExtraTiC:scytheHead:167, Сапфировое лезвие косы
 ExtraTiC:scytheHead:171, Лезвие косы из тёмной стали
 ExtraTiC:scytheHead:172, Лезвие косы из пустотного металла
 ExtraTiC:scytheHead:173, Лезвие косы из красного аурума
+ExtraTiC:scytheHead:178, Лезвие косы из дракония
+ExtraTiC:scytheHead:179, Лезвие косы из пробуждённого дракония
 ExtraTiC:scytheHead:180, Лезвие косы из клея
 ExtraTiC:scytheHead:181, Йеллориумовое лезвие косы
 ExtraTiC:scytheHead:182, Цианитовое лезвие косы
@@ -14909,6 +15285,8 @@ ExtraTiC:shovelHead:167, Сапфировый штык лопаты
 ExtraTiC:shovelHead:171, Штык лопаты из тёмной стали
 ExtraTiC:shovelHead:172, Штык лопаты из пустотного металла
 ExtraTiC:shovelHead:173, Штык лопаты из красного аурума
+ExtraTiC:shovelHead:178, Штык лопаты из дракония
+ExtraTiC:shovelHead:179, Штык лопаты из пробуждённого дракония
 ExtraTiC:shovelHead:180, Штык лопаты из клея
 ExtraTiC:shovelHead:181, Йеллориум штык лопаты
 ExtraTiC:shovelHead:182, Цианит штык лопаты
@@ -14936,6 +15314,8 @@ ExtraTiC:swordBlade:167, Сапфировое лезвие меча
 ExtraTiC:swordBlade:171, Лезвие меча из тёмной стали
 ExtraTiC:swordBlade:172, Лезвие меча из пустотного металла
 ExtraTiC:swordBlade:173, Лезвие меча из красного аурума
+ExtraTiC:swordBlade:178, Лезвие меча из дракония
+ExtraTiC:swordBlade:179, Лезвие меча из пробуждённого дракония
 ExtraTiC:swordBlade:180, Лезвие меча из клея
 ExtraTiC:swordBlade:181, Йеллориумовое лезвие меча
 ExtraTiC:swordBlade:182, Цианитовое лезвие меча
@@ -14963,6 +15343,8 @@ ExtraTiC:toolrod:167, Сапфировый стержень
 ExtraTiC:toolrod:171, Стержень из тёмной стали
 ExtraTiC:toolrod:172, Стержень из пустотного металла
 ExtraTiC:toolrod:173, Стержень из красного аурума
+ExtraTiC:toolrod:178, Стержень из дракония
+ExtraTiC:toolrod:179, Стержень из пробуждённого дракония
 ExtraTiC:toolrod:180, Стержень из клея
 ExtraTiC:toolrod:181, Йеллориум стержень
 ExtraTiC:toolrod:182, Цианит стержень
@@ -14990,6 +15372,8 @@ ExtraTiC:toughbind:167, Сапфировое прочное крепление
 ExtraTiC:toughbind:171, Тёмностальной прочное крепление
 ExtraTiC:toughbind:172, Пустотнометаллический прочное крепление
 ExtraTiC:toughbind:173, Красноаурумный прочное крепление
+ExtraTiC:toughbind:178, Драконий прочное крепление
+ExtraTiC:toughbind:179, Пробуждённодракониевый прочное крепление
 ExtraTiC:toughbind:180, Клеевой прочное крепление
 ExtraTiC:toughbind:181, Йеллориумовое прочное крепление
 ExtraTiC:toughbind:182, Цианитовое прочное крепление
@@ -15017,6 +15401,8 @@ ExtraTiC:toughrod:167, Сапфировый прочный стержень
 ExtraTiC:toughrod:171, Тёмностальной прочный стержень
 ExtraTiC:toughrod:172, Пустотнометаллический прочный стержень
 ExtraTiC:toughrod:173, Красноаурумный прочный стержень
+ExtraTiC:toughrod:178, Драконий прочный стержень
+ExtraTiC:toughrod:179, Пробуждённодракониевый прочный стержень
 ExtraTiC:toughrod:180, Клеевой прочный стержень
 ExtraTiC:toughrod:181, Йеллориум прочный стержень
 ExtraTiC:toughrod:182, Цианит прочный стержень
@@ -15044,6 +15430,8 @@ ExtraTiC:shuriken:167, Сапфировый сюрикэн
 ExtraTiC:shuriken:171, Сюрикэн из тёмной стали
 ExtraTiC:shuriken:172, Сюрикэн из пустотного металла
 ExtraTiC:shuriken:173, Сюрикэн из красного аурума
+ExtraTiC:shuriken:178, Сюрикэн из дракония
+ExtraTiC:shuriken:179, Сюрикэн из пробуждённого дракония
 ExtraTiC:shuriken:180, Сюрикэн из клея
 ExtraTiC:shuriken:181, Йеллориум сюрикэн
 ExtraTiC:shuriken:182, Цианит сюрикэн
@@ -15071,6 +15459,8 @@ ExtraTiC:BowLimb:167, Сапфировое плечо лука
 ExtraTiC:BowLimb:171, Плечо лука из тёмной стали
 ExtraTiC:BowLimb:172, Плечо лука из пустотного металла
 ExtraTiC:BowLimb:173, Плечо лука из красного аурума
+ExtraTiC:BowLimb:178, Плечо лука из дракония
+ExtraTiC:BowLimb:179, Плечо лука из пробуждённого дракония
 ExtraTiC:BowLimb:180, Плечо лука из клея
 ExtraTiC:BowLimb:181, Йеллориумовое плечо лука
 ExtraTiC:BowLimb:182, Цианитовое плечо лука
@@ -15098,6 +15488,8 @@ ExtraTiC:CrossbowLimb:167, Сапфировое плечо арбалета
 ExtraTiC:CrossbowLimb:171, Плечо арбалета из тёмной стали
 ExtraTiC:CrossbowLimb:172, Плечо арбалета из пустотного металла
 ExtraTiC:CrossbowLimb:173, Плечо арбалета из красного аурума
+ExtraTiC:CrossbowLimb:178, Плечо арбалета из дракония
+ExtraTiC:CrossbowLimb:179, Плечо арбалета из пробуждённого дракония
 ExtraTiC:CrossbowLimb:180, Плечо арбалета из клея
 ExtraTiC:CrossbowLimb:181, Йеллориумовое плечо арбалета
 ExtraTiC:CrossbowLimb:182, Цианитовое плечо арбалета
@@ -15125,6 +15517,8 @@ ExtraTiC:CrossbowBody:167, Сапфировая основа арбалета
 ExtraTiC:CrossbowBody:171, Основа арбалета из тёмной стали
 ExtraTiC:CrossbowBody:172, Основа арбалета из пустотного металла
 ExtraTiC:CrossbowBody:173, Основа арбалета из красного аурума
+ExtraTiC:CrossbowBody:178, Основа арбалета из дракония
+ExtraTiC:CrossbowBody:179, Основа арбалета из пробуждённого дракония
 ExtraTiC:CrossbowBody:180, Основа арбалета из клея
 ExtraTiC:CrossbowBody:181, Йеллориумовая основа арбалета
 ExtraTiC:CrossbowBody:182, Цианитовая основа арбалета
@@ -15152,6 +15546,8 @@ ExtraTiC:Blot:167, Сапфировый болт
 ExtraTiC:Blot:171, Болт из тёмной стали
 ExtraTiC:Blot:172, Болт из пустотного металла
 ExtraTiC:Blot:173, Болт из красного аурума
+ExtraTiC:Blot:178, Болт из дракония
+ExtraTiC:Blot:179, Болт из пробуждённого дракония
 ExtraTiC:Blot:180, Болт из клея
 ExtraTiC:Blot:181, Йеллориум болт
 ExtraTiC:Blot:182, Цианит болт
@@ -17092,9 +17488,9 @@ ThermalDynamics:cover:0, Крышка (Укрепленный булыжник)
 ThermalDynamics:cover:0, Крышка (Укрепленный камень)
 ThermalDynamics:cover:0, Крышка (Укрепленный обсидиан)
 ThermalDynamics:cover:0, Крышка (tile.fairyTorch.name)
-ThermalDynamics:cover:0, Крышка (Отталкивающая загадка)
-ThermalDynamics:cover:0, Крышка (Кирпичи путешественника)
 ThermalDynamics:cover:0, Крышка (Монитор)
+ThermalDynamics:cover:0, Крышка (Кирпичи путешественника)
+ThermalDynamics:cover:0, Крышка (Отталкивающая загадка)
 ThermalDynamics:cover:0, Крышка (Накопитель Эссенции)
 ThermalDynamics:cover:0, Крышка (Зачарованная Книжная полка)
 ThermalDynamics:cover:0, Крышка (Заколдованная Книжная полка)
@@ -20302,6 +20698,22 @@ ThermalDynamics:cover:0, Крышка (Road Block)
 ThermalDynamics:cover:0, Крышка (Road Block)
 ThermalDynamics:cover:0, Крышка (Road Block)
 ThermalDynamics:cover:0, Крышка (Road Block)
+ThermalDynamics:cover:0, Крышка (Искажающее пламя)
+ThermalDynamics:cover:0, Крышка (Дракониевая руда)
+ThermalDynamics:cover:0, Крышка (Датчик дождя)
+ThermalDynamics:cover:0, Крышка (Дракониевый блок)
+ThermalDynamics:cover:0, Крышка (Заряженный дракониевый блок)
+ThermalDynamics:cover:0, Крышка (Энергетический пилон)
+ThermalDynamics:cover:0, Крышка (Safety Flame)
+ThermalDynamics:cover:0, Крышка (Пробуждённый дракониевый блок)
+ThermalDynamics:cover:0, Крышка (Заряженный обсидиан)
+ThermalDynamics:cover:0, Крышка (Телепортер администратора)
+ThermalDynamics:cover:0, Крышка (Chaos Shard)
+ThermalDynamics:cover:0, Крышка (Кристальная Руда)
+ThermalDynamics:cover:0, Крышка (Кристальный Цветок)
+ThermalDynamics:cover:0, Крышка (Камень Транспортировки)
+ThermalDynamics:cover:0, Крышка (Кристальный Блок)
+ThermalDynamics:cover:0, Крышка (tile.null.name)
 ThermalDynamics:cover:0, Крышка (Гумус)
 ThermalDynamics:cover:0, Крышка (Болотная земля)
 ThermalDynamics:cover:0, Крышка (Апатитовая руда)
@@ -20661,7 +21073,6 @@ WitchingGadgets:item.WG_PrimordialHelm, Закрытый шлем Перворо
 WitchingGadgets:item.WG_PrimordialChest, Кираса Первородных истоков
 WitchingGadgets:item.WG_PrimordialLegs, Латные поножи Первородных истоков
 WitchingGadgets:item.WG_PrimordialBoots, Сапоги Первородных истоков
-WitchingGadgets:item.WG_CrystalFlask:0, Хрустальная капсула
 WitchingGadgets:item.WG_CrystalFlask:0, Хрустальная капсула
 WitchingGadgets:item.WG_CrystalFlask:0, Хрустальная капсула
 WitchingGadgets:item.WG_CrystalFlask:0, Хрустальная капсула
