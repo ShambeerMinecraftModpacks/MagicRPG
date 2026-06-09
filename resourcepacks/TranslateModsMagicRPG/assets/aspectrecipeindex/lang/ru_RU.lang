@@ -1,0 +1,31 @@
+# Основные заголовки
+aspectrecipeindex.items_containing_aspect.title=Предметы, содержащие аспект
+aspectrecipeindex.items_containing_aspect.still_load=Загрузка... (%s/%s)
+aspectrecipeindex.items_containing_aspect.aspect_list=Аспекты
+aspectrecipeindex.aspect_combination.title=Комбинация аспектов
+aspectrecipeindex.alchemy.title=Алхимия
+aspectrecipeindex.infusion.title=Магическое наполнение
+aspectrecipeindex.shaped_arcane_crafting.title=Аркадный верстак (рецепт)
+aspectrecipeindex.wand_crafting.title=Создание жезла
+aspectrecipeindex.shapeless_arcane_crafting.title=Аркадный верстак (бесформенный)
+
+# Исследования и требования
+aspectrecipeindex.research.missing=Вы не завершили исследование, необходимое для создания этого предмета
+aspectrecipeindex.research.researchName=Исследование
+aspectrecipeindex.research.researchName_rod=Исследование стержня
+aspectrecipeindex.research.researchName_cap=Исследование наконечника
+aspectrecipeindex.research.prerequisites.parents=Родительское исследование
+aspectrecipeindex.research.prerequisites.parentsHidden=Скрытое родительское исследование
+aspectrecipeindex.research.prerequisites.item=Просканировать предмет
+aspectrecipeindex.research.prerequisites.entity=Просканировать существо
+aspectrecipeindex.research.prerequisites.aspect=Просканировать аспект
+aspectrecipeindex.research.prerequisites.kill=Убить и просканировать
+aspectrecipeindex.research.prerequisites.allresearched=Вы выполнили все необходимые исследования
+
+# Интерфейс
+aspectrecipeindex.gui.nei.seeAll=Показать все
+aspectrecipeindex.aspect.undiscovered=%s (Неизвестно)
+
+# Локализация названий исследований (примеры)
+tc.research_name.CAP_iron=Базовая тауматургия
+tc.research_name.ROD_wood=Базовая тауматургия
