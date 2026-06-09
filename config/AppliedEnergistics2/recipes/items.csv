@@ -2140,7 +2140,15 @@ Automagy:blockPhenomenon, Феноменон
 Automagy:blockThaumostaticSpire, Таумостатический Шпиль
 Automagy:blockTallyLensWorld, Шкатулка (Линза: Свобода)
 Automagy:blockTallyLensDrops, Шкатулка (Линза: Ликвидность)
-aura:trampoline, Отталкивающая загадка
+aura:fortifiedDirt, Укрепленная земля
+aura:fortifiedWood, Укрепленные доски
+aura:fortifiedGlass, Укрепленное стекло
+aura:fortifiedCobblestone, Укрепленный булыжник
+aura:fortifiedStone, Укрепленный камень
+aura:fortifiedObsidian, Укрепленный обсидиан
+aura:magicRoad, Кирпичи путешественника
+aura:fairyTorch, tile.fairyTorch.name
+aura:storageBookshelfCoordinator, Координатор книжных полок
 aura:consumerBlockfurnace, Каскадная плавильня
 aura:consumerBlockplant, Каскадный садовод
 aura:consumerBlockore, Каскадный обработчик
@@ -2155,9 +2163,8 @@ aura:consumerBlockoreAdv, Призматический обработчик
 aura:consumerBlockminer, Каскадный шахтер
 aura:consumerBlockfish, Каскадный рыболов
 aura:consumerBlockend, Ритуал Энда
-aura:storageBookshelfCoordinator, Координатор книжных полок
-aura:storageBookshelf, Книжная полка хранения
-aura:magicRoad, Кирпичи путешественника
+aura:monitor, Монитор
+aura:trampoline, Отталкивающая загадка
 aura:auraNode, Узел ауры
 aura:auraNodepump, Огненная помпа ауры
 aura:auraNodeblack, Манипулятор ауры: Черный
@@ -2177,14 +2184,7 @@ aura:auraNodepumpCreative, Творческая помпа ауры (Тольк�
 aura:auraNodepumpLightAlt, Переменная помпа ауры освещения
 aura:auraNodepumpRedstoneAlt, Переменная редстоуновая помпа ауры
 aura:auraNodeflux, Потоковый узел
-aura:fortifiedDirt, Укрепленная земля
-aura:fortifiedWood, Укрепленные доски
-aura:fortifiedGlass, Укрепленное стекло
-aura:fortifiedCobblestone, Укрепленный булыжник
-aura:fortifiedStone, Укрепленный камень
-aura:fortifiedObsidian, Укрепленный обсидиан
-aura:monitor, Монитор
-aura:fairyTorch, tile.fairyTorch.name
+aura:storageBookshelf, Книжная полка хранения
 AWWayofTime:Altar, Кровавый алтарь
 AWWayofTime:AlchemicalWizardrybloodRune:0, Кровавая руна
 AWWayofTime:AlchemicalWizardrybloodRune:1, Руна дополнительной ёмкости
@@ -2379,7 +2379,7 @@ ForbiddenMagic:TaintBlock:1, Заражённые каменные кирпич�
 ExtraUtilities:chestMini, Мини-сундук
 ExtraUtilities:chestFull, Немного длинный сундук
 ExtraUtilities:enderCollector, Коллектор Края
-ExtraUtilities:endConstructor:0, QED (Quantum Energy Device)
+ExtraUtilities:endConstructor:0, QED (Quite Expensive Decoration)
 ExtraUtilities:endConstructor:2, Флаксовый кристалл Края
 ExtraUtilities:endMarker, Маркер Края
 ExtraUtilities:curtains, Занавесы
@@ -17599,16 +17599,16 @@ ThermalDynamics:cover:0, Крышка (Рунный Обсидиан (Висп))
 ThermalDynamics:cover:0, Крышка (Молоко)
 ThermalDynamics:cover:0, Крышка (Грибной Суп)
 ThermalDynamics:cover:0, Крышка (Висоморный Суп)
-ThermalDynamics:cover:0, Крышка (Отталкивающая загадка)
-ThermalDynamics:cover:0, Крышка (Кирпичи путешественника)
 ThermalDynamics:cover:0, Крышка (Укрепленная земля)
 ThermalDynamics:cover:0, Крышка (Укрепленные доски)
 ThermalDynamics:cover:0, Крышка (Укрепленное стекло)
 ThermalDynamics:cover:0, Крышка (Укрепленный булыжник)
 ThermalDynamics:cover:0, Крышка (Укрепленный камень)
 ThermalDynamics:cover:0, Крышка (Укрепленный обсидиан)
-ThermalDynamics:cover:0, Крышка (Монитор)
+ThermalDynamics:cover:0, Крышка (Кирпичи путешественника)
 ThermalDynamics:cover:0, Крышка (tile.fairyTorch.name)
+ThermalDynamics:cover:0, Крышка (Монитор)
+ThermalDynamics:cover:0, Крышка (Отталкивающая загадка)
 ThermalDynamics:cover:0, Крышка (Кровавая руна)
 ThermalDynamics:cover:0, Крышка (Руна дополнительной ёмкости)
 ThermalDynamics:cover:0, Крышка (Руна дислокации)
