@@ -1,0 +1,1593 @@
+# PARSE_ESCAPES
+tile.ebwizardry\:arcane_workbench.name=Мистический верстак
+tile.ebwizardry\:crystal_ore.name=Руда магического кристалла
+tile.ebwizardry\:petrified_stone.name=Окаменевший камень
+tile.ebwizardry\:ice_statue.name=Ледяная статуя
+tile.ebwizardry\:crystal_flower.name=Кристальный цветок
+tile.ebwizardry\:snare.name=Ловушка
+tile.ebwizardry\:transportation_stone.name=Камень перемещения
+tile.ebwizardry\:transportation_stone.confirm=Теперь при использовании заклинания %1$s вы будете перемещаться сюда
+tile.ebwizardry\:transportation_stone.remember=Запомнено местоположение %s, %s, %s в измерении %s
+tile.ebwizardry\:transportation_stone.forget=Забыто местоположение %s, %s, %s в измерении %s
+tile.ebwizardry\:transportation_stone.invalid=Сначала вы должны построить круг из 8 камней перемещения!
+tile.ebwizardry\:spectral_block.name=Спектральный блок
+tile.ebwizardry\:runestone.name=Рунный камень
+tile.ebwizardry\:runestone_pedestal.name=Рунный пьедестал
+tile.ebwizardry\:thorns.name=Шипы
+tile.ebwizardry\:obsidian_crust.name=Обсидиановая корка
+tile.ebwizardry\:dry_frosted_ice.name=Сухой морозный лёд
+tile.ebwizardry\:crystal_flower_pot.name=Цветочный горшок
+tile.ebwizardry\:permafrost.name=Вечная мерзлота
+
+tile.ebwizardry\:magic_crystal_block.name=Блок магического кристалла
+tile.ebwizardry\:fire_crystal_block.name=Блок огненного кристалла
+tile.ebwizardry\:ice_crystal_block.name=Блок ледяного кристалла
+tile.ebwizardry\:lightning_crystal_block.name=Блок грозового кристалла
+tile.ebwizardry\:necromancy_crystal_block.name=Блок тёмного кристалла
+tile.ebwizardry\:earth_crystal_block.name=Блок зелёного кристалла
+tile.ebwizardry\:sorcery_crystal_block.name=Блок мистического кристалла
+tile.ebwizardry\:healing_crystal_block.name=Блок сияющего кристалла
+
+tile.ebwizardry\:oak_gilded_wood.name=Позолоченная дубовая древесина
+tile.ebwizardry\:spruce_gilded_wood.name=Позолоченная еловая древесина
+tile.ebwizardry\:birch_gilded_wood.name=Позолоченная берёзовая древесина
+tile.ebwizardry\:jungle_gilded_wood.name=Позолоченная древесина джунглей
+tile.ebwizardry\:acacia_gilded_wood.name=Позолоченная акациевая древесина
+tile.ebwizardry\:dark_oak_gilded_wood.name=Позолоченная древесина тёмного дуба
+
+tile.ebwizardry\:oak_bookshelf.name=Дубовая книжная полка
+tile.ebwizardry\:spruce_bookshelf.name=Еловая книжная полка
+tile.ebwizardry\:birch_bookshelf.name=Берёзовая книжная полка
+tile.ebwizardry\:jungle_bookshelf.name=Книжная полка джунглей
+tile.ebwizardry\:acacia_bookshelf.name=Акациевая книжная полка
+tile.ebwizardry\:dark_oak_bookshelf.name=Книжная полка из тёмного дуба
+
+tile.ebwizardry\:oak_lectern.name=Дубовая кафедра
+tile.ebwizardry\:spruce_lectern.name=Еловая кафедра
+tile.ebwizardry\:birch_lectern.name=Берёзовая кафедра
+tile.ebwizardry\:jungle_lectern.name=Кафедра джунглей
+tile.ebwizardry\:acacia_lectern.name=Акациевая кафедра
+tile.ebwizardry\:dark_oak_lectern.name=Кафедра из тёмного дуба
+
+tile.ebwizardry\:receptacle.name=Вместилище
+tile.ebwizardry\:imbuement_altar.name=Алтарь наполнения
+
+item.ebwizardry\:crystal_magic.name=Магический кристалл
+item.ebwizardry\:crystal_magic.desc=Переливающиеся цвета этого кристалла медленно меняются и кружатся, намекая на скрытую внутри магическую энергию. Возможно, эту магию можно как-то использовать...
+item.ebwizardry\:crystal_fire.name=Огненный кристалл
+item.ebwizardry\:crystal_fire.desc=Кристалл, светящийся огненно-оранжевым светом. Возможно, это ключ к овладению стихией огня...
+item.ebwizardry\:crystal_ice.name=Ледяной кристалл
+item.ebwizardry\:crystal_ice.desc=Кристалл с холодным синеватым оттенком. Вероятно, он хранит в себе тайны силы мороза...
+item.ebwizardry\:crystal_lightning.name=Грозовой кристалл
+item.ebwizardry\:crystal_lightning.desc=Кристалл, внутри которого, кажется, клубится и вспыхивает хаотичная энергия. Может быть, он скрывает в себе великую силу...
+item.ebwizardry\:crystal_necromancy.name=Тёмный кристалл
+item.ebwizardry\:crystal_necromancy.desc=Кристалл глубокого пурпурного цвета, который словно манит вас. Вероятно, это врата к чему-то более тёмному...
+item.ebwizardry\:crystal_earth.name=Зелёный кристалл
+item.ebwizardry\:crystal_earth.desc=Узорчатый кристалл со множеством зеленых и коричневых оттенков. Возможно, он связан с силами природы...
+item.ebwizardry\:crystal_sorcery.name=Мистический кристалл
+item.ebwizardry\:crystal_sorcery.desc=Кристалл, мерцающий голубовато-зелёным светом. Возможно, он таит в себе секреты древней силы...
+item.ebwizardry\:crystal_healing.name=Сияющий кристалл
+item.ebwizardry\:crystal_healing.desc=Кристалл, сияющий золотисто-жёлтым светом. Наверное, он связан с божественной силой...
+
+item.ebwizardry\:spell_book.name=Книга заклинаний
+item.ebwizardry\:spell_book.desc=Книга, исписанная рунами и символами древнего языка. Возможно, приложив усилия, удастся расшифровать её содержимое...\n\nЩелкните ПКМ, держа книгу в руке, чтобы прочесть её.
+item.ebwizardry\:spell_book.new=Еще не изучено!
+item.ebwizardry\:spell_book.apply_to_wizard=Заклинание %2$s у %1$s заменено на %3$s
+
+item.ebwizardry\:ruined_spell_book.name=Испорченная книга заклинаний
+item.ebwizardry\:ruined_spell_book.desc=Страницы этой потрепанной книги заклинаний слишком повреждены, чтобы их прочесть, но вы чувствуете, что в ней все еще теплится магия — если бы только ее можно было восстановить...
+
+item.ebwizardry\:arcane_tome.name=Магический фолиант
+item.ebwizardry\:arcane_tome.desc=Улучшает любой %1$s жезл с достаточным прогрессом до уровня: %2$s
+
+item.ebwizardry\:wizard_handbook.name=Справочник волшебника
+item.ebwizardry\:wizard_handbook.author=Автор: %1$s
+item.ebwizardry\:wizard_handbook.desc=Ваше не совсем карманное руководство по мистическим искусствам! Незаменимо для любого начинающего волшебника, желающего познать секреты магии.\n\nЩелкните ПКМ, держа книгу в руке, чтобы прочесть её.
+item.ebwizardry\:wizard_handbook.disabled=Этот предмет был отключен в конфигурации!
+
+item.ebwizardry\:wand.generic=жезл
+
+item.ebwizardry\:wand.buff=+%1$s%% к мощи магии (%2$s)
+item.ebwizardry\:wand.spell=Текущее заклинание\: %1$s
+item.ebwizardry\:wand.mana=Мана\: %1$s/%2$s
+item.ebwizardry\:wand.progression=Прогресс\: %1$s/%2$s
+
+item.ebwizardry\:wand.levelup=%1$s готов к улучшению до уровня: %2$s
+
+item.ebwizardry\:wand.addally=%1$s добавлен в ваш список союзников
+item.ebwizardry\:wand.removeally=%1$s удален из вашего списка союзников
+
+item.ebwizardry\:magic_wand.name=Волшебный жезл
+item.ebwizardry\:apprentice_wand.name=Жезл ученика
+item.ebwizardry\:advanced_wand.name=Продвинутый жезл
+item.ebwizardry\:master_wand.name=Жезл мастера
+
+item.ebwizardry\:novice_fire_wand.name=Жезл тлеющих углей
+item.ebwizardry\:novice_ice_wand.name=Жезл изморози
+item.ebwizardry\:novice_lightning_wand.name=Жезл искр
+item.ebwizardry\:novice_necromancy_wand.name=Жезл теней
+item.ebwizardry\:novice_earth_wand.name=Жезл леса
+item.ebwizardry\:novice_sorcery_wand.name=Жезл тайн
+item.ebwizardry\:novice_healing_wand.name=Жезл исцеления
+
+item.ebwizardry\:apprentice_fire_wand.name=Жезл ученика-пироманта
+item.ebwizardry\:apprentice_ice_wand.name=Жезл ученика-криоманта
+item.ebwizardry\:apprentice_lightning_wand.name=Жезл ученика мага бури
+item.ebwizardry\:apprentice_necromancy_wand.name=Жезл ученика-некроманта
+item.ebwizardry\:apprentice_earth_wand.name=Жезл ученика мага земли
+item.ebwizardry\:apprentice_sorcery_wand.name=Жезл ученика-чародея
+item.ebwizardry\:apprentice_healing_wand.name=Жезл ученика-целителя
+
+item.ebwizardry\:advanced_fire_wand.name=Жезл пироманта
+item.ebwizardry\:advanced_ice_wand.name=Жезл криоманта
+item.ebwizardry\:advanced_lightning_wand.name=Жезл мага бури
+item.ebwizardry\:advanced_necromancy_wand.name=Жезл некроманта
+item.ebwizardry\:advanced_earth_wand.name=Жезл мага земли
+item.ebwizardry\:advanced_sorcery_wand.name=Жезл чародея
+item.ebwizardry\:advanced_healing_wand.name=Жезл целителя
+
+item.ebwizardry\:master_fire_wand.name=Жезл мастера-пироманта
+item.ebwizardry\:master_ice_wand.name=Жезл мастера-криоманта
+item.ebwizardry\:master_lightning_wand.name=Жезл мастера бури
+item.ebwizardry\:master_necromancy_wand.name=Жезл мастера-некроманта
+item.ebwizardry\:master_earth_wand.name=Жезл мастера земли
+item.ebwizardry\:master_sorcery_wand.name=Жезл мастера-чародея
+item.ebwizardry\:master_healing_wand.name=Жезл мастера-целителя
+
+item.ebwizardry\:spectral_sword.name=Спектральный меч
+item.ebwizardry\:spectral_pickaxe.name=Спектральная кирка
+item.ebwizardry\:spectral_bow.name=Спектральный лук
+
+item.ebwizardry\:spectral_sword_upgraded.name=Спектральный меч
+item.ebwizardry\:spectral_pickaxe_upgraded.name=Спектральная кирка
+
+item.ebwizardry\:small_mana_flask.name=Малая фляга с маной
+item.ebwizardry\:medium_mana_flask.name=Средняя фляга с маной
+item.ebwizardry\:large_mana_flask.name=Большая фляга с маной
+item.ebwizardry\:mana_flask.desc=Объедините в сетке крафта с жезлом или элементом брони волшебника, чтобы восстановить %s маны
+
+item.ebwizardry\:grand_crystal.name=Большой магический кристалл
+item.ebwizardry\:grand_crystal.desc=Огромный магический кристалл, в несколько раз превосходящий по размеру природные. Должно быть, кто-то вырастил его искусственно — но как?
+item.ebwizardry\:crystal_shard.name=Осколок магического кристалла
+item.ebwizardry\:crystal_shard.desc=Маленький осколок разбитого магического кристалла. Сам по себе он содержит мало маны, но ему можно найти другое применение...
+
+item.ebwizardry\:astral_diamond.name=Астральный алмаз
+item.ebwizardry\:astral_diamond.desc=Высоко ценимый драгоценный камень, ярко мерцающий в звездном свете. Поговаривают, что самые могущественные волшебники требуют астральные алмазы в обмен на самые сокровенные тайные знания.
+
+item.ebwizardry\:purifying_elixir.name=Эликсир очищения
+item.ebwizardry\:purifying_elixir.desc=Снимает проклятия при употреблении
+item.ebwizardry\:purifying_elixir.desc_extended=Небольшой флакон с экзотической золотистой жидкостью, явно обладающей мощными целебными свойствами. Возможно, стоит приберечь его для особого случая.
+
+item.ebwizardry\:storage_upgrade.name=Улучшение жезла: Емкость
+item.ebwizardry\:siphon_upgrade.name=Улучшение жезла: Сифон
+item.ebwizardry\:condenser_upgrade.name=Улучшение жезла: Конденсатор
+item.ebwizardry\:range_upgrade.name=Улучшение жезла: Дальность
+item.ebwizardry\:duration_upgrade.name=Улучшение жезла: Длительность
+item.ebwizardry\:cooldown_upgrade.name=Улучшение жезла: Перезарядка
+item.ebwizardry\:blast_upgrade.name=Улучшение жезла: Взрыв
+item.ebwizardry\:attunement_upgrade.name=Улучшение жезла: Родство
+item.ebwizardry\:melee_upgrade.name=Улучшение жезла: Ближний бой
+
+item.ebwizardry\:wand_upgrade.generic.desc=Примените это улучшение к жезлу в Мистическом верстаке.
+item.ebwizardry\:storage_upgrade.desc=Увеличивает максимальный запас маны жезла.
+item.ebwizardry\:siphon_upgrade.desc=Позволяет жезлу поглощать ману из убитых мобов.
+item.ebwizardry\:condenser_upgrade.desc=Позволяет жезлу медленно восстанавливать ману со временем.
+item.ebwizardry\:range_upgrade.desc=Увеличивает эффективную дальность заклинаний жезла.
+item.ebwizardry\:duration_upgrade.desc=Увеличивает длительность эффектов заклинаний жезла.
+item.ebwizardry\:cooldown_upgrade.desc=Уменьшает время перезарядки заклинаний жезла.
+item.ebwizardry\:blast_upgrade.desc=Увеличивает радиус действия заклинаний по области.
+item.ebwizardry\:attunement_upgrade.desc=Увеличивает количество заклинаний, которые можно привязать к жезлу.
+item.ebwizardry\:melee_upgrade.desc=Позволяет жезлу тратить ману для нанесения большего урона в ближнем бою.
+
+item.ebwizardry\:flaming_axe.name=Пылающий топор
+item.ebwizardry\:frost_axe.name=Морозный топор
+
+item.ebwizardry\:flaming_axe_upgraded.name=Пылающий топор
+item.ebwizardry\:frost_axe_upgraded.name=Морозный топор
+
+item.ebwizardry\:firebomb.name=Зажигательная бомба
+item.ebwizardry\:poison_bomb.name=Ядовитая бомба
+item.ebwizardry\:smoke_bomb.name=Дымовая бомба
+item.ebwizardry\:spark_bomb.name=Искрящая бомба
+
+item.ebwizardry\:blank_scroll.name=Пустой свиток
+item.ebwizardry\:scroll.generic=свиток
+item.ebwizardry\:scroll.name=Свиток: %1$s
+item.ebwizardry\:scroll.undiscovered.name=Свиток "%1$s"
+item.ebwizardry\:scroll.desc=Зачарованный лист пергамента, небрежно перевязанный нитью. На пергаменте написано заклинание, которое, предположительно, нужно зачитывать вслух.\n\nЩелкните ПКМ, держа свиток в руке, чтобы использовать его.
+
+item.ebwizardry\:identification_scroll.name=Свиток распознавания
+item.ebwizardry\:identification_scroll.desc=Идентифицирует неизвестную книгу заклинаний или свиток.
+item.ebwizardry\:identification_scroll.desc_extended=Щелкните ПКМ, держа этот свиток, чтобы идентифицировать первую неизученную книгу заклинаний или свиток на панели быстрого доступа.
+item.ebwizardry\:identification_scroll.nothing_to_identify=Нечего распознавать!
+
+item.ebwizardry\:resplendent_thread.name=Сверкающая нить
+item.ebwizardry\:resplendent_thread.desc=Улучшает обычную броню волшебника до брони мудреца.
+item.ebwizardry\:resplendent_thread.desc_extended=Мерцающая шелковая нить, используемая для вышивки лучших мантий тайными символами, повышающая их зачаровываемость.\n\nПримените это улучшение к элементу брони волшебника на мистическом верстаке.
+
+item.ebwizardry\:crystal_silver_plating.name=Покрытие из кристального серебра
+item.ebwizardry\:crystal_silver_plating.desc=Улучшает обычную броню волшебника до брони боевого мага.
+item.ebwizardry\:crystal_silver_plating.desc_extended=Почти мифический сплав, выкованный в кузнях Эльдара, обладающий исключительными свойствами отражения магии.\n\nПримените это улучшение к элементу брони волшебника на мистическом верстаке.
+
+item.ebwizardry\:ethereal_crystalweave.name=Эфирная кристальная ткань
+item.ebwizardry\:ethereal_crystalweave.desc=Улучшает обычную броню волшебника до брони чернокнижника.
+item.ebwizardry\:ethereal_crystalweave.desc_extended=Зачарованная ткань, плотная как шкура животного, но в руках кажущаяся легче бумаги.\n\nПримените это улучшение к элементу брони волшебника на мистическом верстаке.
+
+item.ebwizardry\:magic_silk.name=Магический шелк
+item.ebwizardry\:spectral_dust.name=Спектральная пыль
+item.ebwizardry\:armour_upgrade.name=Тайная печать защиты
+item.ebwizardry\:armour_upgrade.desc=Улучшает любую броню волшебника, делая её %1$sлегендарной
+item.ebwizardry\:armour_upgrade.desc_extended=Примените это улучшение к элементу брони волшебника на мистическом верстаке.
+
+item.ebwizardry\:wizard_armour.element_cost_reduction=-%1$s%% к стоимости (%2$s)
+item.ebwizardry\:wizard_armour.cooldown_reduction=-%1$s%% к перезарядке
+item.ebwizardry\:wizard_armour.enchantability=Повышенная зачаровываемость
+item.ebwizardry\:wizard_armour.mana=Мана\: %1$s/%2$s
+
+item.ebwizardry\:wizard_armour.full_set=Полный комплект:
+item.ebwizardry\:sage_armour.full_set_bonus=-%1$s%% стоимости других стихий
+item.ebwizardry\:battlemage_armour.full_set_bonus=Эффект Защита I
+item.ebwizardry\:warlock_armour.full_set_bonus=+%1$s%% к скорости передвижения
+
+item.ebwizardry\:wizard_armour.legendary=Легендарная
+item.ebwizardry\:wizard_armour.buff=-%1$s%% к стоимости (%2$s)
+item.ebwizardry\:wizard_armour.mana=Мана\: %1$s/%2$s
+
+item.ebwizardry\:wizard_hat.name=Шляпа волшебника
+item.ebwizardry\:wizard_robe.name=Мантия волшебника
+item.ebwizardry\:wizard_leggings.name=Поножи волшебника
+item.ebwizardry\:wizard_boots.name=Сапоги волшебника
+
+item.ebwizardry\:wizard_hat_fire.name=Шляпа пироманта
+item.ebwizardry\:wizard_robe_fire.name=Мантия пироманта
+item.ebwizardry\:wizard_leggings_fire.name=Поножи пироманта
+item.ebwizardry\:wizard_boots_fire.name=Сапоги пироманта
+
+item.ebwizardry\:wizard_hat_ice.name=Шляпа криоманта
+item.ebwizardry\:wizard_robe_ice.name=Мантия криоманта
+item.ebwizardry\:wizard_leggings_ice.name=Поножи криоманта
+item.ebwizardry\:wizard_boots_ice.name=Сапоги криоманта
+
+item.ebwizardry\:wizard_hat_lightning.name=Шляпа мага бури
+item.ebwizardry\:wizard_robe_lightning.name=Мантия мага бури
+item.ebwizardry\:wizard_leggings_lightning.name=Поножи мага бури
+item.ebwizardry\:wizard_boots_lightning.name=Сапоги мага бури
+
+item.ebwizardry\:wizard_hat_necromancy.name=Шляпа некроманта
+item.ebwizardry\:wizard_robe_necromancy.name=Мантия некроманта
+item.ebwizardry\:wizard_leggings_necromancy.name=Поножи некроманта
+item.ebwizardry\:wizard_boots_necromancy.name=Сапоги некроманта
+
+item.ebwizardry\:wizard_hat_earth.name=Шляпа мага земли
+item.ebwizardry\:wizard_robe_earth.name=Мантия мага земли
+item.ebwizardry\:wizard_leggings_earth.name=Поножи мага земли
+item.ebwizardry\:wizard_boots_earth.name=Сапоги мага земли
+
+item.ebwizardry\:wizard_hat_sorcery.name=Шляпа чародея
+item.ebwizardry\:wizard_robe_sorcery.name=Мантия чародея
+item.ebwizardry\:wizard_leggings_sorcery.name=Поножи чародея
+item.ebwizardry\:wizard_boots_sorcery.name=Сапоги чародея
+
+item.ebwizardry\:wizard_hat_healing.name=Шляпа целителя
+item.ebwizardry\:wizard_robe_healing.name=Мантия целителя
+item.ebwizardry\:wizard_leggings_healing.name=Поножи целителя
+item.ebwizardry\:wizard_boots_healing.name=Сапоги целителя
+
+item.ebwizardry\:sage_hat.name=Шляпа мудреца
+item.ebwizardry\:sage_robe.name=Мантия мудреца
+item.ebwizardry\:sage_leggings.name=Поножи мудреца
+item.ebwizardry\:sage_boots.name=Сапоги мудреца
+
+item.ebwizardry\:sage_hat_fire.name=Шляпа мудреца-пироманта
+item.ebwizardry\:sage_robe_fire.name=Мантия мудреца-пироманта
+item.ebwizardry\:sage_leggings_fire.name=Поножи мудреца-пироманта
+item.ebwizardry\:sage_boots_fire.name=Сапоги мудреца-пироманта
+
+item.ebwizardry\:sage_hat_ice.name=Шляпа мудреца-криоманта
+item.ebwizardry\:sage_robe_ice.name=Мантия мудреца-криоманта
+item.ebwizardry\:sage_leggings_ice.name=Поножи мудреца-криоманта
+item.ebwizardry\:sage_boots_ice.name=Сапоги мудреца-криоманта
+
+item.ebwizardry\:sage_hat_lightning.name=Шляпа мудреца бури
+item.ebwizardry\:sage_robe_lightning.name=Мантия мудреца бури
+item.ebwizardry\:sage_leggings_lightning.name=Поножи мудреца бури
+item.ebwizardry\:sage_boots_lightning.name=Сапоги мудреца бури
+
+item.ebwizardry\:sage_hat_necromancy.name=Шляпа мудреца-некроманта
+item.ebwizardry\:sage_robe_necromancy.name=Мантия мудреца-некроманта
+item.ebwizardry\:sage_leggings_necromancy.name=Поножи мудреца-некроманта
+item.ebwizardry\:sage_boots_necromancy.name=Сапоги мудреца-некроманта
+
+item.ebwizardry\:sage_hat_earth.name=Шляпа мудреца земли
+item.ebwizardry\:sage_robe_earth.name=Мантия мудреца земли
+item.ebwizardry\:sage_leggings_earth.name=Поножи мудреца земли
+item.ebwizardry\:sage_boots_earth.name=Сапоги мудреца земли
+
+item.ebwizardry\:sage_hat_sorcery.name=Шляпа мудреца-чародея
+item.ebwizardry\:sage_robe_sorcery.name=Мантия мудреца-чародея
+item.ebwizardry\:sage_leggings_sorcery.name=Поножи мудреца-чародея
+item.ebwizardry\:sage_boots_sorcery.name=Сапоги мудреца-чародея
+
+item.ebwizardry\:sage_hat_healing.name=Шляпа мудреца-целителя
+item.ebwizardry\:sage_robe_healing.name=Мантия мудреца-целителя
+item.ebwizardry\:sage_leggings_healing.name=Поножи мудреца-целителя
+item.ebwizardry\:sage_boots_healing.name=Сапоги мудреца-целителя
+
+item.ebwizardry\:battlemage_helmet.name=Шлем боевого мага
+item.ebwizardry\:battlemage_chestplate.name=Кираса боевого мага
+item.ebwizardry\:battlemage_leggings.name=Поножи боевого мага
+item.ebwizardry\:battlemage_boots.name=Ботинки боевого мага
+
+item.ebwizardry\:battlemage_helmet_fire.name=Шлем боевого пироманта
+item.ebwizardry\:battlemage_chestplate_fire.name=Кираса боевого пироманта
+item.ebwizardry\:battlemage_leggings_fire.name=Поножи боевого пироманта
+item.ebwizardry\:battlemage_boots_fire.name=Ботинки боевого пироманта
+
+item.ebwizardry\:battlemage_helmet_ice.name=Шлем боевого криоманта
+item.ebwizardry\:battlemage_chestplate_ice.name=Кираса боевого криоманта
+item.ebwizardry\:battlemage_leggings_ice.name=Поножи боевого криоманта
+item.ebwizardry\:battlemage_boots_ice.name=Ботинки боевого криоманта
+
+item.ebwizardry\:battlemage_helmet_lightning.name=Шлем боевого мага бури
+item.ebwizardry\:battlemage_chestplate_lightning.name=Кираса боевого мага бури
+item.ebwizardry\:battlemage_leggings_lightning.name=Поножи боевого мага бури
+item.ebwizardry\:battlemage_boots_lightning.name=Ботинки боевого мага бури
+
+item.ebwizardry\:battlemage_helmet_necromancy.name=Шлем боевого некроманта
+item.ebwizardry\:battlemage_chestplate_necromancy.name=Кираса боевого некроманта
+item.ebwizardry\:battlemage_leggings_necromancy.name=Поножи боевого некроманта
+item.ebwizardry\:battlemage_boots_necromancy.name=Ботинки боевого некроманта
+
+item.ebwizardry\:battlemage_helmet_earth.name=Шлем боевого мага земли
+item.ebwizardry\:battlemage_chestplate_earth.name=Кираса боевого мага земли
+item.ebwizardry\:battlemage_leggings_earth.name=Поножи боевого мага земли
+item.ebwizardry\:battlemage_boots_earth.name=Ботинки боевого мага земли
+
+item.ebwizardry\:battlemage_helmet_sorcery.name=Шлем боевого чародея
+item.ebwizardry\:battlemage_chestplate_sorcery.name=Кираса боевого чародея
+item.ebwizardry\:battlemage_leggings_sorcery.name=Поножи боевого чародея
+item.ebwizardry\:battlemage_boots_sorcery.name=Ботинки боевого чародея
+
+item.ebwizardry\:battlemage_helmet_healing.name=Шлем боевого целителя
+item.ebwizardry\:battlemage_chestplate_healing.name=Кираса боевого целителя
+item.ebwizardry\:battlemage_leggings_healing.name=Поножи боевого целителя
+item.ebwizardry\:battlemage_boots_healing.name=Ботинки боевого целителя
+
+item.ebwizardry\:warlock_hood.name=Капюшон чернокнижника
+item.ebwizardry\:warlock_robe.name=Мантия чернокнижника
+item.ebwizardry\:warlock_leggings.name=Поножи чернокнижника
+item.ebwizardry\:warlock_boots.name=Сапоги чернокнижника
+
+item.ebwizardry\:warlock_hood_fire.name=Капюшон чернокнижника-пироманта
+item.ebwizardry\:warlock_robe_fire.name=Мантия чернокнижника-пироманта
+item.ebwizardry\:warlock_leggings_fire.name=Поножи чернокнижника-пироманта
+item.ebwizardry\:warlock_boots_fire.name=Сапоги чернокнижника-пироманта
+
+item.ebwizardry\:warlock_hood_ice.name=Капюшон чернокнижника-криоманта
+item.ebwizardry\:warlock_robe_ice.name=Мантия чернокнижника-криоманта
+item.ebwizardry\:warlock_leggings_ice.name=Поножи чернокнижника-криоманта
+item.ebwizardry\:warlock_boots_ice.name=Сапоги чернокнижника-криоманта
+
+item.ebwizardry\:warlock_hood_lightning.name=Капюшон чернокнижника бури
+item.ebwizardry\:warlock_robe_lightning.name=Мантия чернокнижника бури
+item.ebwizardry\:warlock_leggings_lightning.name=Поножи чернокнижника бури
+item.ebwizardry\:warlock_boots_lightning.name=Сапоги чернокнижника бури
+
+item.ebwizardry\:warlock_hood_necromancy.name=Капюшон чернокнижника-некроманта
+item.ebwizardry\:warlock_robe_necromancy.name=Мантия чернокнижника-некроманта
+item.ebwizardry\:warlock_leggings_necromancy.name=Поножи чернокнижника-некроманта
+item.ebwizardry\:warlock_boots_necromancy.name=Сапоги чернокнижника-некроманта
+
+item.ebwizardry\:warlock_hood_earth.name=Капюшон чернокнижника земли
+item.ebwizardry\:warlock_robe_earth.name=Мантия чернокнижника земли
+item.ebwizardry\:warlock_leggings_earth.name=Поножи чернокнижника земли
+item.ebwizardry\:warlock_boots_earth.name=Сапоги чернокнижника земли
+
+item.ebwizardry\:warlock_hood_sorcery.name=Капюшон чернокнижника-чародея
+item.ebwizardry\:warlock_robe_sorcery.name=Мантия чернокнижника-чародея
+item.ebwizardry\:warlock_leggings_sorcery.name=Поножи чернокнижника-чародея
+item.ebwizardry\:warlock_boots_sorcery.name=Сапоги чернокнижника-чародея
+
+item.ebwizardry\:warlock_hood_healing.name=Капюшон чернокнижника-целителя
+item.ebwizardry\:warlock_robe_healing.name=Мантия чернокнижника-целителя
+item.ebwizardry\:warlock_leggings_healing.name=Поножи чернокнижника-целителя
+item.ebwizardry\:warlock_boots_healing.name=Сапоги чернокнижника-целителя
+
+item.ebwizardry\:spawn_wizard.name=Призвать волшебника
+item.ebwizardry\:spawn_evil_wizard.name=Призвать злого волшебника
+
+item.ebwizardry\:spectral_helmet.name=Спектральный шлем
+item.ebwizardry\:spectral_chestplate.name=Спектральная кираса
+item.ebwizardry\:spectral_leggings.name=Спектральные поножи
+item.ebwizardry\:spectral_boots.name=Спектральные ботинки
+
+item.ebwizardry\:lightning_hammer.name=Молот бури
+item.ebwizardry\:flamecatcher.name=Ловец пламени
+
+item.ebwizardry\:generic.disabled=Этот предмет был отключен в конфигурации
+
+item.ebwizardry\:ring.generic.desc=Наденьте это кольцо в инвентаре Baubles или поместите его на панель быстрого доступа. Одновременно можно использовать до 2 колец.
+item.ebwizardry\:amulet.generic.desc=Наденьте этот амулет в инвентаре Baubles или поместите его на панель быстрого доступа. Одновременно можно использовать только 1 амулет.
+item.ebwizardry\:charm.generic.desc=Экипируйте этот талисман в инвентаре Baubles или поместите его на панель быстрого доступа. Одновременно можно надеть только 1 талисман.
+
+item.ebwizardry\:ring_condensing.name=Кольцо конденсации
+item.ebwizardry\:ring_condensing.desc=Медленно восстанавливает ману для всех жезлов на панели быстрого доступа.
+item.ebwizardry\:ring_siphoning.name=Кольцо вытягивания
+item.ebwizardry\:ring_siphoning.desc=Увеличивает получаемую ману от вытягивания на 30%%
+item.ebwizardry\:ring_battlemage.name=Кольцо боевого мага
+item.ebwizardry\:ring_battlemage.desc=Держа жезл в левой руке, а меч в правой, вы получаете бонус 10%% к магическому урону
+item.ebwizardry\:ring_combustion.name=Кольцо горения
+item.ebwizardry\:ring_combustion.desc=Существа, убитые заклинаниями огня, взрываются.
+item.ebwizardry\:ring_fire_melee.name=Кольцо огненного прикосновения
+item.ebwizardry\:ring_fire_melee.desc=Удар по существу жезлом огня поджигает его.
+item.ebwizardry\:ring_fire_biome.name=Кольцо солнца пустыни
+item.ebwizardry\:ring_fire_biome.desc=Заклинания огня на 30%% сильнее в жарких биомах.
+item.ebwizardry\:ring_disintegration.name=Кольцо жгучих углей
+item.ebwizardry\:ring_disintegration.desc=Все атакующие заклинания огня заставляют жертв распадаться на горящие угли.
+item.ebwizardry\:ring_meteor.name=Кольцо Волтры
+item.ebwizardry\:ring_meteor.desc=Вместо падения с неба метеор можно направлять как снаряд.
+item.ebwizardry\:ring_ice_melee.name=Кольцо ледяного прикосновения
+item.ebwizardry\:ring_ice_melee.desc=Удар по существу ледяным жезлом накладывает эффект обморожения.
+item.ebwizardry\:ring_ice_biome.name=Кольцо оледенения
+item.ebwizardry\:ring_ice_biome.desc=Заклинания льда на 30%% сильнее в снежных биомах.
+item.ebwizardry\:ring_arcane_frost.name=Кольцо тайного мороза
+item.ebwizardry\:ring_arcane_frost.desc=Существа, убитые заклинаниями льда, выпускают ледяные осколки во всех направлениях.
+item.ebwizardry\:ring_shattering.name=Кольцо сокрушения
+item.ebwizardry\:ring_shattering.desc=Атаки ближнего боя по мобам с эффектом обморожения могут разбить их на ледяные осколки.
+item.ebwizardry\:ring_lightning_melee.name=Кольцо цепей
+item.ebwizardry\:ring_lightning_melee.desc=Удар по существу жезлом молнии выпускает цепную молнию в ближайшего врага.
+item.ebwizardry\:ring_storm.name=Кольцо надвигающейся бури
+item.ebwizardry\:ring_storm.desc=Во время грозы заклинания молнии имеют значительно уменьшенную перезарядку.
+item.ebwizardry\:ring_seeking.name=Кольцо притяжения
+item.ebwizardry\:ring_seeking.desc=Все заклинания-снаряды автоматически наводятся на цель.
+item.ebwizardry\:ring_hammer.name=Кольцо всемогущего Талека
+item.ebwizardry\:ring_hammer.desc=Молот бури можно поднимать и бросать во врагов.
+item.ebwizardry\:ring_stormcloud.name=Кольцо Локензена
+item.ebwizardry\:ring_stormcloud.desc=Грозовое облако движется к целям и длится дольше с каждым ударом молнии.
+item.ebwizardry\:ring_soulbinding.name=Кольцо странника душ
+item.ebwizardry\:ring_soulbinding.desc=Существа, получившие урон от заклинаний некромантии, получают эффект связи душ на 20 секунд.
+item.ebwizardry\:ring_leeching.name=Кольцо пиявки
+item.ebwizardry\:ring_leeching.desc=Все атакующие заклинания некромантии имеют 30%% шанс вытянуть жизненные силы (исцелить вас).
+item.ebwizardry\:ring_necromancy_melee.name=Кольцо некротического прикосновения
+item.ebwizardry\:ring_necromancy_melee.desc=Удар по существу жезлом некромантии накладывает на него эффект Иссушение.
+item.ebwizardry\:ring_mind_control.name=Кольцо телепата
+item.ebwizardry\:ring_mind_control.desc=Существа под контролем разума имеют шанс взять под контроль других ближайших врагов.
+item.ebwizardry\:ring_poison.name=Кольцо змея
+item.ebwizardry\:ring_poison.desc=Все заклинания земли отравляют цель.
+item.ebwizardry\:ring_earth_melee.name=Кольцо ядовитого прикосновения
+item.ebwizardry\:ring_earth_melee.desc=Удар по существу жезлом земли отравляет его.
+item.ebwizardry\:ring_earth_biome.name=Кольцо дриады
+item.ebwizardry\:ring_earth_biome.desc=Заклинания земли на 30%% сильнее в лесных биомах.
+item.ebwizardry\:ring_full_moon.name=Кольцо воющего волка
+item.ebwizardry\:ring_full_moon.desc=В полнолуние заклинания земли имеют значительно уменьшенную перезарядку.
+item.ebwizardry\:ring_evoker.name=Кольцо заклинателя
+item.ebwizardry\:ring_evoker.desc=Приседание во время призыва клыков создает защитный круг вокруг вас вместо атаки по линии.
+item.ebwizardry\:ring_extraction.name=Кольцо извлечения
+item.ebwizardry\:ring_extraction.desc=Убийство врагов тайной магией (sorcery) восстанавливает дополнительную ману.
+item.ebwizardry\:ring_mana_return.name=Кольцо перфекциониста
+item.ebwizardry\:ring_mana_return.desc=Стрелы силы, не попавшие в цель, возвращают затраченную на них ману обратно в жезл.
+item.ebwizardry\:ring_blockwrangler.name=Кольцо метателя
+item.ebwizardry\:ring_blockwrangler.desc=Брошенные блоки (Телекинез) наносят в два раза больше урона.
+item.ebwizardry\:ring_conjurer.name=Кольцо иллюзиониста
+item.ebwizardry\:ring_conjurer.desc=Созданные магией предметы (броня, меч и т.д.) существуют в два раза дольше.
+item.ebwizardry\:ring_defender.name=Кольцо защитника
+item.ebwizardry\:ring_defender.desc=Ваши магические снаряды проходят сквозь силовые поля, принадлежащие вам или союзнику.
+item.ebwizardry\:ring_paladin.name=Кольцо паладина
+item.ebwizardry\:ring_paladin.desc=Когда вы лечите себя или союзника, ближайшие союзники также восстанавливают часть здоровья.
+item.ebwizardry\:ring_interdiction.name=Кольцо преграды
+item.ebwizardry\:ring_interdiction.desc=Ваше силовое поле наносит урон существам, пытающимся через него пройти.
+
+item.ebwizardry\:amulet_arcane_defence.name=Амулет тайной защиты
+item.ebwizardry\:amulet_arcane_defence.desc=Медленно восстанавливает ману для всей надетой брони волшебника.
+item.ebwizardry\:amulet_warding.name=Амулет защиты
+item.ebwizardry\:amulet_warding.desc=Снижает весь получаемый магический урон на 10%%.
+item.ebwizardry\:amulet_wisdom.name=Амулет мудрости
+item.ebwizardry\:amulet_wisdom.desc=Значительно снижает шанс получить негативные эффекты при использовании неизученных заклинаний с неидентифицированных свитков.
+item.ebwizardry\:amulet_fire_protection.name=Амулет огнестойкости
+item.ebwizardry\:amulet_fire_protection.desc=Снижает урон от огня на 30%%.
+item.ebwizardry\:amulet_fire_cloaking.name=Амулет огненного плаща
+item.ebwizardry\:amulet_fire_cloaking.desc=Снижает получаемый урон на 75%%, находясь в огненном кольце, принадлежащем вам или союзнику.
+item.ebwizardry\:amulet_ice_immunity.name=Амулет вечной мерзлоты
+item.ebwizardry\:amulet_ice_immunity.desc=Дает полный иммунитет к эффекту Обморожение.
+item.ebwizardry\:amulet_ice_protection.name=Амулет защиты от холода
+item.ebwizardry\:amulet_ice_protection.desc=Снижает урон от магии льда на 30%%.
+item.ebwizardry\:amulet_frost_warding.name=Амулет Эсундора
+item.ebwizardry\:amulet_frost_warding.desc=Дает бафф Защиты (Ward) при нахождении за стеной льда.
+item.ebwizardry\:amulet_potential.name=Амулет потенциала
+item.ebwizardry\:amulet_potential.desc=Дает 15%% шанс ударить молнией существ, атакующих вас в ближнем бою.
+item.ebwizardry\:amulet_channeling.name=Амулет проведения
+item.ebwizardry\:amulet_channeling.desc=Дает 30%% шанс поглотить урон от электричества.
+item.ebwizardry\:amulet_lich.name=Амулет лича
+item.ebwizardry\:amulet_lich.desc=Дает 15%% шанс перенаправить получаемый урон на ближайшего приспешника.
+item.ebwizardry\:amulet_wither_immunity.name=Амулет жемчуга иссушителя
+item.ebwizardry\:amulet_wither_immunity.desc=Дает полный иммунитет к эффекту Иссушение.
+item.ebwizardry\:amulet_glide.name=Амулет ветряного пера
+item.ebwizardry\:amulet_glide.desc=При падении более чем на 3 блока есть 50%% шанс активировать эффект планирования (как на элитрах).
+item.ebwizardry\:amulet_banishing.name=Амулет изгнания
+item.ebwizardry\:amulet_banishing.desc=Существа, атакующие вас в ближнем бою, имеют 15%% шанс быть телепортированными в случайное место неподалеку.
+item.ebwizardry\:amulet_anchoring.name=Амулет якоря
+item.ebwizardry\:amulet_anchoring.desc=Дает иммунитет к насильственному перемещению с помощью магии (например, телекинез).
+item.ebwizardry\:amulet_recovery.name=Амулет восстановления
+item.ebwizardry\:amulet_recovery.desc=При здоровье ниже 50%%, мана из вашей брони будет медленно расходоваться на ваше лечение.
+item.ebwizardry\:amulet_transience.name=Амулет мимолетности
+item.ebwizardry\:amulet_transience.desc=Дает 25%% шанс активировать эффект Бесплотность при получении критического урона.
+item.ebwizardry\:amulet_resurrection.name=Амулет бессмертного
+item.ebwizardry\:amulet_resurrection.desc=Позволяет использовать заклинание Воскрешение на себе после смерти.
+item.ebwizardry\:amulet_auto_shield.name=Амулет Хайелета
+item.ebwizardry\:amulet_auto_shield.desc=Дает 25%% шанс автоматически применить заклинание Щит на несколько секунд, если оно привязано к жезлу на панели быстрого доступа.
+item.ebwizardry\:amulet_absorption.name=Амулет жизненной силы
+item.ebwizardry\:amulet_absorption.desc=Избыточное исцеление от заклинаний превращается в дополнительные желтые сердца поглощения.
+
+item.ebwizardry\:charm_haggler.name=Знак торговца
+item.ebwizardry\:charm_haggler.desc=Торговцы-волшебники гарантированно предложат новый товар каждый раз, когда вы совершаете с ними обмен.
+item.ebwizardry\:charm_experience_tome.name=Том усердия
+item.ebwizardry\:charm_experience_tome.desc=Увеличивает скорость получения опыта жезлами на 50%%.
+item.ebwizardry\:charm_move_speed.name=Медальон Икара
+item.ebwizardry\:charm_move_speed.desc=Позволяет передвигаться почти с обычной скоростью при зарядке мощных заклинаний.
+item.ebwizardry\:charm_spell_discovery.name=Монокль архивариуса
+item.ebwizardry\:charm_spell_discovery.desc=Книги заклинаний, найденные в сундуках, с большей вероятностью будут содержать заклинания, которые вы еще не изучили.
+item.ebwizardry\:charm_auto_smelt.name=Знак металлурга
+item.ebwizardry\:charm_auto_smelt.desc=Заклинание "Карманная печь" активируется автоматически, если оно привязано к жезлу на панели быстрого доступа.
+item.ebwizardry\:charm_lava_walking.name=Ледяное ядро Незера
+item.ebwizardry\:charm_lava_walking.desc=Заклинание "Морозный шаг" замораживает лаву, образуя обсидиановую корку, по которой можно ходить.
+item.ebwizardry\:charm_storm.name=Буря в бутылке
+item.ebwizardry\:charm_storm.desc=Заклинание "Призыв погоды" гарантированно вызывает грозу, а не просто дождь.
+item.ebwizardry\:charm_minion_health.name=Обсидиановая голова зомби
+item.ebwizardry\:charm_minion_health.desc=Призванные существа становятся на 25%% сильнее.
+item.ebwizardry\:charm_minion_variants.name=Талисман трансформации
+item.ebwizardry\:charm_minion_variants.desc=Призванные зомби заменяются на кадавров; призванные скелеты заменяются на зимогоров.
+item.ebwizardry\:charm_undead_helmets.name=Проклятый шлем
+item.ebwizardry\:charm_undead_helmets.desc=Призванные зомби и скелеты появляются в кожаных шлемах, защищающих их от сгорания на солнце.
+item.ebwizardry\:charm_hunger_casting.name=Демоническая печать
+item.ebwizardry\:charm_hunger_casting.desc=Когда заканчивается мана, для применения заклинаний будет расходоваться шкала голода.
+item.ebwizardry\:charm_flight.name=Изумрудное крыло жука
+item.ebwizardry\:charm_flight.desc=Заклинания Полет и Планирование действуют на 50%% быстрее.
+item.ebwizardry\:charm_growth.name=Талисман кристального цветка
+item.ebwizardry\:charm_growth.desc=Заклинание "Аура роста" имеет 35%% шанс мгновенно вырастить урожай до финальной стадии созревания.
+item.ebwizardry\:charm_abseiling.name=Зачарованная бечевка
+item.ebwizardry\:charm_abseiling.desc=Удерживание кнопки приседания при использовании "Схватки" (Крюк-кошки) позволяет медленно спускаться по веревке.
+item.ebwizardry\:charm_silk_touch.name=Сфера лунного камня
+item.ebwizardry\:charm_silk_touch.desc=Блоки, разрушенные заклинанием "Добывание", всегда выпадают сами собой (эффект Шелкового касания).
+item.ebwizardry\:charm_sixth_sense.name=Шкура лютого волка
+item.ebwizardry\:charm_sixth_sense.desc=Заклинание "Шестое чувство" отображает различные символы над дружелюбными, нейтральными и враждебными мобами.
+item.ebwizardry\:charm_stop_time.name=Необычные карманные часы
+item.ebwizardry\:charm_stop_time.desc=Заклинание "Замедленное время" полностью останавливает время вокруг вас.
+item.ebwizardry\:charm_light.name=Вечная лампада Элевинии
+item.ebwizardry\:charm_light.desc=Созданные магические источники света не исчезают со временем. Их можно убрать, щелкнув по ним ПКМ жезлом.
+item.ebwizardry\:charm_transportation.name=Древний компас
+item.ebwizardry\:charm_transportation.desc=Позволяет запомнить до 4 каменных кругов телепортации и выбирать, к какому из них переместиться.
+item.ebwizardry\:charm_black_hole.name=Опал Пустоты
+item.ebwizardry\:charm_black_hole.desc=Заклинание "Черная дыра" теперь также всасывает и уничтожает блоки вокруг себя.
+item.ebwizardry\:charm_mount_teleporting.name=Спектральная привязь
+item.ebwizardry\:charm_mount_teleporting.desc=Телепортация во время езды на животном или в транспорте переносит их вместе с вами.
+item.ebwizardry\:charm_feeding.name=Бездонные припасы
+item.ebwizardry\:charm_feeding.desc=Заклинания "Насыщение" и "Восполнение голода" срабатывают автоматически, если они привязаны к жезлу на панели быстрого доступа.
+
+item.banner.wizardry_fire.black=Черный герб Огня
+item.banner.wizardry_fire.red=Красный герб Огня
+item.banner.wizardry_fire.green=Зеленый герб Огня
+item.banner.wizardry_fire.brown=Коричневый герб Огня
+item.banner.wizardry_fire.blue=Синий герб Огня
+item.banner.wizardry_fire.purple=Фиолетовый герб Огня
+item.banner.wizardry_fire.cyan=Бирюзовый герб Огня
+item.banner.wizardry_fire.silver=Светло-серый герб Огня
+item.banner.wizardry_fire.gray=Серый герб Огня
+item.banner.wizardry_fire.pink=Розовый герб Огня
+item.banner.wizardry_fire.lime=Лаймовый герб Огня
+item.banner.wizardry_fire.yellow=Желтый герб Огня
+item.banner.wizardry_fire.lightBlue=Голубой герб Огня
+item.banner.wizardry_fire.magenta=Пурпурный герб Огня
+item.banner.wizardry_fire.orange=Оранжевый герб Огня
+item.banner.wizardry_fire.white=Белый герб Огня
+
+item.banner.wizardry_ice.black=Черный герб Льда
+item.banner.wizardry_ice.red=Красный герб Льда
+item.banner.wizardry_ice.green=Зеленый герб Льда
+item.banner.wizardry_ice.brown=Коричневый герб Льда
+item.banner.wizardry_ice.blue=Синий герб Льда
+item.banner.wizardry_ice.purple=Фиолетовый герб Льда
+item.banner.wizardry_ice.cyan=Бирюзовый герб Льда
+item.banner.wizardry_ice.silver=Светло-серый герб Льда
+item.banner.wizardry_ice.gray=Серый герб Льда
+item.banner.wizardry_ice.pink=Розовый герб Льда
+item.banner.wizardry_ice.lime=Лаймовый герб Льда
+item.banner.wizardry_ice.yellow=Желтый герб Льда
+item.banner.wizardry_ice.lightBlue=Голубой герб Льда
+item.banner.wizardry_ice.magenta=Пурпурный герб Льда
+item.banner.wizardry_ice.orange=Оранжевый герб Льда
+item.banner.wizardry_ice.white=Белый герб Льда
+
+item.banner.wizardry_lightning.black=Черный герб Молнии
+item.banner.wizardry_lightning.red=Красный герб Молнии
+item.banner.wizardry_lightning.green=Зеленый герб Молнии
+item.banner.wizardry_lightning.brown=Коричневый герб Молнии
+item.banner.wizardry_lightning.blue=Синий герб Молнии
+item.banner.wizardry_lightning.purple=Фиолетовый герб Молнии
+item.banner.wizardry_lightning.cyan=Бирюзовый герб Молнии
+item.banner.wizardry_lightning.silver=Светло-серый герб Молнии
+item.banner.wizardry_lightning.gray=Серый герб Молнии
+item.banner.wizardry_lightning.pink=Розовый герб Молнии
+item.banner.wizardry_lightning.lime=Лаймовый герб Молнии
+item.banner.wizardry_lightning.yellow=Желтый герб Молнии
+item.banner.wizardry_lightning.lightBlue=Голубой герб Молнии
+item.banner.wizardry_lightning.magenta=Пурпурный герб Молнии
+item.banner.wizardry_lightning.orange=Оранжевый герб Молнии
+item.banner.wizardry_lightning.white=Белый герб Молнии
+
+item.banner.wizardry_necromancy.black=Черный герб Некромантии
+item.banner.wizardry_necromancy.red=Красный герб Некромантии
+item.banner.wizardry_necromancy.green=Зеленый герб Некромантии
+item.banner.wizardry_necromancy.brown=Коричневый герб Некромантии
+item.banner.wizardry_necromancy.blue=Синий герб Некромантии
+item.banner.wizardry_necromancy.purple=Фиолетовый герб Некромантии
+item.banner.wizardry_necromancy.cyan=Бирюзовый герб Некромантии
+item.banner.wizardry_necromancy.silver=Светло-серый герб Некромантии
+item.banner.wizardry_necromancy.gray=Серый герб Некромантии
+item.banner.wizardry_necromancy.pink=Розовый герб Некромантии
+item.banner.wizardry_necromancy.lime=Лаймовый герб Некромантии
+item.banner.wizardry_necromancy.yellow=Желтый герб Некромантии
+item.banner.wizardry_necromancy.lightBlue=Голубой герб Некромантии
+item.banner.wizardry_necromancy.magenta=Пурпурный герб Некромантии
+item.banner.wizardry_necromancy.orange=Оранжевый герб Некромантии
+item.banner.wizardry_necromancy.white=Белый герб Некромантии
+
+item.banner.wizardry_earth.black=Черный герб Земли
+item.banner.wizardry_earth.red=Красный герб Земли
+item.banner.wizardry_earth.green=Зеленый герб Земли
+item.banner.wizardry_earth.brown=Коричневый герб Земли
+item.banner.wizardry_earth.blue=Синий герб Земли
+item.banner.wizardry_earth.purple=Фиолетовый герб Земли
+item.banner.wizardry_earth.cyan=Бирюзовый герб Земли
+item.banner.wizardry_earth.silver=Светло-серый герб Земли
+item.banner.wizardry_earth.gray=Серый герб Земли
+item.banner.wizardry_earth.pink=Розовый герб Земли
+item.banner.wizardry_earth.lime=Лаймовый герб Земли
+item.banner.wizardry_earth.yellow=Желтый герб Земли
+item.banner.wizardry_earth.lightBlue=Голубой герб Земли
+item.banner.wizardry_earth.magenta=Пурпурный герб Земли
+item.banner.wizardry_earth.orange=Оранжевый герб Земли
+item.banner.wizardry_earth.white=Белый герб Земли
+
+item.banner.wizardry_sorcery.black=Черный герб Чародея
+item.banner.wizardry_sorcery.red=Красный герб Чародея
+item.banner.wizardry_sorcery.green=Зеленый герб Чародея
+item.banner.wizardry_sorcery.brown=Коричневый герб Чародея
+item.banner.wizardry_sorcery.blue=Синий герб Чародея
+item.banner.wizardry_sorcery.purple=Фиолетовый герб Чародея
+item.banner.wizardry_sorcery.cyan=Бирюзовый герб Чародея
+item.banner.wizardry_sorcery.silver=Светло-серый герб Чародея
+item.banner.wizardry_sorcery.gray=Серый герб Чародея
+item.banner.wizardry_sorcery.pink=Розовый герб Чародея
+item.banner.wizardry_sorcery.lime=Лаймовый герб Чародея
+item.banner.wizardry_sorcery.yellow=Желтый герб Чародея
+item.banner.wizardry_sorcery.lightBlue=Голубой герб Чародея
+item.banner.wizardry_sorcery.magenta=Пурпурный герб Чародея
+item.banner.wizardry_sorcery.orange=Оранжевый герб Чародея
+item.banner.wizardry_sorcery.white=Белый герб Чародея
+
+item.banner.wizardry_healing.black=Черный герб Целителя
+item.banner.wizardry_healing.red=Красный герб Целителя
+item.banner.wizardry_healing.green=Зеленый герб Целителя
+item.banner.wizardry_healing.brown=Коричневый герб Целителя
+item.banner.wizardry_healing.blue=Синий герб Целителя
+item.banner.wizardry_healing.purple=Фиолетовый герб Целителя
+item.banner.wizardry_healing.cyan=Бирюзовый герб Целителя
+item.banner.wizardry_healing.silver=Светло-серый герб Целителя
+item.banner.wizardry_healing.gray=Серый герб Целителя
+item.banner.wizardry_healing.pink=Розовый герб Целителя
+item.banner.wizardry_healing.lime=Лаймовый герб Целителя
+item.banner.wizardry_healing.yellow=Желтый герб Целителя
+item.banner.wizardry_healing.lightBlue=Голубой герб Целителя
+item.banner.wizardry_healing.magenta=Пурпурный герб Целителя
+item.banner.wizardry_healing.orange=Оранжевый герб Целителя
+item.banner.wizardry_healing.white=Белый герб Целителя
+entity.ebwizardry\:summonedcreature.nameplate=%2$s игрока %1$s
+entity.ebwizardry\:summonedcreature.nameplate_fallback=Чей-то %1$s
+
+entity.ebwizardry\:wizard.greeting_0=Добрый день, товарищ странник.
+entity.ebwizardry\:wizard.greeting_1=Приветствую, путник. Что привело Вас сюда?
+entity.ebwizardry\:wizard.greeting_2=Ах, приятно видеть здесь других людей.
+entity.ebwizardry\:wizard.speech_0=Не интересуют ли Вас заклинания?
+entity.ebwizardry\:wizard.speech_1=Магия повсюду, если знать, где искать.
+entity.ebwizardry\:wizard.speech_2=Тайные искусства таят в себе еще много секретов, искатель приключений.
+entity.ebwizardry\:wizard.speech_3=Возможно, Вы сами познали нечто, чем хотели бы поделиться?
+entity.ebwizardry\:wizard.speech_4=Изучение тайной магии так увлекательно, не правда ли?
+entity.ebwizardry\:wizard.farewell_0=Удачи в Ваших странствиях, искатель приключений.
+entity.ebwizardry\:wizard.farewell_1=Уверен, мы скоро встретимся вновь, друг мой.
+entity.ebwizardry\:wizard.farewell_2=Тогда прощайте, путник.
+entity.ebwizardry\:wizard.combat_0=Прочь, мерзкие создания!
+entity.ebwizardry\:wizard.combat_1=Оставьте меня в покое, вредители!
+entity.ebwizardry\:wizard.combat_2=Нежити здесь не рады, брысь!
+entity.ebwizardry\:wizard.combat_3=Сгиньте, порождения тьмы!
+entity.ebwizardry\:wizard.combat_4=С меня хватит! Убирайтесь отсюда, монстры!
+entity.ebwizardry\:wizard.combat_5=Возвращайтесь в пещеры, из которых выползли, злобные твари!
+entity.ebwizardry\:wizard.player_combat_0=Вы пожалеете об этом решении, путник!
+entity.ebwizardry\:wizard.player_combat_1=Вы что творите?!
+entity.ebwizardry\:wizard.player_combat_2=Только глупец осмелится злить волшебника!
+entity.ebwizardry\:wizard.player_combat_3=Вы поплатитесь за свою неосторожность, искатель приключений!
+entity.ebwizardry\:wizard.player_combat_4=Защищайтесь, негодяй!
+entity.ebwizardry\:wizard.player_combat_5=Познайте мой гнев!
+
+entity.ebwizardry\:zombie_minion.name=Зомби
+entity.ebwizardry\:husk_minion.name=Кадавр
+entity.ebwizardry\:skeleton_minion.name=Скелет
+entity.ebwizardry\:stray_minion.name=Зимогор
+entity.ebwizardry\:spider_minion.name=Паук
+entity.ebwizardry\:blaze_minion.name=Ифрит
+entity.ebwizardry\:wither_skeleton_minion.name=Скелет-иссушитель
+entity.ebwizardry\:ice_wraith.name=Ледяной дух
+entity.ebwizardry\:lightning_wraith.name=Дух бури
+entity.ebwizardry\:shadow_wraith.name=Теневой дух
+entity.ebwizardry\:spirit_wolf.name=Призрачный волк
+entity.ebwizardry\:spirit_horse.name=Призрачная лошадь
+entity.ebwizardry\:ice_giant.name=Ледяной гигант
+entity.ebwizardry\:phoenix.name=Феникс
+entity.ebwizardry\:wizard.name=Волшебник
+entity.ebwizardry\:magic_slime.name=Магический слизень
+entity.ebwizardry\:silverfish_minion.name=Чешуйница
+entity.ebwizardry\:storm_elemental.name=Элементаль бури
+entity.ebwizardry\:evil_wizard.name=Злой волшебник
+entity.ebwizardry\:decoy.name=Приманка
+entity.ebwizardry\:vex_minion.name=Досаждатель
+entity.ebwizardry\:remnant.name=Служитель древних
+entity.ebwizardry\:spectral_golem.name=Спектральный голем
+
+entity.ebwizardry\:magic_missile.name=Магия
+entity.ebwizardry\:arc.name=Магия
+entity.ebwizardry\:spark_bomb.name=Магия
+entity.ebwizardry\:ice_shard.name=Магия
+entity.ebwizardry\:firebomb.name=Магия
+entity.ebwizardry\:poison_bomb.name=Магия
+entity.ebwizardry\:force_orb.name=Магия
+entity.ebwizardry\:spark.name=Магия
+entity.ebwizardry\:darkness_orb.name=Магия
+entity.ebwizardry\:fire_sigil.name=Магия
+entity.ebwizardry\:frost_sigil.name=Магия
+entity.ebwizardry\:lightning_sigil.name=Магия
+entity.ebwizardry\:lightning_arrow.name=Магия
+entity.ebwizardry\:firebolt.name=Магия
+entity.ebwizardry\:ice_charge.name=Магия
+entity.ebwizardry\:force_arrow.name=Магия
+entity.ebwizardry\:dart.name=Магия
+entity.ebwizardry\:lightning_disc.name=Магия
+entity.ebwizardry\:thunderbolt.name=Магия
+entity.ebwizardry\:decay.name=Магия
+entity.ebwizardry\:ice_lance.name=Магия
+entity.ebwizardry\:smoke_bomb.name=Магия
+entity.ebwizardry\:ice_spike.name=Магия
+entity.ebwizardry\:combustion_rune.name=Магия
+entity.ebwizardry\:flamecatcher_arrow.name=Магия
+entity.ebwizardry\:conjured_arrow.name=Магия
+
+entity.ebwizardry\:black_hole.name=Черная дыра
+entity.ebwizardry\:shield.name=Щит
+entity.ebwizardry\:meteor.name=Метеор
+entity.ebwizardry\:blizzard.name=Снежная буря
+entity.ebwizardry\:bubble.name=Пузырь
+entity.ebwizardry\:tornado.name=Торнадо
+entity.ebwizardry\:lightning_hammer.name=Молот бури
+entity.ebwizardry\:arrow_rain.name=Град стрел
+entity.ebwizardry\:healing_aura.name=Аура исцеления
+entity.ebwizardry\:forcefield.name=Силовое поле
+entity.ebwizardry\:ring_of_fire.name=Огненное кольцо
+entity.ebwizardry\:earthquake.name=Землетрясение
+entity.ebwizardry\:hailstorm.name=Град
+entity.ebwizardry\:lightning_pulse.name=Импульс молнии
+entity.ebwizardry\:stormcloud.name=Грозовое облако
+entity.ebwizardry\:zombie_spawner.name=Рассадник зомби
+entity.ebwizardry\:boulder.name=Валун
+entity.ebwizardry\:radiant_totem.name=Сияющий тотем
+entity.ebwizardry\:withering_totem.name=Тотем иссушения
+
+itemGroup.ebwizardry=Electroblob's Wizardry
+itemGroup.ebwizardryspells=Заклинания (Wizardry)
+itemGroup.ebwizardrygear=Снаряжение (Wizardry)
+
+advancement.ebwizardry\:root=Wizardry
+advancement.ebwizardry\:root.desc=Путь мага к постижению тайн магии
+advancement.ebwizardry\:crystal=Любопытный кристалл...
+advancement.ebwizardry\:crystal.desc=Добудьте магический кристалл
+advancement.ebwizardry\:arcane_initiate=Посвящение в магию
+advancement.ebwizardry\:arcane_initiate.desc=Создайте волшебную палочку из кусочка золота, палки и магического кристалла.
+
+advancement.ebwizardry\:apprentice=Ученик волшебника
+advancement.ebwizardry\:apprentice.desc=Используйте магический фолиант для улучшения вашей палочки.
+advancement.ebwizardry\:special_upgrade=Тайная инженерия
+advancement.ebwizardry\:special_upgrade.desc=Примените особое улучшение к жезлу.
+advancement.ebwizardry\:advanced=Стремительное развитие
+advancement.ebwizardry\:advanced.desc=Улучшите свой жезл до продвинутого уровня.
+advancement.ebwizardry\:master=Магистр искусств
+advancement.ebwizardry\:master.desc=Получите жезл мастера.
+advancement.ebwizardry\:max_out_wand=Во всеоружии
+advancement.ebwizardry\:max_out_wand.desc=Примените максимальное количество улучшений к жезлу мастера.
+advancement.ebwizardry\:all_spells=Мастер на все руки
+advancement.ebwizardry\:all_spells.desc=Сотворите абсолютно каждое заклинание в игре.
+
+advancement.ebwizardry\:wizard_tower=Кто здесь живёт?
+advancement.ebwizardry\:wizard_tower.desc=Посетите башню волшебника.
+advancement.ebwizardry\:wizard_trade=Магическая сделка
+advancement.ebwizardry\:wizard_trade.desc=Купите предмет у волшебника.
+advancement.ebwizardry\:anger_wizard=Ты об этом пожалеешь
+advancement.ebwizardry\:anger_wizard.desc=Разозлите волшебника.
+advancement.ebwizardry\:defeat_evil_wizard=Правосудие
+advancement.ebwizardry\:defeat_evil_wizard.desc=Победите злого волшебника.
+advancement.ebwizardry\:buy_master_spell=Знание — сила
+advancement.ebwizardry\:buy_master_spell.desc=Купите заклинание уровня мастера у волшебника.
+
+advancement.ebwizardry\:discover_spell=Метод проб и ошибок
+advancement.ebwizardry\:discover_spell.desc=Опознайте неизвестное заклинание, применив его и посмотрев, что произойдет.
+advancement.ebwizardry\:identify_spell=Тайная оценка
+advancement.ebwizardry\:identify_spell.desc=Найдите более надежный способ определения заклинаний (используйте свиток распознавания).
+advancement.ebwizardry\:spell_failure=Вот так отдача
+advancement.ebwizardry\:spell_failure.desc=Узнайте на горьком опыте, что может пойти не так при использовании заклинаний.
+advancement.ebwizardry\:discover_master_spell=Игры с опасностью
+advancement.ebwizardry\:discover_master_spell.desc=Успешно распознайте заклинание уровня мастера методом проб и ошибок.
+
+advancement.ebwizardry\:visit_shrine=Святыня
+advancement.ebwizardry\:visit_shrine.desc=Войдите в святилище и пробудите его древнюю магию.
+advancement.ebwizardry\:artefact=Забытая реликвия
+advancement.ebwizardry\:artefact.desc=Снимите защитные чары со святилища и заберите сокровища, скрытые внутри.
+advancement.ebwizardry\:all_artefacts=Настоящий музей
+advancement.ebwizardry\:all_artefacts.desc=Соберите все кольца, амулеты и талисманы.
+
+advancement.ebwizardry\:defeat_remnant=Смахни пыль со стрел
+advancement.ebwizardry\:defeat_remnant.desc=Выследите служителей древних, охраняющих обелиск, и соберите с них спектральную пыль.
+advancement.ebwizardry\:find_library_ruins=Кажется, я просрочил книги
+advancement.ebwizardry\:find_library_ruins.desc=Отыщите руины забытой библиотеки.
+advancement.ebwizardry\:restore_imbuement_altar=Как новенький
+advancement.ebwizardry\:restore_imbuement_altar.desc=Восстановите алтарь наполнения в его былом великолепии.
+advancement.ebwizardry\:create_elemental_armour=Смена одежды
+advancement.ebwizardry\:create_elemental_armour.desc=Наполните элемент брони волшебника спектральной пылью одного из магических элементов.
+advancement.ebwizardry\:restore_ruined_book=Тайный археолог
+advancement.ebwizardry\:restore_ruined_book.desc=Восстановите поврежденную книгу заклинаний на алтаре наполнения.
+advancement.ebwizardry\:craft_lectern=Тайная энциклопедия
+advancement.ebwizardry\:craft_lectern.desc=Создайте кафедру, чтобы вести учет своей библиотеки заклинаний.
+
+advancement.ebwizardry\:armour_set=Теперь ты настоящий волшебник
+advancement.ebwizardry\:armour_set.desc=Создайте и наденьте полный комплект брони волшебника.
+advancement.ebwizardry\:sage=Путь мудреца
+advancement.ebwizardry\:sage.desc=Получите элемент брони мудреца.
+advancement.ebwizardry\:battlemage=Клятва боевого мага
+advancement.ebwizardry\:battlemage.desc=Получите элемент брони боевого мага.
+advancement.ebwizardry\:warlock=Путь чернокнижника
+advancement.ebwizardry\:warlock.desc=Получите элемент брони чернокнижника.
+
+advancement.ebwizardry\:enchant_scroll=Написать свиток!
+advancement.ebwizardry\:enchant_scroll.desc=Создайте чистый свиток и наложите на него заклинание с помощью тайного верстака.
+
+handbook.toast.title=Открыт новый раздел руководства!
+
+gui.ebwizardry\:spell_book.tier=Уровень: %s
+gui.ebwizardry\:spell_book.element=Стихия: %s
+gui.ebwizardry\:spell_book.element_undiscovered=Стихия: ?
+gui.ebwizardry\:spell_book.mana_cost=Затраты маны: %s
+gui.ebwizardry\:spell_book.mana_cost_continuous=Затраты маны: %s/сек
+gui.ebwizardry\:spell_book.mana_cost_undiscovered=Затраты маны: ?
+
+gui.ebwizardry\:lectern.title=Поиск заклинаний
+
+container.ebwizardry\:arcane_workbench=Мистический верстак
+container.ebwizardry\:arcane_workbench.mana=Мана\: %s/%s
+container.ebwizardry\:arcane_workbench.upgrades=Примененные улучшения
+
+container.ebwizardry\:arcane_workbench.bookshelves=Книжные полки
+container.ebwizardry\:arcane_workbench.sort_tier=Сортировать по уровню
+container.ebwizardry\:arcane_workbench.sort_element=Сортировать по стихии
+container.ebwizardry\:arcane_workbench.sort_alphabetical=Сортировать по алфавиту
+container.ebwizardry\:arcane_workbench.search_tooltip=%1$sПодсказки по поиску\n\ntier=%2$s, %1$st=%2$s: поиск по уровню\n%1$selement=%2$s, %1$se=%2$s: поиск по стихии\n%1$stype=%2$s, %1$sp=%2$s: поиск по типу заклинания\n%1$sdiscovered=true/false%2$s, %1$sd=t/f%2$s: включить только (не)изученные\n%1$smodid=%2$s, %1$sm=%2$s: поиск по ID мода\n\nРазделяйте несколько значений с помощью %1$s,%2$s\nРазделяйте несколько критериев с помощью %1$s;
+
+container.ebwizardry\:bookshelf=Книжная полка
+
+tier.novice=Новичок
+tier.apprentice=Ученик
+tier.advanced=Продвинутый
+tier.master=Мастер
+
+element.magic=Нет
+element.fire=Огонь
+element.ice=Лед
+element.lightning=Молния
+element.necromancy=Некромантия
+element.earth=Земля
+element.sorcery=Тайная магия
+element.healing=Исцеление
+
+element.magic.wizard=Волшебник
+element.fire.wizard=Пиромант
+element.ice.wizard=Криомант
+element.lightning.wizard=Маг бури
+element.necromancy.wizard=Некромант
+element.earth.wizard=Маг земли
+element.sorcery.wizard=Чародей
+element.healing.wizard=Целитель
+
+spelltype.attack=Атака
+spelltype.defence=Защита
+spelltype.utility=Утилита
+spelltype.minion=Призыв
+spelltype.buff=Бафф
+spelltype.construct=Конструкция
+spelltype.projectile=Снаряд
+spelltype.alteration=Изменение
+
+spell.disabled=Заклинание %1$s отключено в конфигурации мода.
+spell.resist=%1$s сопротивляется магии (%2$s)
+spell.discover=Вы открыли заклинание: %1$s!
+
+spell.ebwizardry\:agility=Ловкость
+spell.ebwizardry\:arc=Электрическая дуга
+spell.ebwizardry\:arcane_jammer=Магическая помеха
+spell.ebwizardry\:arcane_lock=Магический замок
+spell.ebwizardry\:arrow_rain=Град стрел
+spell.ebwizardry\:banish=Изгнание
+spell.ebwizardry\:black_hole=Черная дыра
+spell.ebwizardry\:blinding_flash=Ослепляющая вспышка
+spell.ebwizardry\:blink=Мерцание
+spell.ebwizardry\:blizzard=Снежная буря
+spell.ebwizardry\:boulder=Валун
+spell.ebwizardry\:bubble=Пузырь
+spell.ebwizardry\:celestial_smite=Небесная кара
+spell.ebwizardry\:chain_lightning=Цепная молния
+spell.ebwizardry\:charge=Рывок
+spell.ebwizardry\:clairvoyance=Ясновидение
+spell.ebwizardry\:cobwebs=Паутина
+spell.ebwizardry\:combustion_rune=Взрывная руна
+spell.ebwizardry\:conjure_armour=Призрачная броня
+spell.ebwizardry\:conjure_block=Призрачный блок
+spell.ebwizardry\:conjure_bow=Призрачный лук
+spell.ebwizardry\:conjure_pickaxe=Призрачная кирка
+spell.ebwizardry\:conjure_sword=Призрачный меч
+spell.ebwizardry\:containment=Сдерживание
+spell.ebwizardry\:cure_effects=Очищение эффектов
+spell.ebwizardry\:curse_of_enfeeblement=Проклятие слабости
+spell.ebwizardry\:curse_of_soulbinding=Проклятие связи душ
+spell.ebwizardry\:curse_of_undeath=Проклятие нежити
+spell.ebwizardry\:darkness_orb=Сфера тьмы
+spell.ebwizardry\:darkvision=Ночное зрение
+spell.ebwizardry\:dart=Дротик
+spell.ebwizardry\:decay=Разложение
+spell.ebwizardry\:decoy=Приманка
+spell.ebwizardry\:detonate=Детонация
+spell.ebwizardry\:diamondflesh=Алмазная плоть
+spell.ebwizardry\:disintegration=Дезинтеграция
+spell.ebwizardry\:divination=Прорицание (поиск руд)
+spell.ebwizardry\:dragon_fireball=Драконий огненный шар
+spell.ebwizardry\:earthquake=Землетрясение
+spell.ebwizardry\:empowering_presence=Воодушевляющее присутствие
+spell.ebwizardry\:enrage=Гнев
+spell.ebwizardry\:entrapment=Захват
+spell.ebwizardry\:evade=Уклонение
+spell.ebwizardry\:fangs=Клыки
+spell.ebwizardry\:fireball=Огненный шар
+spell.ebwizardry\:firebolt=Огненная стрела
+spell.ebwizardry\:firebomb=Зажигательная бомба
+spell.ebwizardry\:fire_resistance=Огнестойкость
+spell.ebwizardry\:fire_sigil=Символ огня
+spell.ebwizardry\:fireskin=Огненная кожа
+spell.ebwizardry\:firestorm=Огненный шторм
+spell.ebwizardry\:fire_breath=Огненное дыхание
+spell.ebwizardry\:flamecatcher=Ловец пламени
+spell.ebwizardry\:flame_ray=Луч пламени
+spell.ebwizardry\:flaming_axe=Пылающий топор
+spell.ebwizardry\:flaming_weapon=Пылающее оружие
+spell.ebwizardry\:flight=Полет
+spell.ebwizardry\:font_of_mana=Источник маны
+spell.ebwizardry\:font_of_vitality=Источник жизненной силы
+spell.ebwizardry\:force_arrow=Силовая стрела
+spell.ebwizardry\:forcefield=Силовое поле
+spell.ebwizardry\:force_orb=Силовая сфера
+spell.ebwizardry\:forests_curse=Проклятие леса
+spell.ebwizardry\:forest_of_thorns=Лес шипов
+spell.ebwizardry\:freeze=Заморозка
+spell.ebwizardry\:freezing_weapon=Ледяное оружие
+spell.ebwizardry\:frost_axe=Морозный топор
+spell.ebwizardry\:frost_barrier=Морозный барьер
+spell.ebwizardry\:frost_ray=Луч холода
+spell.ebwizardry\:frost_sigil=Символ мороза
+spell.ebwizardry\:frost_step=Морозный шаг
+spell.ebwizardry\:glide=Планирование
+spell.ebwizardry\:grapple=Крюк-кошка
+spell.ebwizardry\:greater_fireball=Огромный огненный шар
+spell.ebwizardry\:greater_heal=Великое исцеление
+spell.ebwizardry\:greater_telekinesis=Великий телекинез
+spell.ebwizardry\:greater_ward=Великая защита
+spell.ebwizardry\:group_heal=Групповое исцеление
+spell.ebwizardry\:growth_aura=Аура роста
+spell.ebwizardry\:guardian_beam=Луч стража
+spell.ebwizardry\:hailstorm=Град
+spell.ebwizardry\:heal=Исцеление
+spell.ebwizardry\:heal_ally=Исцеление союзника
+spell.ebwizardry\:healing_aura=Аура исцеления
+spell.ebwizardry\:homing_spark=Самонаводящаяся искра
+spell.ebwizardry\:iceball=Ледяной шар
+spell.ebwizardry\:ice_age=Ледниковый период
+spell.ebwizardry\:ice_charge=Ледяной заряд
+spell.ebwizardry\:ice_lance=Ледяное копье
+spell.ebwizardry\:ice_shard=Ледяной осколок
+spell.ebwizardry\:ice_shroud=Ледяная пелена
+spell.ebwizardry\:ice_spikes=Ледяные шипы
+spell.ebwizardry\:ice_statue=Ледяная статуя
+spell.ebwizardry\:ignite=Воспламенение
+spell.ebwizardry\:imbue_weapon=Наполнение оружия магией
+spell.ebwizardry\:intimidate=Устрашение
+spell.ebwizardry\:invigorating_presence=Бодрящее присутствие
+spell.ebwizardry\:invisibility=Невидимость
+spell.ebwizardry\:invoke_weather=Призыв погоды
+spell.ebwizardry\:ironflesh=Железная плоть
+spell.ebwizardry\:leap=Прыжок
+spell.ebwizardry\:levitation=Левитация
+spell.ebwizardry\:life_drain=Похищение жизни
+spell.ebwizardry\:light=Свет
+spell.ebwizardry\:lightning_arrow=Стрела молнии
+spell.ebwizardry\:lightning_bolt=Удар молнии
+spell.ebwizardry\:lightning_disc=Диск молнии
+spell.ebwizardry\:lightning_hammer=Молот бури
+spell.ebwizardry\:lightning_pulse=Импульс молнии
+spell.ebwizardry\:lightning_ray=Луч молнии
+spell.ebwizardry\:lightning_sigil=Символ молнии
+spell.ebwizardry\:lightning_web=Сеть молний
+spell.ebwizardry\:magic_missile=Магический снаряд
+spell.ebwizardry\:mark_sacrifice=Метка жертвы
+spell.ebwizardry\:metamorphosis=Метаморфоза
+spell.ebwizardry\:meteor=Метеор
+spell.ebwizardry\:mind_control=Контроль разума
+spell.ebwizardry\:mind_trick=Обман разума
+spell.ebwizardry\:mine=Разрушение
+spell.ebwizardry\:mirage=Мираж
+spell.ebwizardry\:muffle=Приглушение шагов
+spell.ebwizardry\:none=[Пустой слот]
+spell.ebwizardry\:oakflesh=Дубовая плоть
+spell.ebwizardry\:paralysis=Паралич
+spell.ebwizardry\:permafrost=Вечная мерзлота
+spell.ebwizardry\:petrify=Окаменение
+spell.ebwizardry\:phase_step=Фазовый шаг
+spell.ebwizardry\:plague_of_darkness=Чума тьмы
+spell.ebwizardry\:pocket_furnace=Карманная печь
+spell.ebwizardry\:pocket_workbench=Карманный верстак
+spell.ebwizardry\:poison=Отравление
+spell.ebwizardry\:poison_bomb=Ядовитая бомба
+spell.ebwizardry\:possession=Одержимость
+spell.ebwizardry\:radiant_totem=Сияющий тотем
+spell.ebwizardry\:ray_of_purification=Луч очищения
+spell.ebwizardry\:remove_curse=Снятие проклятия
+spell.ebwizardry\:replenish_hunger=Насыщение
+spell.ebwizardry\:resurrection=Воскрешение
+spell.ebwizardry\:reversal=Отражение
+spell.ebwizardry\:ring_of_fire=Огненное кольцо
+spell.ebwizardry\:satiety=Сытость
+spell.ebwizardry\:shadow_ward=Теневая защита
+spell.ebwizardry\:shield=Щит
+spell.ebwizardry\:shockwave=Ударная волна
+spell.ebwizardry\:shulker_bullet=Снаряд шалкера
+spell.ebwizardry\:silverfish_swarm=Рой чешуйниц
+spell.ebwizardry\:sixth_sense=Шестое чувство
+spell.ebwizardry\:slime=Слизь
+spell.ebwizardry\:slow_time=Замедление времени
+spell.ebwizardry\:smoke_bomb=Дымовая бомба
+spell.ebwizardry\:snare=Капкан
+spell.ebwizardry\:snowball=Снежок
+spell.ebwizardry\:spark_bomb=Искрящая бомба
+spell.ebwizardry\:spectral_pathway=Спектральный мост
+spell.ebwizardry\:speed_time=Ускорение времени
+spell.ebwizardry\:spider_swarm=Рой пауков
+spell.ebwizardry\:static_aura=Статическая аура
+spell.ebwizardry\:stormcloud=Грозовое облако
+spell.ebwizardry\:summon_blaze=Призыв ифрита
+spell.ebwizardry\:summon_ice_giant=Призыв ледяного гиганта
+spell.ebwizardry\:summon_ice_wraith=Призыв ледяного духа
+spell.ebwizardry\:summon_iron_golem=Призыв железного голема
+spell.ebwizardry\:summon_lightning_wraith=Призыв духа бури
+spell.ebwizardry\:summon_phoenix=Призыв феникса
+spell.ebwizardry\:summon_shadow_wraith=Призыв теневого духа
+spell.ebwizardry\:summon_skeleton=Призыв скелета
+spell.ebwizardry\:summon_skeleton_legion=Призыв легиона скелетов
+spell.ebwizardry\:summon_snow_golem=Призыв снежного голема
+spell.ebwizardry\:summon_spirit_horse=Призыв призрачной лошади
+spell.ebwizardry\:summon_spirit_wolf=Призыв призрачного волка
+spell.ebwizardry\:summon_storm_elemental=Призыв элементаля бури
+spell.ebwizardry\:summon_wither_skeleton=Призыв скелета-иссушителя
+spell.ebwizardry\:summon_zombie=Призыв зомби
+spell.ebwizardry\:telekinesis=Телекинез
+spell.ebwizardry\:thunderbolt=Удар грома
+spell.ebwizardry\:thunderstorm=Гроза
+spell.ebwizardry\:tornado=Торнадо
+spell.ebwizardry\:transience=Бесплотность
+spell.ebwizardry\:transportation=Перемещение
+spell.ebwizardry\:vanishing_box=Доступ к эндер-сундуку
+spell.ebwizardry\:vex_swarm=Призыв досаждателей
+spell.ebwizardry\:wall_of_frost=Стена мороза
+spell.ebwizardry\:ward=Защита от магии
+spell.ebwizardry\:water_breathing=Подводное дыхание
+spell.ebwizardry\:whirlwind=Вихрь
+spell.ebwizardry\:wither=Иссушение
+spell.ebwizardry\:wither_skull=Череп иссушителя
+spell.ebwizardry\:withering_totem=Тотем иссушения
+spell.ebwizardry\:zombie_apocalypse=Зомби-апокалипсис
+
+spell.ebwizardry\:invoke_weather.sun=Дождь постепенно прекращается...
+spell.ebwizardry\:invoke_weather.rain=Небеса разверзлись...
+spell.ebwizardry\:transportation.missing=Ваш круг камней разрушен или заблокирован...
+spell.ebwizardry\:transportation.undefined=Сначала вы должны сохранить координаты круга камней!
+spell.ebwizardry\:transportation.wrongdimension=Ваш круг камней находится в другом измерении...
+spell.ebwizardry\:clairvoyance.searching=Поиск...
+spell.ebwizardry\:clairvoyance.confirm=Путь, создаваемый заклинанием «%1$s», теперь будет вести к этой точке.
+spell.ebwizardry\:clairvoyance.outofrange=Сохраненное место слишком далеко или недоступно...
+spell.ebwizardry\:clairvoyance.undefined=Сначала вы должны сохранить местоположение!
+spell.ebwizardry\:clairvoyance.wrongdimension=Сохраненное место находится в другом измерении...
+spell.ebwizardry\:possession.insufficienthealth=У вас недостаточно здоровья, чтобы взять под контроль %1$s!
+spell.ebwizardry\:possession.success=Нажмите %s, чтобы прекратить контроль
+spell.ebwizardry\:divination.nothing=Ничего не произошло.
+spell.ebwizardry\:divination.weak=Вы чувствуете, как ваш жезл слегка дергается %s.
+spell.ebwizardry\:divination.moderate=Вы чувствуете, как ваш жезл тянет %s.
+spell.ebwizardry\:divination.strong=Ваш жезл сильно тянет %s.
+spell.ebwizardry\:divination.very_strong=Ваш жезл резко рванулся %s.
+spell.ebwizardry\:divination.down=вниз
+spell.ebwizardry\:divination.up=вверх
+spell.ebwizardry\:divination.front=вперед
+spell.ebwizardry\:divination.back=назад
+spell.ebwizardry\:divination.left=влево
+spell.ebwizardry\:divination.right=вправо
+spell.ebwizardry\:resurrection.resurrect_ally=%1$s был воскрешен игроком %2$s
+spell.ebwizardry\:resurrection.resurrect_self=%1$s вернулся к жизни
+spell.ebwizardry\:resurrection.button_wait=Воскрешение (%sс)
+spell.ebwizardry\:resurrection.button_ready=Воскресить
+
+forfeit.ebwizardry\:do_nothing=Ничего не произошло.
+
+forfeit.ebwizardry\:burn_self=%s вспыхивает в ваших руках!
+forfeit.ebwizardry\:fireball=Прямо перед вами материализуется огненный шар!
+forfeit.ebwizardry\:firebomb=Зажигательная бомба появляется прямо над вами!
+forfeit.ebwizardry\:explode=Внезапный взрыв сбивает вас с ног!
+forfeit.ebwizardry\:blazes=Внезапно вокруг вас материализуются враждебные ифриты!
+forfeit.ebwizardry\:burn_surroundings=Все вокруг вас вспыхивает пламенем!
+forfeit.ebwizardry\:meteors=Огненный армагеддон обрушивается с небес!
+
+forfeit.ebwizardry\:freeze_self=Вы чувствуете, как вас пронзает ледяной холод!
+forfeit.ebwizardry\:freeze_self_2=Из %s исходит такой жуткий холод, что вы примерзаете к месту!
+forfeit.ebwizardry\:ice_spikes=Ледяные шипы вырастают из земли прямо у вас под ногами!
+forfeit.ebwizardry\:blizzard=Внезапно вас окружает неистовая снежная буря!
+forfeit.ebwizardry\:ice_wraiths=Внезапно вокруг вас материализуются враждебные ледяные духи!
+forfeit.ebwizardry\:hailstorm=На вас начинает падать острый как бритва лед!
+forfeit.ebwizardry\:ice_giant=Враждебный ледяной гигант материализуется перед вами!
+
+forfeit.ebwizardry\:thunder=Свиток издает оглушительный грохот, сбивающий вас с ног!
+forfeit.ebwizardry\:storm=Похоже, надвигается буря!
+forfeit.ebwizardry\:lightning_sigils=Смотрите под ноги!
+forfeit.ebwizardry\:lightning=В вас ударяет молния!
+forfeit.ebwizardry\:paralyse_self=Вы парализованы!
+forfeit.ebwizardry\:lightning_wraiths=Внезапно вокруг вас материализуются враждебные духи бури!
+forfeit.ebwizardry\:storm_elementals=Враждебные элементали бури материализуются со всех сторон!
+
+forfeit.ebwizardry\:nausea=...а? Что случилось? Где я?
+forfeit.ebwizardry\:zombie_horde=Орда зомби восстает из земли вокруг вас!
+forfeit.ebwizardry\:wither_self=Тьма иссушает вашу душу!
+forfeit.ebwizardry\:cripple_self=%s издает смертоносный вой, вы находитесь на волосок от гибели!
+forfeit.ebwizardry\:shadow_wraiths=Враждебные теневые духи материализуются со всех сторон!
+
+forfeit.ebwizardry\:snares=Это ловушка!
+forfeit.ebwizardry\:squid=Спрут!
+forfeit.ebwizardry\:uproot_plants=Все близлежащие растения внезапно вырваны с корнем!
+forfeit.ebwizardry\:poison_self=Вы отравлены!
+forfeit.ebwizardry\:flood=Вода материализуется вокруг вас!
+forfeit.ebwizardry\:bury_self=Земля проваливается у вас под ногами!
+
+forfeit.ebwizardry\:spill_inventory=Ваши вещи разлетаются повсюду!
+forfeit.ebwizardry\:teleport_self=Вас мгновенно телепортирует в случайное место!
+forfeit.ebwizardry\:levitate_self=Вы начинаете беспомощно парить вверх!
+forfeit.ebwizardry\:vex_horde=Орда досаждателей материализуется вокруг вас!
+forfeit.ebwizardry\:black_hole=Перед вами появляется вращающийся водоворот!
+forfeit.ebwizardry\:arrow_rain=Шквал стрел обрушивается на вас!
+
+forfeit.ebwizardry\:damage_self=Ой!
+forfeit.ebwizardry\:spill_armour=Вся ваша броня спадает!
+forfeit.ebwizardry\:hunger=Вы внезапно чувствуете сильный голод!
+forfeit.ebwizardry\:blind_self=Вы ослеплены!
+forfeit.ebwizardry\:weaken_self=Вы сильно ослаблены!
+forfeit.ebwizardry\:jam_self=Ваша магия стала бесполезной!
+forfeit.ebwizardry\:curse_self=Вы прокляты нежитью!
+
+potion.ebwizardry\:frost=Обморожение
+potion.ebwizardry\:fireskin=Огненная кожа
+potion.ebwizardry\:ice_shroud=Ледяная пелена
+potion.ebwizardry\:static_aura=Статическая аура
+potion.ebwizardry\:transience=Бесплотность
+potion.ebwizardry\:decay=Разложение
+potion.ebwizardry\:sixth_sense=Шестое чувство
+potion.ebwizardry\:arcane_jammer=Магическая помеха
+potion.ebwizardry\:mind_trick=Обман разума
+potion.ebwizardry\:mind_control=Контроль разума
+potion.ebwizardry\:font_of_mana=Источник маны
+potion.ebwizardry\:fear=Страх
+potion.ebwizardry\:curse_of_soulbinding=Проклятие связи душ
+potion.ebwizardry\:paralysis=Паралич
+potion.ebwizardry\:muffle=Приглушение шагов
+potion.ebwizardry\:ward=Защита от магии
+potion.ebwizardry\:slow_time=Замедление времени
+potion.ebwizardry\:empowerment=Воодушевление
+potion.ebwizardry\:curse_of_enfeeblement=Проклятие слабости
+potion.ebwizardry\:curse_of_undeath=Проклятие нежити
+potion.ebwizardry\:containment=Сдерживание
+potion.ebwizardry\:frost_step=Морозный шаг
+potion.ebwizardry\:mark_of_sacrifice=Метка жертвы
+potion.ebwizardry\:mirage=Мираж
+potion.ebwizardry\:oakflesh=Дубовая плоть
+potion.ebwizardry\:ironflesh=Железная плоть
+potion.ebwizardry\:diamondflesh=Алмазная плоть
+
+enchantment.ebwizardry\:magic_sword=Наполнение магией
+enchantment.ebwizardry\:magic_bow=Наполнение магией
+enchantment.ebwizardry\:flaming_weapon=Наполнение огнем
+enchantment.ebwizardry\:freezing_weapon=Наполнение морозом
+enchantment.ebwizardry\:shocking_weapon=Наполнение молнией
+
+enchantment.ebwizardry\:magic_protection=Магическая защита
+enchantment.ebwizardry\:frost_protection=Защита от холода
+enchantment.ebwizardry\:shock_protection=Защита от молний
+
+enchantment.ebwizardry.magic_sword.desc=Часть заклинания «Наполнение оружия магией»; нельзя получить в режиме выживания (книга работать не будет).
+enchantment.ebwizardry.magic_bow.desc=Часть заклинания «Наполнение оружия магией»; нельзя получить в режиме выживания (книга работать не будет).
+enchantment.ebwizardry.flaming_weapon.desc=Часть заклинания «Пылающее оружие»; нельзя получить в режиме выживания (книга работать не будет).
+enchantment.ebwizardry.freezing_weapon.desc=Часть заклинания «Ледяное оружие»; нельзя получить в режиме выживания (книга работать не будет).
+enchantment.ebwizardry.shocking_weapon.desc=Часть заклинания, связанного с электричеством; нельзя получить в режиме выживания (книга работать не будет).
+
+enchantment.ebwizardry.magic_protection.desc=Снижает урон от всей магии.
+enchantment.ebwizardry.frost_protection.desc=Снижает эффекты от урона холодом.
+enchantment.ebwizardry.shock_protection.desc=Снижает эффекты от урона молнией.
+
+key.categories.ebwizardry=Electroblob's Wizardry
+
+key.ebwizardry.next_spell=Следующее заклинание
+key.ebwizardry.previous_spell=Предыдущее заклинание
+key.ebwizardry.spell_1=Слот для заклинания 1
+key.ebwizardry.spell_2=Слот для заклинания 2
+key.ebwizardry.spell_3=Слот для заклинания 3
+key.ebwizardry.spell_4=Слот для заклинания 4
+key.ebwizardry.spell_5=Слот для заклинания 5
+key.ebwizardry.spell_6=Слот для заклинания 6
+key.ebwizardry.spell_7=Слот для заклинания 7
+key.ebwizardry.spell_8=Слот для заклинания 8
+
+death.attack.wizardry_magic=Игрок %2$s убил игрока %1$s с помощью магии
+death.attack.indirect_wizardry_magic=Игрок %2$s убил игрока %1$s с помощью магии
+
+soundCategory.ebwizardry_spells=Заклинания
+
+commands.ebwizardry\:cast.usage=/%1$s <заклинание> [игрок | направление x y z] [длительность] [модификаторы]
+commands.ebwizardry\:cast.success=Успешно сотворено заклинание: %1$s
+commands.ebwizardry\:cast.success_continuous=Успешно сотворено заклинание: %1$s на %2$s секунд
+commands.ebwizardry\:cast.success_remote=Успешно сотворено заклинание %1$s от лица %2$s
+commands.ebwizardry\:cast.success_remote_continuous=Успешно сотворено заклинание %1$s от лица %2$s на %3$s секунд
+commands.ebwizardry\:cast.success_position=Успешно сотворено заклинание %1$s в точке %2$s, %3$s, %4$s
+commands.ebwizardry\:cast.success_position_continuous=Успешно сотворено заклинание %1$s в точке %2$s, %3$s, %4$s на %5$s секунд
+commands.ebwizardry\:cast.fail=Не удалось сотворить заклинание %1$s
+commands.ebwizardry\:cast.not_found=Заклинания с ID %1$s не существует
+commands.ebwizardry\:cast.invalid_direction=Недопустимое направление: %1$s (допустимые направления: up, down, north, south, east, west)
+commands.ebwizardry\:cast.tag_error=Сбой синтаксического анализа тегов данных\: %s
+commands.ebwizardry\:cast.origin_not_specified=Вы должны указать игрока или местоположение, откуда творить заклинание
+commands.ebwizardry\:cast.duration_not_specified=Вы должны указать длительность для этого заклинания
+
+commands.ebwizardry\:ally.usage=/%1$s <игрок> [игрок]
+commands.ebwizardry\:ally.addally=%1$s добавлен в список союзников игрока %2$s
+commands.ebwizardry\:ally.removeally=%1$s удален из списка союзников игрока %2$s
+commands.ebwizardry\:ally.self=Игроки не могут быть союзниками самим себе!
+commands.ebwizardry\:ally.permission=У вас нет прав на изменение списка союзников других игроков
+
+commands.ebwizardry\:allies.usage=/%1$s [игрок]
+commands.ebwizardry\:allies.list=Игроки, являющиеся вашими союзниками\: %1$s
+commands.ebwizardry\:allies.list_other=Игроки, являющиеся союзниками %1$s\: %2$s
+commands.ebwizardry\:allies.permission=У вас нет прав на просмотр списка союзников других игроков
+commands.ebwizardry\:allies.none=Никого
+
+commands.ebwizardry\:discoverspell.usage=/%1$s <заклинание/all/clear> [игрок]
+commands.ebwizardry\:discoverspell.not_found=Заклинания с ID %1$s не существует
+commands.ebwizardry\:discoverspell.clear=Очищены все данные об открытых заклинаниях для игрока %1$s
+commands.ebwizardry\:discoverspell.all=Игроку %1$s открыты все заклинания
+commands.ebwizardry\:discoverspell.addspell=Заклинание %1$s открыто для игрока %2$s
+commands.ebwizardry\:discoverspell.removespell=Заклинание %1$s удалено из списка открытых для игрока %2$s
+
+config.ebwizardry.title.general=Опции мода
+
+config.ebwizardry.redundant_keys=В вашем конфигурационном файле есть лишние параметры, они ни на что не влияют! [Подробности смотрите в логе]
+
+config.ebwizardry.generic.true=Включено
+config.ebwizardry.generic.false=Отключено
+
+config.ebwizardry.category.spells=Настройка заклинаний
+config.ebwizardry.category.spells.tooltip=Выберите, какие заклинания будут включены
+config.ebwizardry.title.spells=Конфигурация заклинаний
+config.ebwizardry.subtitle.spells=Глобальное отключение заклинания здесь переопределит более тонкие настройки в файле JSON заклинания.
+
+config.ebwizardry.category.artefacts=Настройка артефактов
+config.ebwizardry.category.artefacts.tooltip=Выберите, какие артефакты включены
+config.ebwizardry.title.artefacts=Конфигурация артефактов
+config.ebwizardry.subtitle.artefacts=Отключите отдельные кольца, амулеты или талисманы здесь.
+
+config.ebwizardry.category.gameplay=Настройки игрового процесса
+config.ebwizardry.category.gameplay.tooltip=Настройка общих механик игрового процесса
+config.ebwizardry.title.gameplay=Настройки игрового процесса
+config.ebwizardry.subtitle.gameplay=Глобальные настройки, влияющие на игровую механику.
+
+config.ebwizardry.players_move_each_other=Игроки могут перемещать друг друга
+config.ebwizardry.players_move_each_other.tooltip=Разрешено ли игрокам перемещать других игроков с помощью магии.
+config.ebwizardry.players_move_each_other.true=Да - да начнутся игры!
+config.ebwizardry.players_move_each_other.false=Нет - я не позволю собой помыкать
+config.ebwizardry.player_block_damage=Урон блокам от игроков
+config.ebwizardry.player_block_damage.tooltip=Могут ли заклинания, произнесенные игроками, разрушать блоки в мире. Wizardry делает все возможное, чтобы уважать моды и плагины для защиты территорий, но не может гарантировать, что это будет работать во всех случаях для каждого мода. Если вам нужна абсолютно непробиваемая защита от гриферов, отключите эту настройку. (N.B. Эта настройка влияет только на игроков. Чтобы предотвратить разрушение блоков магией мобами, используйте игровое правило mobGriefing).
+config.ebwizardry.player_block_damage.true=Да - бабах!
+config.ebwizardry.player_block_damage.false=Нет - активировать анти-гриф (ТМ)
+config.ebwizardry.dispenser_block_damage=Урон блокам от раздатчиков
+config.ebwizardry.dispenser_block_damage.tooltip=Могут ли заклинания, выпущенные из раздатчиков, разрушать блоки в мире. Wizardry делает все возможное, чтобы уважать моды и плагины для защиты территорий, но не может гарантировать, что это будет работать во всех случаях для каждого мода. Если вам нужна абсолютно непробиваемая защита от гриферов, отключите эту настройку.
+config.ebwizardry.telekinetic_disarmament=Телекинетическое обезоруживание
+config.ebwizardry.telekinetic_disarmament.tooltip=Разрешено ли игрокам обезоруживать других игроков с помощью заклинания телекинеза. Отключите, чтобы предотвратить кражу предметов.
+config.ebwizardry.telekinetic_disarmament.true=Да - пусть люди воруют вещи
+config.ebwizardry.telekinetic_disarmament.false=Нет - это читерство!
+config.ebwizardry.teleport_through_unbreakable_blocks=Телепортация сквозь неразрушимые блоки
+config.ebwizardry.teleport_through_unbreakable_blocks.tooltip=Разрешено ли игрокам телепортироваться сквозь неразрушимые блоки (например, бедрок) с помощью заклинания фазовый шаг.
+config.ebwizardry.teleport_through_unbreakable_blocks.true=Да - я хочу увидеть пустоту!
+config.ebwizardry.teleport_through_unbreakable_blocks.false=Нет - бедрок непроницаем
+config.ebwizardry.world_time_manipulation=Манипуляции с мировым временем
+config.ebwizardry.world_time_manipulation.tooltip=Разрешено ли игрокам изменять мировое время с помощью заклинаний ускорения времени. Если отключено, заклинание ускорения времени не изменит мировое время, но все равно ускорит тики ближайших блоков, сущностей и tile entity.
+config.ebwizardry.world_time_manipulation.true=Да - день, ночь...
+config.ebwizardry.world_time_manipulation.false=Нет - мне нужно выспаться!
+config.ebwizardry.creative_bypasses_arcane_lock=Обход магического замка в креативе
+config.ebwizardry.creative_bypasses_arcane_lock.tooltip=Определяет, какие игроки могут обходить магические замки.
+config.ebwizardry.creative_bypasses_arcane_lock.true=Любой в творческом режиме
+config.ebwizardry.creative_bypasses_arcane_lock.false=Только операторы (ОПы) в творческом режиме
+config.ebwizardry.slow_time_affects_players=Замедление времени действует на игроков
+config.ebwizardry.slow_time_affects_players.tooltip=Будут ли игроки замедлены, когда другой ближайший игрок использует заклинание замедления времени. Если это отключено, мобы и снаряды по-прежнему будут подвержены эффекту, но игроки будут двигаться с нормальной скоростью.
+config.ebwizardry.bonemeal_grows_crystal_flowers=Костная мука выращивает кристальные цветы
+config.ebwizardry.bonemeal_grows_crystal_flowers.tooltip=Есть ли шанс вырастить кристальные цветы при использовании костной муки на блоках травы.
+
+config.ebwizardry.category.difficulty=Настройки сложности
+config.ebwizardry.category.difficulty.tooltip=Настройка сложности мода
+config.ebwizardry.title.difficulty=Настройки сложности
+config.ebwizardry.subtitle.difficulty=Настройки, влияющие на сложность мода.
+
+config.ebwizardry.discovery_mode=Режим исследования (скрытые заклинания)
+config.ebwizardry.discovery_mode.tooltip=Для тех, кто любит атмосферу тайны! При включении, заклинания, которые вы еще не сотворили, будут нечитаемыми до тех пор, пока вы их не сотворите (в рамках каждого мира). Не влияет на игру в творческом режиме. Свитки распознавания будет невозможно получить в режиме выживания, если этот параметр отключен.
+config.ebwizardry.legacy_wand_levelling=Классическая прокачка жезлов
+config.ebwizardry.legacy_wand_levelling.tooltip=Определяет, требуется ли для жезлов набирать прогресс, прежде чем они смогут быть улучшены до следующего уровня. Включите эту опцию, чтобы вернуться к системе до версии 4.2, которая требовала только фолиантов арканы. Жезлы все равно будут незаметно получать прогресс, если эта опция включена, так что если вы вернетесь к новой системе, вы не потеряете никакой прогресс.
+config.ebwizardry.legacy_wand_levelling.true=Да - мне нравилось, как было раньше!
+config.ebwizardry.legacy_wand_levelling.false=Нет - качай меня!
+config.ebwizardry.friendly_fire=Огонь по своим
+config.ebwizardry.friendly_fire.tooltip=Определяет, какие существа могут получать урон от вашей магии, когда они являются вашими союзниками. Ваши заклинания не будут нацеливаться на ваших союзников или призванных/принадлежащих им существ независимо от этой настройки, но эта настройка делает их полностью невосприимчивыми к урону от магии, если она отключена.
+config.ebwizardry.passive_mobs_are_allies=Мирные мобы считаются союзниками
+config.ebwizardry.passive_mobs_are_allies.tooltip=Должны ли все мирные мобы считаться союзниками, т.е. они не должны получать косвенный урон от заклинаний. Прирученные мобы всегда считаются союзниками.
+config.ebwizardry.passive_mobs_are_allies.true=Да - не обижайте животных!
+config.ebwizardry.passive_mobs_are_allies.false=Нет - я люблю стейк, поджаренный молнией!
+config.ebwizardry.minion_revenge_targeting=Ответная атака миньонов
+config.ebwizardry.minion_revenge_targeting.tooltip=Могут ли призванные существа мстить, атакуя игроков или существ, которых они иначе не смогли бы атаковать (например, если хозяин их ударил).
+config.ebwizardry.minion_revenge_targeting.true=Да - я бы никогда не обидел их!
+config.ebwizardry.minion_revenge_targeting.false=Нет - они всегда должны подчиняться мне!
+config.ebwizardry.forfeit_chance=Шанс ошибки заклинания
+config.ebwizardry.forfeit_chance.tooltip=Шанс «неправильно прочитать» неизученное заклинание и вместо этого вызвать побочный эффект. Установка этого значения на 0 фактически отключает механику побочных эффектов. Не имеет эффекта, если режим исследования отключен.
+config.ebwizardry.progression_requirements=Требования к прогрессу
+config.ebwizardry.progression_requirements.tooltip=Прогресс, необходимый для улучшения жезла до каждого уровня (ученика, продвинутого и мастера соответственно).
+config.ebwizardry.player_damage_scaling=Множитель урона от игроков
+config.ebwizardry.player_damage_scaling.tooltip=Глобальный коэффициент масштабирования урона, наносимого игроками при сотворении заклинаний, относительно 1.
+config.ebwizardry.npc_damage_scaling=Множитель урона от NPC
+config.ebwizardry.npc_damage_scaling.tooltip=Глобальный коэффициент масштабирования урона, наносимого NPC при сотворении заклинаний, относительно 1.
+config.ebwizardry.evil_wizard_spawn_rate=Частота спавна злых волшебников
+config.ebwizardry.evil_wizard_spawn_rate.tooltip=Частота естественного появления злых волшебников; чем больше число, тем больше злых волшебников будет появляться. 5 эквивалентно частоте появления ведьм, 100 эквивалентно зомби, скелетам и криперам. Установите значение 0, чтобы полностью отключить появление злых волшебников.
+config.ebwizardry.ice_wraith_spawn_rate=Частота спавна ледяных духов
+config.ebwizardry.ice_wraith_spawn_rate.tooltip=Частота естественного появления ледяных духов; чем больше число, тем больше ледяных духов будет появляться. 5 эквивалентно частоте появления ведьм, 100 эквивалентно зомби, скелетам и криперам. Установите значение 0, чтобы полностью отключить появление ледяных духов.
+config.ebwizardry.lightning_wraith_spawn_rate=Частота спавна духов бури
+config.ebwizardry.lightning_wraith_spawn_rate.tooltip=Частота естественного появления духов бури; чем больше число, тем больше духов бури будет появляться. 5 эквивалентно частоте появления ведьм, 100 эквивалентно зомби, скелетам и криперам. Установите значение 0, чтобы полностью отключить появление духов бури.
+
+config.ebwizardry.category.tweaks=Дополнительные настройки
+config.ebwizardry.category.tweaks.tooltip=Настройка некоторых специфических аспектов мода
+config.ebwizardry.title.tweaks=Дополнительные настройки
+config.ebwizardry.subtitle.tweaks=Различные настройки для изменения поведения мода.
+
+config.ebwizardry.replace_vanilla_fireballs=Заменить ванильные огненные шары
+config.ebwizardry.replace_vanilla_fireballs.tooltip=Заменить ли огненные шары Minecraft на огненные шары из мода. Если это отключено, только заклинания мода будут использовать кастомные огненные шары.
+config.ebwizardry.replace_vanilla_fireballs.true=Да - дай мне ОГОНЬ!
+config.ebwizardry.replace_vanilla_fireballs.false=Нет - ифриты и так достаточно злые
+config.ebwizardry.replace_vanilla_fall_damage=Заменить ванильный урон от падения
+config.ebwizardry.replace_vanilla_fall_damage.tooltip=Заменить ли расчет урона от падения Minecraft, основанный на расстоянии, эквивалентным расчетом, основанным на скорости. Это сделано для того, чтобы мобы в свободном падении получали точно такой же урон, как обычно, поэтому это не сломает фермы мобов, основанные на падении. Отключите это, если вы испытываете странности, связанные с падением! Если это отключено, некоторые заклинания возвращаются к более упрощенному методу сброса урона от падения игрока в определенных случаях.
+config.ebwizardry.replace_vanilla_fall_damage.true=Да - время для паркура
+config.ebwizardry.replace_vanilla_fall_damage.false=Нет - ломай мне ноги как обычно
+config.ebwizardry.blindness_tweak=Настройка слепоты
+config.ebwizardry.blindness_tweak.tooltip=Настраивать ли эффект слепоты для уменьшения дистанции преследования при использовании на не-игроках. Это автоматически отключается в пользу реализации Potion Core, если он установлен.
+config.ebwizardry.mob_loot_table_whitelist=Белый список таблиц лута мобов
+config.ebwizardry.mob_loot_table_whitelist.tooltip=Белый список для таблиц лута, в которые можно добавлять дополнительный лут мобов (как указано в loot_tables/entities/mob_additions.json). Мод пытается угадать, какие таблицы лута принадлежат враждебным мобам, но это не всегда может быть правильным или уместным; добавьте местоположения таблиц лута (не идентификаторы сущностей) в этот список, чтобы включить их вручную.
+config.ebwizardry.mob_loot_table_blacklist=Черный список таблиц лута мобов
+config.ebwizardry.mob_loot_table_blacklist.tooltip=Черный список для таблиц лута, в которые можно добавлять дополнительный лут мобов (как указано в loot_tables/entities/mob_additions.json). Мод пытается угадать, какие таблицы лута принадлежат враждебным мобам, но это не всегда может быть правильным или уместным; добавьте местоположения таблиц лута (не идентификаторы сущностей) в этот список, чтобы исключить их вручную.
+config.ebwizardry.inject_mob_drops=Разрешить лут модов
+config.ebwizardry.inject_mob_drops.tooltip=Добавлять ли лут мода мобам на основе настроек «Белого списка таблиц лута мобов» / «Черного списка таблиц лута мобов». Если отключено, списки не будут иметь никакого эффекта!
+config.ebwizardry.mob_spawn_dimensions=Измерения спавна мобов
+config.ebwizardry.mob_spawn_dimensions.tooltip=Список идентификаторов измерений, в которых могут спавниться враждебные мобы мода.
+config.ebwizardry.mob_spawn_biome_blacklist=Черный список биомов спавна мобов
+config.ebwizardry.mob_spawn_biome_blaclist.tooltip=Список названий биомов, в которых не могут спавниться враждебные мобы мода. Названия биомов не чувствительны к регистру. Для биомов из модов укажите префикс с идентификатором мода (например, biomesoplenty\:mystic_grove).
+config.ebwizardry.summoned_creature_targets_whitelist=Белый список целей призванных существ
+config.ebwizardry.summoned_creature_targets_whitelist.tooltip=Список названий сущностей, которых разрешено атаковать призванным существам и волшебникам, в дополнение к значениям по умолчанию. Добавьте существ из модов в этот список, если вы хотите, чтобы призванные существа атаковали их, и они еще этого не делают. Имена сущностей не чувствительны к регистру. Для сущностей из модов укажите префикс с идентификатором мода (например, ebwizardry\:wizard).
+config.ebwizardry.summoned_creature_targets_blacklist=Черный список целей призванных существ
+config.ebwizardry.summoned_creature_targets_blacklist.tooltip=Список названий сущностей, которых призванным существам и волшебникам специально не разрешено атаковать, переопределяя значения по умолчанию и белый список. Добавьте существ в этот список, если разрешение атаковать их вызывает проблемы или является слишком разрушительным (удаление криперов из этого списка выполняется на ваш страх и риск!). Имена сущностей не чувствительны к регистру. Для сущностей из модов укажите префикс с идентификатором мода (например, ebwizardry\:wizard).
+config.ebwizardry.mind_control_targets_blacklist=Черный список целей контроля разума
+config.ebwizardry.mind_control_targets_blacklist.tooltip=Список названий сущностей, которыми нельзя управлять с помощью контроля разума, в дополнение к значениям по умолчанию. Добавьте существ в этот список, если разрешение на управление ими вызывает проблемы или может быть использовано для эксплойтов. Имена сущностей не чувствительны к регистру. Для сущностей из модов укажите префикс с идентификатором мода (например, ebwizardry\:wizard).
+config.ebwizardry.pocket_furnace_item_blacklist=Черный список предметов карманной печи
+config.ebwizardry.pocket_furnace_item_blacklist.tooltip=Список реестровых имен блоков или предметов, которые не могут быть переплавлены заклинанием «Карманная печь», в дополнение к броне, инструментам и оружию. Имена блоков/предметов не чувствительны к регистру. Для предметов из модов укажите префикс с идентификатором мода (например, ebwizardry\:crystal_ore).
+config.ebwizardry.divination_ore_whitelist=Белый список руд для прорицания
+config.ebwizardry.divination_ore_whitelist.tooltip=Список реестровых имен блоков руды, которые могут быть обнаружены заклинанием прорицания. Имена блоков не чувствительны к регистру. Для блоков из модов укажите префикс с идентификатором мода (например, ebwizardry\:crystal_ore).
+config.ebwizardry.sword_item_whitelist=Белый список мечей
+config.ebwizardry.sword_item_whitelist.tooltip=Список реестровых имен предметов, которые должны считаться мечами для заклинаний наполнения оружия. Большинство мечей должно работать автоматически, но те, которые не работают, можно добавить сюда вручную. Имена предметов не чувствительны к регистру. Для предметов из модов укажите префикс с идентификатором мода (например, tconstruct:broadsword).
+config.ebwizardry.bow_item_whitelist=Белый список луков
+config.ebwizardry.bow_item_whitelist.tooltip=Список реестровых имен предметов, которые должны считаться луками для заклинаний наполнения оружия. Большинство луков должно работать автоматически, но те, которые не работают, можно добавить сюда вручную. Имена предметов не чувствительны к регистру. Для предметов из модов укажите префикс с идентификатором мода (например, tconstruct:shortbow).
+config.ebwizardry.bookshelf_blocks=Блоки книжных полок
+config.ebwizardry.bookshelf_blocks.tooltip=Список реестровых имен блоков, которые считаются книжными полками для мистического верстака и кафедры. Имена блоков не чувствительны к регистру. Для блоков из модов укажите префикс с идентификатором мода (например, ebwizardry:oak_bookshelf).
+config.ebwizardry.book_items=Предметы книг
+config.ebwizardry.book_items.tooltip=Список реестровых имен предметов, которые можно поместить на книжную полку, в дополнение к значениям по умолчанию. Имена предметов не чувствительны к регистру. Для предметов из модов укажите префикс с идентификатором мода (например, thaumcraft:thaumonomicon).
+config.ebwizardry.bookshelf_search_radius=Радиус поиска книжной полки
+config.ebwizardry.bookshelf_search_radius.tooltip=Максимальное количество блоков, на которое книжная полка может находиться от мистического верстака или кафедры, чтобы иметь возможность подключиться к ним.
+config.ebwizardry.currency_items=Предметы валюты
+config.ebwizardry.currency_items.tooltip=Список реестровых имен предметов, которые можно использовать в качестве валюты при торговле с волшебниками (в первом слоте; второй слот не затрагивается). Каждая запись в этом списке должна состоять из реестрового имени предмета, за которым следует один пробел, затем целое число, которое определяет «ценность» предмета. Более высокие значения означают, что для данной торговли требуется меньше предметов этой валюты.
+
+config.ebwizardry.category.worldgen=Настройки генерации мира
+config.ebwizardry.category.worldgen.tooltip=Настройка функций генерации мира
+config.ebwizardry.title.worldgen=Настройки генерации мира
+config.ebwizardry.subtitle.worldgen=Настройки, влияющие на генерацию мира.
+
+config.ebwizardry.fast_worldgen=Генерация структур
+config.ebwizardry.fast_worldgen.tooltip=Управляет тем, какой алгоритм используется для генерации структур. Детальная генерация мира предотвращает появление структур на скалах, в пещерах и пересечение с другими структурами, а также удаляет висящие в воздухе деревья после генерации. Быстрая генерация мира жертвует этими улучшениями, что потенциально может привести к более быстрой генерации мира. Улучшение производительности будет зависеть от ваших настроек. Эта опция повлияет на рандомизацию; для любого заданного сида структуры не будут такими же, как при ее отключении.
+config.ebwizardry.fast_worldgen.true=Быстрая
+config.ebwizardry.fast_worldgen.false=Детальная
+config.ebwizardry.tower_dimensions=Измерения башен
+config.ebwizardry.tower_dimensions.tooltip=Список идентификаторов измерений, в которых будут генерироваться башни волшебников. Удалите все измерения, чтобы полностью отключить генерацию башен волшебников.
+config.ebwizardry.tower_rarity=Редкость башен
+config.ebwizardry.tower_rarity.tooltip=Редкость появления башен волшебников. 1 башня на такое количество чанков. Соответственно, чем больше число, тем реже башни будут генерироваться.
+config.ebwizardry.evil_wizard_chance=Шанс появления злого волшебника
+config.ebwizardry.evil_wizard_chance.tooltip=Шанс того, что башни волшебников будут генерироваться со злым волшебником и сундуком внутри, вместо дружелюбного волшебника.
+config.ebwizardry.tower_files=Файлы структур башен
+config.ebwizardry.tower_files.tooltip=Список местоположений файлов структур для башен волшебников без сундуков с лутом. Один из этих файлов будет случайным образом выбран каждый раз при генерации башни волшебника. Местоположения файлов имеют формат [id мода]\:[имя файла], что ссылается на файл assets/[id мода]/structures/[имя файла].nbt. Допускаются повторяющиеся записи, что позволяет использовать простое взвешивание без дублирования самих файлов структуры. Этот список не должен быть пустым; чтобы отключить башни волшебников, используйте настройку измерений башен.
+config.ebwizardry.tower_with_chest_files=Файлы структур башен с сундуками
+config.ebwizardry.tower_with_chest_files.tooltip=Список местоположений файлов структур для башен волшебников с сундуками с лутом. Один из этих файлов будет случайным образом выбран каждый раз при генерации башни волшебника. Местоположения файлов имеют формат [id мода]\:[имя файла], что ссылается на файл assets/[id мода]/structures/[имя файла].nbt. Допускаются повторяющиеся записи, что позволяет использовать простое взвешивание без дублирования самих файлов структуры. Этот список не должен быть пустым; чтобы отключить башни волшебников, используйте настройку измерений башен.
+config.ebwizardry.obelisk_dimensions=Измерения обелисков
+config.ebwizardry.obelisk_dimensions.tooltip=Список идентификаторов измерений, в которых будут генерироваться обелиски. Удалите все измерения, чтобы полностью отключить генерацию обелисков.
+config.ebwizardry.obelisk_rarity=Редкость обелисков
+config.ebwizardry.obelisk_rarity.tooltip=Редкость появления обелисков. 1 обелиск на такое количество чанков. Соответственно, чем больше число, тем реже обелиски будут генерироваться.
+config.ebwizardry.obelisk_files=Файлы структур обелисков
+config.ebwizardry.obelisk_files.tooltip=Список местоположений файлов структур для обелисков. Один из этих файлов будет случайным образом выбран каждый раз при генерации обелиска. Местоположения файлов имеют формат [id мода]\:[имя файла], что ссылается на файл assets/[id мода]/structures/[имя файла].nbt. Допускаются повторяющиеся записи, что позволяет использовать простое взвешивание без дублирования самих файлов структуры. Этот список не должен быть пустым; чтобы отключить обелиски, используйте настройку измерений обелисков.
+config.ebwizardry.shrine_dimensions=Измерения святилищ
+config.ebwizardry.shrine_dimensions.tooltip=Список идентификаторов измерений, в которых будут генерироваться святилища. Удалите все измерения, чтобы полностью отключить генерацию святилищ.
+config.ebwizardry.shrine_rarity=Редкость святилищ
+config.ebwizardry.shrine_rarity.tooltip=Редкость появления святилищ. 1 святилище на такое количество чанков. Соответственно, чем больше число, тем реже святилища будут генерироваться.
+config.ebwizardry.shrine_files=Файлы структур святилищ
+config.ebwizardry.shrine_files.tooltip=Список местоположений файлов структур для святилищ. Один из этих файлов будет случайным образом выбран каждый раз при генерации святилища. Местоположения файлов имеют формат [id мода]\:[имя файла], что ссылается на файл assets/[id мода]/structures/[имя файла].nbt. Допускаются повторяющиеся записи, что позволяет использовать простое взвешивание без дублирования самих файлов структуры. Этот список не должен быть пустым; чтобы отключить святилища, используйте настройку измерений святилищ.
+config.ebwizardry.library_dimensions=Измерения руин библиотек
+config.ebwizardry.library_dimensions.tooltip=Список идентификаторов измерений, в которых будут генерироваться руины библиотек. Удалите все измерения, чтобы полностью отключить генерацию руин библиотек.
+config.ebwizardry.library_rarity=Редкость руин библиотек
+config.ebwizardry.library_rarity.tooltip=Редкость появления руин библиотек. 1 руина библиотеки на такое количество чанков. Соответственно, чем больше число, тем реже руины библиотек будут генерироваться.
+config.ebwizardry.library_files=Файлы структур руин наземных библиотек
+config.ebwizardry.library_files.tooltip=Список местоположений файлов структур для руин наземных библиотек. Один из этих файлов будет случайным образом выбран каждый раз при генерации руин библиотеки. Местоположения файлов имеют формат [id мода]\:[имя файла], что ссылается на файл assets/[id мода]/structures/[имя файла].nbt. Допускаются повторяющиеся записи, что позволяет использовать простое взвешивание без дублирования самих файлов структуры. Этот список не должен быть пустым; чтобы отключить руины библиотек, используйте настройку измерений руин библиотек.
+config.ebwizardry.underground_library_files=Файлы структур руин подземных библиотек
+config.ebwizardry.underground_library_files.tooltip=Список местоположений файлов структур для руин подземных библиотек. Один из этих файлов будет случайным образом выбран каждый раз при генерации руин библиотеки. Местоположения файлов имеют формат [id мода]\:[имя файла], что ссылается на файл assets/[id мода]/structures/[имя файла].nbt. Допускаются повторяющиеся записи, что позволяет использовать простое взвешивание без дублирования самих файлов структуры. Этот список не должен быть пустым; чтобы отключить руины библиотек, используйте настройку измерений руин библиотек.
+config.ebwizardry.tree_blocks=Блоки деревьев
+config.ebwizardry.tree_blocks.tooltip=Список реестровых имен блоков, которые могут быть заменены генераторами структур мода. Это влияет как на быструю, так и на детальную генерацию структур. Большинство блоков деревьев и другой листвы должно работать автоматически, но те, которые не работают, можно добавить сюда вручную. Имена блоков не чувствительны к регистру. Для блоков из модов укажите префикс с идентификатором мода (например, dynamictrees:oakbranch).
+config.ebwizardry.ore_dimensions=Измерения кристальной руды
+config.ebwizardry.ore_dimensions.tooltip=Список идентификаторов измерений, в которых будет генерироваться кристальная руда. Обратите внимание, что удаление Обычного мира (id 0) из этого списка сильно усложнит прохождение мода!
+config.ebwizardry.flower_dimensions=Измерения кристальных цветов
+config.ebwizardry.flower_dimensions.tooltip=Список идентификаторов измерений, в которых будут генерироваться кристальные цветы.
+config.ebwizardry.loot_injection_locations=Локации инъекции лута
+config.ebwizardry.loot_injection_locations.tooltip=Список таблиц лута для добавления лута из мода (как указано в loot_tables/chests/dungeon_additions.json).
+
+config.ebwizardry.category.client=Настройки клиента
+config.ebwizardry.category.client.tooltip=Настройка отображения и управления
+config.ebwizardry.title.client=Настройки клиента
+config.ebwizardry.subtitle.client=Клиентские настройки, влияющие только на локальную игру.
+
+config.ebwizardry.shift_scrolling=Прокрутка с Shift
+config.ebwizardry.shift_scrolling.tooltip=Можно ли переключаться между заклинаниями на жезле, прокручивая колесико мыши во время приседания. Обратите внимание, что это повлияет только на вас; другие игроки, подключенные к тому же серверу, подчиняются своим собственным настройкам.
+config.ebwizardry.reverse_scroll_direction=Направление прокрутки
+config.ebwizardry.reverse_scroll_direction.tooltip=Направление прокрутки, используемое для переключения между заклинаниями на жезле во время приседания.
+config.ebwizardry.reverse_scroll_direction.true=Инвертированное
+config.ebwizardry.reverse_scroll_direction.false=Обычное
+config.ebwizardry.show_spell_hud=Интерфейс заклинаний
+config.ebwizardry.show_spell_hud.tooltip=Показывать ли интерфейс заклинаний в углу экрана, когда в руке жезл.
+config.ebwizardry.show_spell_hud.true=Показывать
+config.ebwizardry.show_spell_hud.false=Скрыть
+config.ebwizardry.show_charge_meter=Индикатор заряда заклинания
+config.ebwizardry.show_charge_meter.tooltip=Показывать ли индикатор зарядки заклинания вокруг перекрестия при зарядке заклинания.
+config.ebwizardry.show_charge_meter.true=Показывать
+config.ebwizardry.show_charge_meter.false=Скрыть
+config.ebwizardry.spell_hud_position=Позиция интерфейса заклинаний
+config.ebwizardry.spell_hud_position.tooltip=Расположение интерфейса заклинаний на экране.
+config.ebwizardry.spell_hud_skin=Скин интерфейса заклинаний
+config.ebwizardry.spell_hud_skin.tooltip=Изменить внешний вид интерфейса заклинаний...
+config.ebwizardry.spell_hud_skin.preview=Предпросмотр
+config.ebwizardry.handbook_progression=Прогрессия Руководства Волшебника
+config.ebwizardry.handbook_progression.tooltip=Если включено, то, чтобы помочь игрокам разобраться в моде, разделы "Руководства Волшебника" будут разблокироваться по мере того, как игрок получает соответствующее достижение, а до этого момента они будут скрыты. Если отключено, то все руководство доступно для чтения независимо от прогресса достижений. В творческом режиме руководство всегда доступно полностью.
+config.ebwizardry.handbook_progression.true=Да - научи меня, сенсей!
+config.ebwizardry.handbook_progression.false=Нет - я знаю, что делаю
+config.ebwizardry.books_pause_game=Книги приостанавливают игру
+config.ebwizardry.books_pause_game.tooltip=Приостанавливает ли игру открытие любой из книг мода в одиночной игре. Не влияет на серверы или локальные сети (LAN).
+config.ebwizardry.books_pause_game.true=Да - я не хочу отвлекаться!
+config.ebwizardry.books_pause_game.false=Нет - я читаю, чтобы скоротать время
+config.ebwizardry.summoned_creature_names=Имена призванных существ
+config.ebwizardry.summoned_creature_names.tooltip=Управляет тем, отображаются ли над головами призванных существ их имена и владельцы.
+config.ebwizardry.summoned_creature_names.true=Показывать
+config.ebwizardry.summoned_creature_names.false=Скрыть
+config.ebwizardry.use_shaders=Использовать пользовательские шейдеры
+config.ebwizardry.use_shaders.tooltip=Использовать ли пользовательские шейдеры для определенных заклинаний. Они используют систему ванильных шейдеров (например, шейдеры наблюдения от лица мобов) и не должны сильно влиять на производительность в большинстве случаев, но могут конфликтовать с другими шейдерами.
+config.ebwizardry.use_shaders.true=Да - дайте мне эти красивые шейдеры!
+config.ebwizardry.use_shaders.false=Нет - я играю на калькуляторе
+config.ebwizardry.screen_shake=Тряска экрана
+config.ebwizardry.screen_shake.tooltip=Использовать ли эффект тряски экрана для определенных заклинаний.
+config.ebwizardry.blink_effect=Эффект мерцания
+config.ebwizardry.blink_effect.tooltip=Использовать ли эффект мерцания экрана для заклинаний телепортации.
+config.ebwizardry.spellcasting_animations=Анимации произнесения заклинаний
+config.ebwizardry.spellcasting_animations.tooltip=Использовать ли пользовательские анимации для игроков, произносящих заклинания. Отключите эту опцию, если она конфликтует с другими модами, добавляющими анимации игрока.
+config.ebwizardry.donation_perk_element=Элемент перка пожертвования
+config.ebwizardry.donation_perk_element.tooltip=Элемент летающего компаньона, отображаемый у доноров и участников; оставьте пустым, чтобы отключить эффект. Если вы один из них, этот параметр изменит то, как вас будут видеть все игроки (если нет, это ничего не изменит).
+
+config.ebwizardry.category.commands=Настройки команд
+config.ebwizardry.category.commands.tooltip=Настройка команд
+config.ebwizardry.title.commands=Настройки команд
+config.ebwizardry.subtitle.commands=Настройки для команд, добавленных модом.
+
+config.ebwizardry.cast_command_multiplier_limit=Лимит множителя команды /cast
+config.ebwizardry.cast_command_multiplier_limit.tooltip=Верхний предел для множителей, передаваемых в команду /cast. Это сделано для того, чтобы игроки случайно не сломали мир/сервер. Большие множители взрыва могут вызвать сильные лаги - вас предупреждали!
+config.ebwizardry.cast_command_name=Имя команды /cast
+config.ebwizardry.cast_command_name.tooltip=Имя команды /cast. Это то, что вы вводите сразу после /; например, если установить значение 'magic', то вместо /cast вы будете вводить /magic.
+config.ebwizardry.discoverspell_command_name=Имя команды /discoverspell
+config.ebwizardry.discoverspell_command_name.tooltip=Имя команды /discoverspell. Это то, что вы вводите сразу после /; например, если установить значение 'magic', то вместо /discoverspell вы будете вводить /magic.
+config.ebwizardry.ally_command_name=Имя команды /ally
+config.ebwizardry.ally_command_name.tooltip=Имя команды /ally. Это то, что вы вводите сразу после /; например, если установить значение 'magic', то вместо /ally вы будете вводить /magic.
+config.ebwizardry.allies_command_name=Имя команды /allies
+config.ebwizardry.allies_command_name.tooltip=Имя команды /allies. Это то, что вы вводите сразу после /; например, если установить значение 'magic', то вместо /allies вы будете вводить /magic.
+
+config.ebwizardry.category.resistances=Настройка сопротивлений
+config.ebwizardry.category.resistances.tooltip=Настройте, какие мобы будут невосприимчивы к различным типам магии
+config.ebwizardry.title.resistances=Конфигурация сопротивлений
+config.ebwizardry.subtitle.resistances=Настройки, позволяющие сделать сущности невосприимчивыми к определенным видам магии.
+
+config.ebwizardry.mobs_immune_to_fire=Мобы, невосприимчивые к огню
+config.ebwizardry.mobs_immune_to_fire.tooltip=Список названий сущностей, невосприимчивых к огню, в дополнение к значениям по умолчанию. Добавьте существ из модов в этот список, если вы хотите, чтобы они были невосприимчивы к магии огня, и они еще не являются таковыми. Имена сущностей не чувствительны к регистру. Для сущностей из модов укажите префикс с идентификатором мода (например, ebwizardry\:wizard).
+config.ebwizardry.mobs_immune_to_ice=Мобы, невосприимчивые ко льду
+config.ebwizardry.mobs_immune_to_ice.tooltip=Список названий сущностей, невосприимчивых ко льду, в дополнение к значениям по умолчанию. Добавьте существ из модов в этот список, если вы хотите, чтобы они были невосприимчивы к магии льда, и они еще не являются таковыми. Имена сущностей не чувствительны к регистру. Для сущностей из модов укажите префикс с идентификатором мода (например, ebwizardry\:wizard).
+config.ebwizardry.mobs_immune_to_lightning=Мобы, невосприимчивые к молнии
+config.ebwizardry.mobs_immune_to_lightning.tooltip=Список названий сущностей, невосприимчивых к молнии, в дополнение к значениям по умолчанию. Добавьте существ из модов в этот список, если вы хотите, чтобы они были невосприимчивы к магии молнии, и они еще не являются таковыми. Имена сущностей не чувствительны к регистру. Для сущностей из модов укажите префикс с идентификатором мода (например, ebwizardry\:wizard).
+config.ebwizardry.mobs_immune_to_wither=Мобы, невосприимчивые к иссушению
+config.ebwizardry.mobs_immune_to_wither.tooltip=Список названий сущностей, невосприимчивых к эффектам иссушения, в дополнение к значениям по умолчанию. Добавьте существ из модов в этот список, если вы хотите, чтобы они были невосприимчивы к магии иссушения, и они еще не являются таковыми. Имена сущностей не чувствительны к регистру. Для сущностей из модов укажите префикс с идентификатором мода (например, ebwizardry\:wizard).
+config.ebwizardry.mobs_immune_to_poison=Мобы, невосприимчивые к яду
+config.ebwizardry.mobs_immune_to_poison.tooltip=Список названий сущностей, невосприимчивых к яду, в дополнение к значениям по умолчанию. Добавьте существ из модов в этот список, если вы хотите, чтобы они были невосприимчивы к магии яда, и они еще не являются таковыми. Имена сущностей не чувствительны к регистру. Для сущностей из модов укажите префикс с идентификатором мода (например, ebwizardry\:wizard).
+
+config.ebwizardry.category.compatibility=Настройки совместимости с модами
+config.ebwizardry.category.compatibility.tooltip=Настройте, как мод взаимодействует с другими модами
+config.ebwizardry.title.compatibility=Настройки совместимости с модами
+config.ebwizardry.subtitle.compatibility=Настройки, влияющие на то, как мод взаимодействует с другими модами
+
+config.ebwizardry.damage_source_blacklist=Черный список источников урона
+config.ebwizardry.damage_source_blacklist.tooltip=Список строковых идентификаторов источников урона, которые следует игнорировать при повторном применении урона. Чувствителен к регистру. Сообщение будет записано в журнал, если мод обнаружит источник урона, который следует добавить в этот список. В противном случае не изменяйте, если нет соответствующих инструкций.
+config.ebwizardry.compatibility_warnings=Предупреждения о совместимости
+config.ebwizardry.compatibility_warnings.tooltip=Выводить ли предупреждения о совместимости в консоль. Установите значение false, если выводится слишком много сообщений.
+config.ebwizardry.baubles_integration=Интеграция с Baubles
+config.ebwizardry.baubles_integration.tooltip=Если установлен мод Baubles, этот параметр контролирует, включены ли функции интеграции с Baubles. Если этот параметр отключен, мод всегда будет вести себя так, как если бы Baubles не был установлен.
+config.ebwizardry.jei_integration=Интеграция с JEI
+config.ebwizardry.jei_integration.tooltip=Если установлен мод JEI (Just Enough Items), этот параметр контролирует, включены ли функции интеграции с JEI. Если этот параметр отключен, мод всегда будет вести себя так, как если бы JEI не был установлен.
+config.ebwizardry.antique_atlas_integration=Интеграция с Antique Atlas
+config.ebwizardry.antique_atlas_integration.tooltip=Если установлен мод Antique Atlas, этот параметр контролирует, включены ли функции интеграции с Antique Atlas. Если этот параметр отключен, мод всегда будет вести себя так, как если бы Antique Atlas не был установлен.
+config.ebwizardry.auto_place_tower_markers=Автоматическое размещение меток башен
+config.ebwizardry.auto_place_tower_markers.tooltip=Определяет, будет ли мод автоматически размещать метки Antique Atlas в местах расположения башен волшебников.
+config.ebwizardry.auto_place_obelisk_markers=Автоматическое размещение меток обелисков
+config.ebwizardry.auto_place_obelisk_markers.tooltip=Определяет, будет ли мод автоматически размещать метки Antique Atlas в местах расположения обелисков.
+config.ebwizardry.auto_place_shrine_markers=Автоматическое размещение меток святилищ
+config.ebwizardry.auto_place_shrine_markers.tooltip=Определяет, будет ли мод автоматически размещать метки Antique Atlas в местах расположения святилищ.
+config.ebwizardry.auto_place_library_markers=Автоматическое размещение меток руин библиотек
+config.ebwizardry.auto_place_library_markers.tooltip=Определяет, будет ли мод автоматически размещать метки Antique Atlas в местах расположения руин наземных библиотек.
+config.ebwizardry.auto_place_underground_library_markers=Автоматическое размещение меток руин подземных библиотек
+config.ebwizardry.auto_place_underground_library_markers.tooltip=Определяет, будет ли мод автоматически размещать метки Antique Atlas в местах расположения руин подземных библиотек.
+
+integration.jei.category.ebwizardry\:arcane_workbench=Мистический верстак
+integration.jei.category.ebwizardry\:imbuement_altar=Алтарь наполнения
+
+integration.antiqueatlas.marker.ebwizardry.wizard_tower=Башня волшебника
+integration.antiqueatlas.marker.ebwizardry.obelisk=Обелиск
+integration.antiqueatlas.marker.ebwizardry.shrine=Святыня
+integration.antiqueatlas.marker.ebwizardry.library_ruins=Руины библиотеки
+
+spell.ebwizardry\:magic_missile_festive=Магическая омела!
+spell.ebwizardry\:summon_snow_golem_festive=Призыв Фрости Снеговика!
+spell.ebwizardry\:invigorating_presence_festive= Бодрящие подарки!
+spell.ebwizardry\:empowering_presence_festive=Усиливающие подарки!
+
+wizard.debug=%1$s, %2$s, %3$s
