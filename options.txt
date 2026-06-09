@@ -101,6 +101,8 @@ key_key_ironbackpacks_equipbackpack:48
 key_openblocks.keybind.vario_switch:0
 key_openblocks.keybind.vario_vol_up:0
 key_openblocks.keybind.vario_vol_down:0
+key_key.serverutilities.nbt:0
+key_key.serverutilities.trash:0
 key_smoothfont.key.guiOpen:199
 key_Инвентарь Baubles:0
 key_Change Wand Focus:33

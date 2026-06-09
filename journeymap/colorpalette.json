@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "Цветовая палитра JourneyMap",
-  "generated": "Generated using JourneyMap 5.1.4p3 Unlimited for 1.7.10 on Tue Jun 09 18:52:18 MSK 2026",
+  "generated": "Generated using JourneyMap 5.1.4p3 Unlimited for 1.7.10 on Wed Jun 10 00:07:46 MSK 2026",
   "description": [
     "Этот файл может быть использован для сохранения целостности цветовой гаммы карты при смене темы оформления Minecraft.",
     "Редактируйте файл на свой страх и риск. Вы можете просмотреть этот файл: \u0027colorpalette.html\u0027",
@@ -11,7 +11,7 @@ var colorpalette={
   ],
   "permanent": false,
   "resourcePacks": "TranslateModsMagicRPG:folder:1780471884747",
-  "modNames": "AE2 Fluid Crafting:1.5.85-gtnh, AE2 Stuff:0.10.19-GTNH, AE2 Wireless Crafting Terminal:1.12.16, Advanced Botany:1.3.1.7, Angelica:2.1.28, Another One Bites The Dust:2.9.2, Applied Energistics 2 Core:rv3-beta-959-GTNH, Applied Energistics 2:rv3-beta-959-GTNH, Aspect Recipe Index:1.1.1, Aura Cascade:unspecified, Automagy:0.28.2, Avaritia:1.97, Avaritiaddons:1.9.4-GTNH, BD lib:1.11.0-GTNH, Baubles Expanded:2.2.21-GTNH, Baubles:2.2.21-GTNH, Big Reactors:0.4.3A, Blood Arsenal:1.5.10, Blood Magic: Alchemical Wizardry:1.9.4, Bookshelf:1.0.4.187, Botania:1.13.21-GTNH, BugTorch:1.2.14-GTNH, Chisel:2.17.26-GTNH, CoFH ASM:000, CoFH Core:1.7.10R3.1.4, CodeChicken Core:1.4.13, Controlling:2.1.7, CoreTweaks:0.3.4.6-GTNH, Crafting Tweaks:1.0.79, Default Configs:1.3.1, Disenchanter:1.6, DivineRPG:1.4.1.4, Draconic Evolution:1.5.26-GTNH, DummyCore:1.21.0, Electroblob\u0027s Wizardry:1.1.6, Enchanting Plus:3.0.2-d, Ender IO:2.10.27, EnderCore:0.5.14, EvilCraft:0.9.13, Extended Potions:1.2, Extra Utilities:1.2.12, ExtraTiC:1.4.6, FPS Reducer:mc1.7.10-1.10.3, FTBLib:1.0.18.2, FTBUtilities:1.0.18.2, Forbidden Magic:0.9.16-GTNH, Forestry:4.11.26, Forge Mod Loader:7.10.99.99, Forgotten Relics:1.7.3, GTNH Lib:0.10.8, GTNHLib Core:0.10.8, Gadomancy:1.5.11, Guide-API:1.7.10-1.0.1-20, Hodgepodge:2.7.157, I\u0027m Looking At Blood:1.1, Iguana Tinker Tweaks:2.7.6, Infernal Mobs:1.10.5-GTNH, Inventory Bogo Sorter:1.3.28-GTNH, Iron Backpacks:1.7.10-1.2.20, Iron Chests:6.1.13, Iron Furnaces:1.2.4, JourneyMap:5.1.4p3, Login Shield:1.7.10-2-gf6e21a7, MCPatcherForge:1.0.0-alpha, Magic Bees:2.10.9-GTNH, Mantle:0.5.2, MineTweaker 3:3.0.10, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Modular UI 2:2.3.67-1.7.10, Morpheus:1.7.10-1.6.21, Mouse Tweaks:2.5.2-GTNH, Nature\u0027s Compass:1.5.2-GTNH, NotEnoughEnergistics:1.7.29, NotEnoughIDs:2.1.11, NotEnoughItems:2.8.99-GTNH, NotFine:2.1.28, OpenBlocks:1.12.14-GTNH, OpenMods:0.10.14, OpenModsCore:0.10.14, ProjectE:1.7.10-PE1.10.1, RFDrills:1.7.3, Roguelike Dungeons:1.5.0, Salis Arcana:1.1.64-GTNH, Sanguimancy:1.7.10-1.1.9-35, Smooth Font Core:1.7.10-1.15.1, Smooth Font:1.7.10-1.15.3, TC Node Tracker:1.1.2, TC4 Tweak:1.5.44, TCBotaniaExoflame:1.0, Tainted Magic:r7.6, Thaumcraft:4.2.3.5, Thaumic Bases:1.9.18, Thaumic Energistics:1.7.51-GTNH, Thaumic Exploration:1.5.24-GTNH, Thaumic Tinkerer Core:0.1, Thaumic Tinkerer:2.12.22, ThaumicHorizons:1.8.20, The Twilight Forest:2.7.33, Thermal Dynamics:1.7.10R1.2.1, Thermal Expansion:1.7.10R4.1.5, Thermal Foundation:1.7.10R1.2.6, TiC Tooltips:1.4.1, Tinkers\u0027 Construct:1.14.76-GTNH-pre, Traveller\u0027s Gear:1.16.6, UniMixins: Compatibility:0.3.0, UniMixins: GTNHMixins:2.2.0, UniMixins: Mixin (UniMix):0.3.0, UniMixins: MixinBooterLegacy:1.2.1, UniMixins: MixinExtras:0.3.0, UniMixins: Mixingasm:0.3, UniMixins: SpongeMixins:2.0.1, UniMixins:0.3.0, WDMla:2.8.1, Waila:2.8.1, WanionLib:1.7.10-1.8, WarpTheory:1.5.7-GTNH, Witchery++:1.4.15, Witchery:0.24.1, WitcheryPatch:1.0.0, Witching Gadgets:1.8.45-GTNH",
+  "modNames": "AE2 Fluid Crafting:1.5.85-gtnh, AE2 Stuff:0.10.19-GTNH, AE2 Wireless Crafting Terminal:1.12.16, Advanced Botany:1.3.1.7, Angelica:2.1.28, Another One Bites The Dust:2.9.2, Applied Energistics 2 Core:rv3-beta-959-GTNH, Applied Energistics 2:rv3-beta-959-GTNH, Aspect Recipe Index:1.1.1, Aura Cascade:unspecified, Automagy:0.28.2, Avaritia:1.97, Avaritiaddons:1.9.4-GTNH, BD lib:1.11.0-GTNH, Baubles Expanded:2.2.21-GTNH, Baubles:2.2.21-GTNH, BetterCrashes:1.4.5-GTNH, Big Reactors:0.4.3A, Blood Arsenal:1.5.10, Blood Magic: Alchemical Wizardry:1.9.4, Bookshelf:1.0.4.187, Botania:1.13.21-GTNH, BugTorch:1.2.14-GTNH, Chisel:2.17.26-GTNH, CoFH ASM:000, CoFH Core:1.7.10R3.1.4, CodeChicken Core:1.4.13, Controlling:2.1.7, CoreTweaks:0.3.4.6-GTNH, Crafting Tweaks:1.0.79, Default Configs:1.3.1, Disenchanter:1.6, DivineRPG:1.4.1.4, Draconic Evolution:1.5.26-GTNH, DummyCore:1.21.0, Electroblob\u0027s Wizardry:1.1.6, Enchanting Plus:3.0.2-d, Ender IO:2.10.27, EnderCore:0.5.14, EvilCraft:0.9.13, Extended Potions:1.2, Extra Utilities:1.2.12, ExtraTiC:1.4.6, FPS Reducer:mc1.7.10-1.10.3, Forbidden Magic:0.9.16-GTNH, Forestry:4.11.26, Forge Mod Loader:7.10.99.99, Forgotten Relics:1.7.3, GTNH Lib:0.10.8, GTNHLib Core:0.10.8, Gadomancy:1.5.11, Guide-API:1.7.10-1.0.1-20, Hodgepodge:2.7.157, I\u0027m Looking At Blood:1.1, Iguana Tinker Tweaks:2.7.6, Infernal Mobs:1.10.5-GTNH, Inventory Bogo Sorter:1.3.28-GTNH, Iron Backpacks:1.7.10-1.2.20, Iron Chests:6.1.13, Iron Furnaces:1.2.4, JourneyMap:5.1.4p3, Login Shield:1.7.10-2-gf6e21a7, MCPatcherForge:1.0.0-alpha, Magic Bees:2.10.9-GTNH, Mantle:0.5.2, MineTweaker 3:3.0.10, Minecraft Coder Pack:9.05, Minecraft Forge:10.13.4.1614, Modular UI 2:2.3.67-1.7.10, Morpheus:1.7.10-1.6.21, Mouse Tweaks:2.5.2-GTNH, Nature\u0027s Compass:1.5.2-GTNH, NotEnoughEnergistics:1.7.29, NotEnoughIDs:2.1.11, NotEnoughItems:2.8.99-GTNH, NotFine:2.1.28, OpenBlocks:1.12.14-GTNH, OpenMods:0.10.14, OpenModsCore:0.10.14, ProjectE:1.7.10-PE1.10.1, RFDrills:1.7.3, Roguelike Dungeons:1.6.6-GTNH, Salis Arcana:1.1.64-GTNH, Sanguimancy:1.7.10-1.1.9-35, ServerUtilities:2.3.0, Smooth Font Core:1.7.10-1.15.1, Smooth Font:1.7.10-1.15.3, TC Node Tracker:1.4.5, TC4 Tweak:1.5.44, TCBotaniaExoflame:1.0, Tainted Magic:r7.6, Thaumcraft:4.2.3.5, Thaumic Bases:1.9.18, Thaumic Energistics:1.7.51-GTNH, Thaumic Exploration:1.5.24-GTNH, Thaumic Insurgence:0.4.1, Thaumic Tinkerer Core:0.1, Thaumic Tinkerer:2.12.22, ThaumicHorizons:1.8.20, The Twilight Forest:2.7.33, Thermal Dynamics:1.7.10R1.2.1, Thermal Expansion:1.7.10R4.1.5, Thermal Foundation:1.7.10R1.2.6, TiC Tooltips:1.4.1, Tinkers\u0027 Construct:1.14.76-GTNH-pre, Traveller\u0027s Gear:1.16.6, UniMixins: Compatibility:0.3.0, UniMixins: GTNHMixins:2.2.0, UniMixins: Mixin (UniMix):0.3.0, UniMixins: MixinBooterLegacy:1.2.1, UniMixins: MixinExtras:0.3.0, UniMixins: Mixingasm:0.3, UniMixins: SpongeMixins:2.0.1, UniMixins:0.3.0, WDMla:2.8.1, Waila:2.8.1, WanionLib:1.7.10-1.8, WarpTheory:1.5.7-GTNH, Witchery++:1.4.15, Witchery:0.24.1, WitcheryPatch:1.0.0, Witching Gadgets:1.8.45-GTNH",
   "basicColors": [
     {
       "name": "1024-х ядерный сопроцессор создания",
@@ -4167,7 +4167,7 @@ var colorpalette={
       "color": "#6e4153"
     },
     {
-      "name": "QED (Quark/Electron Director)",
+      "name": "QED (Quantum Entity Device)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
@@ -15355,6 +15355,12 @@ var colorpalette={
       "color": "#724a2d"
     },
     {
+      "name": "Инфузионный перехватчик",
+      "uid": "thaumicinsurgence:infusionIntercepter",
+      "meta": 0,
+      "color": "#5e5666"
+    },
+    {
       "name": "Искажающаяся предметная труба",
       "uid": "ThermalDynamics:ThermalDynamics_32",
       "meta": 4,
@@ -19723,7 +19729,7 @@ var colorpalette={
       "name": "Маленький динамит",
       "uid": "appliedenergistics2:tile.BlockTinyTNT",
       "meta": 0,
-      "color": "#485353"
+      "color": "#475251"
     },
     {
       "name": "Малый кирпич небесного камня",
@@ -21410,6 +21416,12 @@ var colorpalette={
       "uid": "chisel:marble_stairs.7",
       "meta": 8,
       "color": "#acacac"
+    },
+    {
+      "name": "Мраморный постамент",
+      "uid": "thaumicinsurgence:marblePedestal",
+      "meta": 0,
+      "color": "#9b9b9b"
     },
     {
       "name": "Мрачная роза",
@@ -38092,6 +38104,18 @@ var colorpalette={
       "uid": "wizardry:arcane_workbench",
       "meta": 0,
       "color": "#836c66"
+    },
+    {
+      "name": "Чародейский мраморный блок",
+      "uid": "thaumicinsurgence:tile.arcaneMarble",
+      "meta": 0,
+      "color": "#9b9b9b"
+    },
+    {
+      "name": "Чародейский мраморный кирпич",
+      "uid": "thaumicinsurgence:tile.arcaneMarbleBrick",
+      "meta": 0,
+      "color": "#9c9c9c"
     },
     {
       "name": "Частокол из акации",

@@ -2141,15 +2141,6 @@ Automagy:blockThaumostaticSpire, Таумостатический Шпиль
 Automagy:blockTallyLensWorld, Шкатулка (Линза: Свобода)
 Automagy:blockTallyLensDrops, Шкатулка (Линза: Ликвидность)
 aura:trampoline, Отталкивающая загадка
-aura:storageBookshelfCoordinator, Координатор книжных полок
-aura:storageBookshelf, Книжная полка хранения
-aura:fortifiedDirt, Укрепленная земля
-aura:fortifiedWood, Укрепленные доски
-aura:fortifiedGlass, Укрепленное стекло
-aura:fortifiedCobblestone, Укрепленный булыжник
-aura:fortifiedStone, Укрепленный камень
-aura:fortifiedObsidian, Укрепленный обсидиан
-aura:monitor, Монитор
 aura:consumerBlockfurnace, Каскадная плавильня
 aura:consumerBlockplant, Каскадный садовод
 aura:consumerBlockore, Каскадный обработчик
@@ -2164,7 +2155,9 @@ aura:consumerBlockoreAdv, Призматический обработчик
 aura:consumerBlockminer, Каскадный шахтер
 aura:consumerBlockfish, Каскадный рыболов
 aura:consumerBlockend, Ритуал Энда
-aura:fairyTorch, tile.fairyTorch.name
+aura:storageBookshelfCoordinator, Координатор книжных полок
+aura:storageBookshelf, Книжная полка хранения
+aura:magicRoad, Кирпичи путешественника
 aura:auraNode, Узел ауры
 aura:auraNodepump, Огненная помпа ауры
 aura:auraNodeblack, Манипулятор ауры: Черный
@@ -2184,7 +2177,14 @@ aura:auraNodepumpCreative, Творческая помпа ауры (Тольк�
 aura:auraNodepumpLightAlt, Переменная помпа ауры освещения
 aura:auraNodepumpRedstoneAlt, Переменная редстоуновая помпа ауры
 aura:auraNodeflux, Потоковый узел
-aura:magicRoad, Кирпичи путешественника
+aura:fortifiedDirt, Укрепленная земля
+aura:fortifiedWood, Укрепленные доски
+aura:fortifiedGlass, Укрепленное стекло
+aura:fortifiedCobblestone, Укрепленный булыжник
+aura:fortifiedStone, Укрепленный камень
+aura:fortifiedObsidian, Укрепленный обсидиан
+aura:monitor, Монитор
+aura:fairyTorch, tile.fairyTorch.name
 AWWayofTime:Altar, Кровавый алтарь
 AWWayofTime:AlchemicalWizardrybloodRune:0, Кровавая руна
 AWWayofTime:AlchemicalWizardrybloodRune:1, Руна дополнительной ёмкости
@@ -2379,7 +2379,7 @@ ForbiddenMagic:TaintBlock:1, Заражённые каменные кирпич�
 ExtraUtilities:chestMini, Мини-сундук
 ExtraUtilities:chestFull, Немного длинный сундук
 ExtraUtilities:enderCollector, Коллектор Края
-ExtraUtilities:endConstructor:0, QED (Quark/Electron Director)
+ExtraUtilities:endConstructor:0, QED (Quantum Energy Device)
 ExtraUtilities:endConstructor:2, Флаксовый кристалл Края
 ExtraUtilities:endMarker, Маркер Края
 ExtraUtilities:curtains, Занавесы
@@ -6925,6 +6925,12 @@ ThaumicHorizons:leviathanTH, Первичное ископаемое
 ThaumicHorizons:slotTH, Вместилище Ключ-камня
 ThaumicHorizons:portalTH, tile.null.name
 ThaumicHorizons:gatewayTH, Пространственные Врата
+thaumicinsurgence:tile.arcaneMarble, Чародейский мраморный блок
+thaumicinsurgence:tile.arcaneMarbleBrick, Чародейский мраморный кирпич
+thaumicinsurgence:infusionIntercepter, Инфузионный перехватчик
+thaumicinsurgence:matrixAlpha, Магическая мраморная матрица
+thaumicinsurgence:pillarAlpha, Arcane Marble Pillar
+thaumicinsurgence:marblePedestal, Мраморный постамент
 ThermalDynamics:ThermalDynamics_0:0, Свинцовая флаксовая труба
 ThermalDynamics:ThermalDynamics_0:1, Усиленная флаксовая труба
 ThermalDynamics:ThermalDynamics_0:2, Красная энергетическая флаксовая труба
@@ -11473,6 +11479,8 @@ appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Кост�
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Разбухшая плоть
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Первичное ископаемое
 appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Пространственные Врата
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Чародейский мраморный блок
+appliedenergistics2:item.ItemFacade:0, Кабельный фасад - Чародейский мраморный кирпич
 appliedenergistics2:item.ItemCrystalSeed:0, Семя истинного кварца
 appliedenergistics2:item.ItemCrystalSeed:600, Семя кварца Нижнего мира
 appliedenergistics2:item.ItemCrystalSeed:1200, Изменчивое семя
@@ -16359,6 +16367,12 @@ ThaumicHorizons:meatTH, item.null.name
 ThaumicHorizons:meatCookedTH, item.null.name
 ThaumicHorizons:meatNuggetTH, item.null.name
 ThaumicHorizons:nodeCheat, Узел-Создатель
+thaumicinsurgence:item.ItemEightBitRedCrown, Красная Корона
+thaumicinsurgence:item.ItemThaumicInterfacer, Линза безумца
+thaumicinsurgence:item.ItemAlastorsWand, Первая палочка Аластора
+thaumicinsurgence:item.ItemSanitySoapAlpha, Мыло Trosma Sláintíochta
+thaumicinsurgence:item.ItemSanitySoapBeta, Мыло Аластора
+thaumicinsurgence:item.ItemBIGSHOT, [Гиперссылка заблокирована]
 ThermalDynamics:servo:0, Сервомеханизм
 ThermalDynamics:servo:1, Усиленный сервомеханизм
 ThermalDynamics:servo:2, Укреплённый сервомеханизм
@@ -17586,6 +17600,7 @@ ThermalDynamics:cover:0, Крышка (Молоко)
 ThermalDynamics:cover:0, Крышка (Грибной Суп)
 ThermalDynamics:cover:0, Крышка (Висоморный Суп)
 ThermalDynamics:cover:0, Крышка (Отталкивающая загадка)
+ThermalDynamics:cover:0, Крышка (Кирпичи путешественника)
 ThermalDynamics:cover:0, Крышка (Укрепленная земля)
 ThermalDynamics:cover:0, Крышка (Укрепленные доски)
 ThermalDynamics:cover:0, Крышка (Укрепленное стекло)
@@ -17594,7 +17609,6 @@ ThermalDynamics:cover:0, Крышка (Укрепленный камень)
 ThermalDynamics:cover:0, Крышка (Укрепленный обсидиан)
 ThermalDynamics:cover:0, Крышка (Монитор)
 ThermalDynamics:cover:0, Крышка (tile.fairyTorch.name)
-ThermalDynamics:cover:0, Крышка (Кирпичи путешественника)
 ThermalDynamics:cover:0, Крышка (Кровавая руна)
 ThermalDynamics:cover:0, Крышка (Руна дополнительной ёмкости)
 ThermalDynamics:cover:0, Крышка (Руна дислокации)
@@ -21073,6 +21087,8 @@ ThermalDynamics:cover:0, Крышка (Насыщенный кристалл)
 ThermalDynamics:cover:0, Крышка (Первичное ископаемое)
 ThermalDynamics:cover:0, Крышка (tile.null.name)
 ThermalDynamics:cover:0, Крышка (Пространственные Врата)
+ThermalDynamics:cover:0, Крышка (Чародейский мраморный блок)
+ThermalDynamics:cover:0, Крышка (Чародейский мраморный кирпич)
 ThermalDynamics:cover:0, Крышка (Розовая лоза)
 ThermalDynamics:retriever:0, Поисковик
 ThermalDynamics:retriever:1, Усиленный поисковик
