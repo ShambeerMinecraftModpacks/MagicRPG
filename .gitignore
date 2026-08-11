@@ -47,3 +47,16 @@ desktop.ini
 .idea/
 .vscode/
 *.iml
+
+/coretweaks/cache/
+/coretweaks/out/
+/journeymap/colorpalette.json
+/journeymap/colorpalette.html
+/mod-config/
+/cfgSbor/dir.txt
+/instance.json
+/knownkeys.txt
+/localconfig.cfg
+/libraries.bk
+/versions.bk
+/optionsnf.txt
