@@ -1,8 +1,9 @@
 {
-  "name": "MagicRPG",
+  "name": "MagicRPG-2.1.6",
   "author": "shamber",
   "description": "",
   "version": "",
+  "edition": "java",
   "runtime": {
     "minecraft": "1.7.10",
     "forge": "10.13.4.1614",
@@ -12,28 +13,18 @@
     "optifine": "",
     "labyMod": ""
   },
-  "java": "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path\\java.exe",
-  "minMemory": 4096,
+  "java": "",
+  "minMemory": 256,
   "maxMemory": 6144,
   "assignMemory": true,
-  "vmOptions": [
-    "-XX:+UseG1GC",
-    "-XX:+UnlockExperimentalVMOptions",
-    "-XX:MaxGCPauseMillis=50",
-    "-XX:+DisableExplicitGC",
-    "-XX:TargetSurvivorRatio=90",
-    "-XX:G1NewSizePercent=50",
-    "-XX:G1MaxNewSizePercent=80",
-    "-XX:G1MixedGCLiveThresholdPercent=35"
-  ],
   "env": {},
   "url": "",
   "icon": "",
   "fileApi": "",
   "server": null,
-  "lastAccessDate": 1781594848946,
-  "lastPlayedDate": 1781162683134,
-  "playtime": 248975312,
-  "creationDate": 1777326863535,
-  "path": "G:\\minecraft\\datalauncher\\instances\\MagicRPG"
+  "lastAccessDate": 1787220200394,
+  "lastPlayedDate": 1787220206032,
+  "playtime": 0,
+  "creationDate": 1787219688885,
+  "path": "C:\\Users\\ruslan\\Documents\\ruslan\\minecraft\\xlauncher\\datalauncher\\instances\\MagicRPG-2.1.6"
 }
