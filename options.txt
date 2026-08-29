@@ -97,7 +97,7 @@ key_key.search_connected_inventories.desc:0
 key_key.pick_block.desc:0
 key_key.discordRing:45
 key_key_ironbackpacks_openbackpack:19
-key_key_ironbackpacks_equipbackpack:48
+key_key_ironbackpacks_equipbackpack:0
 key_openblocks.keybind.vario_switch:0
 key_openblocks.keybind.vario_vol_up:0
 key_openblocks.keybind.vario_vol_down:0
@@ -192,7 +192,7 @@ key_key.journeymap.zoom_out:12
 key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
-key_key.journeymap.create_waypoint:48
+key_key.journeymap.create_waypoint:0
 soundCategory_master:0.25827813
 soundCategory_music:0.056338027
 soundCategory_record:1.0
