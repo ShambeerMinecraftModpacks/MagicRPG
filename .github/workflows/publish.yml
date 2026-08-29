@@ -32,3 +32,5 @@ jobs:
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           files: "*.mrpack"
           version: ${{ github.event.release.tag_name || inputs.version }}
+          loaders: forge
+          game-versions: 1.7.10
