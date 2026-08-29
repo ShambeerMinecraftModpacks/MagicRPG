@@ -16,8 +16,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: gh release download ${{ github.event.release.tag_name }} --pattern "*.mrpack"
 
+      - if: github.event_name == 'workflow_dispatch'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh release download --pattern "*.mrpack"
+
       - uses: Kir-Antipov/mc-publish@v3.3
         with:
           modrinth-id: PrEKrBpK
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          files: "**/*.mrpack"
+          files: "*.mrpack"
