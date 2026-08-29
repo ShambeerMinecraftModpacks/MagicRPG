@@ -20,4 +20,4 @@ jobs:
         with:
           modrinth-id: PrEKrBpK
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          files: "*.mrpack"
+          files: "**/*.mrpack"
