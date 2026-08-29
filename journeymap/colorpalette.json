@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "Цветовая палитра JourneyMap",
-  "generated": "Generated using JourneyMap 5.1.4p3 Unlimited for 1.7.10 on Sat Aug 29 17:44:57 MSK 2026",
+  "generated": "Generated using JourneyMap 5.1.4p3 Unlimited for 1.7.10 on Sat Aug 29 20:22:58 MSK 2026",
   "description": [
     "Этот файл может быть использован для сохранения целостности цветовой гаммы карты при смене темы оформления Minecraft.",
     "Редактируйте файл на свой страх и риск. Вы можете просмотреть этот файл: \u0027colorpalette.html\u0027",
@@ -4167,7 +4167,7 @@ var colorpalette={
       "color": "#6e4153"
     },
     {
-      "name": "QED (Quite Expensive Decoration)",
+      "name": "QED (Quadratic Equation Device)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
