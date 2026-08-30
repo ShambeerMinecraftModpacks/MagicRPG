@@ -222,7 +222,6 @@ item.ebwizardry\:armour_upgrade.desc_extended=Примените это улуч
 item.ebwizardry\:wizard_armour.element_cost_reduction=-%1$s%% к стоимости (%2$s)
 item.ebwizardry\:wizard_armour.cooldown_reduction=-%1$s%% к перезарядке
 item.ebwizardry\:wizard_armour.enchantability=Повышенная зачаровываемость
-item.ebwizardry\:wizard_armour.mana=Мана\: %1$s/%2$s
 
 item.ebwizardry\:wizard_armour.full_set=Полный комплект:
 item.ebwizardry\:sage_armour.full_set_bonus=-%1$s%% стоимости других стихий

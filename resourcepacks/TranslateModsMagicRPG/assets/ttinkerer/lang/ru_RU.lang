@@ -219,7 +219,6 @@ ttresearch.lore.PERIPHERALS=Когда технология знакомится
 ttresearch.page.PERIPHERALS.0=Thaumic Tinkerer позволяет некоторым из блоков, что он добавляет, вместе с некоторыми блоками Thaumcraft, быть использоваными в качестве периферии ComputerCraft.<BR><BR>Для удобства, метод документации для этих периферийных устройств находится на внешней веб-странице. Нажатие ENTER прямо сейчас перенесёт вас к ней.
 # Note: For people who localize the mod. If you have custom documentation, feel free to include in your PR a
 # link to it and the short URL (see above) you want for it on my website and I'll add it. 
-ttresearch.webpage.peripherals=https://github.com/Vazkii/ThaumicTinkerer/wiki/Peripheral-Documentation
 ttcomputer.dissipator=Рассеиватель
 # -- ASPECT ANALYZER
 ttresearch.name.ASPECT_ANALYZER=Аспектализатор

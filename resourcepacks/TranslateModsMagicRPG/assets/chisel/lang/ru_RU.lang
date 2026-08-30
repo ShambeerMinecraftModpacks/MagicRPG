@@ -399,7 +399,6 @@ tile.cobblestone.13.desc=Булыжник со светлой панелью
 tile.cobblestone.14.desc=Булыжник с тёмной панелью
 
 #Sandstone Blocks
-tile.chisel.sandstone.name=Песчаник
 
 #Marble Blocks
 tile.chisel.marble.name=Мрамор

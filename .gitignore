@@ -58,6 +58,11 @@ desktop.ini
 /libraries.bk
 /versions.bk
 /servers.dat
+/instance.json
+/config/FpsReducer/player-*.cfg
+/config/ProjectE/customConversions/example.json
+/config/witchery_debug.cfg
+/serverutilities/server/players.txt
 /stencil*.png
 /serverutilities/server/stat_leaderboards.json
 /resourcepacks/TranslateModsMagicRPG/assets/gadomancy/lang/backup.txt
@@ -70,6 +75,9 @@ desktop.ini
 /downloads/
 /config/txloader/load/bugtorch/sounds/
 /memory_repo/
+build/
+forge-*-installer.jar
+forge-*-universal.jar
 /.mixin.out/
 hs_err_pid*
 replay_pid*

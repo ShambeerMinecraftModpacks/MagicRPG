@@ -17,7 +17,6 @@ tile.WG_WoodenDevice.cobbleGen.name=Таум-экструдер камня
 tile.WG_WoodenDevice.armorStand.name=Стойка для брони
 tile.WG_WoodenDevice.cuttingTable.name=Стол резчика по самоцветам
 tile.WG_WoodenDevice.saunaStove.name=Таумическая Банька
-tile.WG_WoodenDevice.labelLibrary.name=Библиотека аспектов
 
 tile.WG_MetalDevice.essentiaPump.name=Помпа для эссенции
 tile.WG_MetalDevice.terraformer.name=Магический терраформер

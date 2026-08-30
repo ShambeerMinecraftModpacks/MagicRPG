@@ -358,8 +358,6 @@ material.platinum=Платина
 material.silver=Серебро
 material.adamantine=Адамантин
 material.mithril=Мифрил
-material.glue=Клей
-material.endstone=Камень Края
 
 # Oddmod
 material.kroostyl=Кроостил
@@ -1989,8 +1987,6 @@ tool.throwingknife.knightmetal=Метательный нож из металла
 tool.javelin.knightmetal=Копьё из металла рыцаря
 part.toolrod.knightmetal=Стержень из металла рыцаря
 part.pickaxe.head.knightmetal=Обух кирки из металла рыцаря
-part.battle.sign.knightmetal=Боевая табличка из металла рыцаря
-part.chunk.knightmetal=Кусок из металла рыцаря
 part.shovel.head.knightmetal=Штык лопаты из металла рыцаря
 part.axe.head.knightmetal=Обух топора из металла рыцаря
 part.binding.knightmetal=Крепление из металла рыцаря
@@ -3629,18 +3625,6 @@ tool.boltammo.lumium=Ламиумовые болты
 tool.javelin.lumium=Ламиумовое копьё
 
 # Nevermine 2: Advent of Ascenion
-tool.pickaxe.limonite=Лимонитовая кирка
-tool.shovel.limonite=Лимонитовая лопата
-tool.rapier.limonite=Лимонитовая рапира
-tool.cutlass.limonite=Лимонитовая сабля
-tool.fryingpan.limonite=Лимонитовая сковорода
-tool.battlesign.limonite=Лимонитовая боевая табличка
-tool.chisel.limonite=Лимонитовая стамеска
-tool.scythe.limonite=Лимонитовая коса
-tool.excavator.limonite=Лимонитовая копалка
-tool.arrowammo.limonite=Лимонитовые стрелы
-tool.boltammo.limonite=Лимонитовые болты
-tool.javelin.limonite=Лимонитовое копьё
 
 tool.pickaxe.rosite=Розитовая кирка
 tool.shovel.rosite=Розитовая лопата

@@ -149,8 +149,6 @@ config.modeShiftClickEIO.tooltip=Переключите на "false" чтобы 
 config.animationType=Тип анимации копания
 config.animationType.tooltip=Изменить тип анимации копания буров/пил (0 = обычное "махание рукой", 1 = "анимация лука" от 3-его лица, 2 = "анимация лука" от 1-ого и от 3-его лица)
 
-option.rfdrills.waila_rf=Использование RF
-option.rfdrills.waila_mode=Режим копания
 option.rfdrills.waila_rf=Присев: Использование RF
 option.rfdrills.waila_mode=Присев: Режим копания
 

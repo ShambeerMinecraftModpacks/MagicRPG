@@ -1,4 +1,4 @@
-№
+# №
 #Enchantments
 enchantment.haste=Спешка
 enchantment.repair=Восстановление
@@ -358,7 +358,6 @@ item.Wand.greatwood.rod=великодревесный
 item.Wand.silverwood.rod=серебродревесный
 item.Wand.obsidian.rod=обсидиановый
 item.Wand.blaze.rod=огненный
-item.Wand.ice.rod=ледяной
 item.Wand.ice.rod=костяной
 item.Wand.reed.rod=тростниковый
 item.Wand.quartz.rod=кварцевый

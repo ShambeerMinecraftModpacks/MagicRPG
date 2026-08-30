@@ -179,7 +179,7 @@ botania.nei.quickInfo:item.bone~0=У вас будут плохие времен
 botania.nei.quickInfo:item.lexicon~0=Что именно вы ожидали?
 botania.nei.quickInfo:item.terrasteel~4=Вы можете получить Террасталь, выбросив нужные предметы на плиту земной агломерации.
 botania.nei.quickInfo:item.enderAirBottle~15=Вы можете получить это, щелкнув ПКМ пустым пузырьком, находясь в Эндер Мире.
-primus
+# primus
 # BUILDCRAFT INTEGRATION
 botania.triggers.manaDetector=Всплеск маны
 botania.triggers.manaEmpty=Нет маны
@@ -1380,22 +1380,6 @@ item.botania:lensFirework.name=Линза маны: Праздничная
 item.botania:lensFirework.short=Праздничная
 item.botania:lensFlare.name=Линза маны: Всплеск
 item.botania:lensFlare.short=Всплеск
-item.botania:manaPetal0.name=Белый лепесток маны
-item.botania:manaPetal1.name=Оранжевый лепесток маны
-item.botania:manaPetal2.name=Сиреневый лепесток маны
-item.botania:manaPetal3.name=Светло-синий лепесток маны
-item.botania:manaPetal4.name=Жёлтый лепесток маны
-item.botania:manaPetal5.name=Лаймовый лепесток маны
-item.botania:manaPetal6.name=Розовый лепесток маны
-item.botania:manaPetal7.name=Серый лепесток маны
-item.botania:manaPetal8.name=Светло-серый лепесток маны
-item.botania:manaPetal9.name=Бирюзовый лепесток маны
-item.botania:manaPetal10.name=Фиолетовый лепесток маны
-item.botania:manaPetal11.name=Синий лепесток маны
-item.botania:manaPetal12.name=Коричневый лепесток маны
-item.botania:manaPetal13.name=Зелёный лепесток маны
-item.botania:manaPetal14.name=Красный лепесток маны
-item.botania:manaPetal15.name=Чёрный лепесток маны
 item.botania:rune0.name=Руна воды
 item.botania:rune1.name=Руна огня
 item.botania:rune2.name=Руна земли
@@ -1427,7 +1411,6 @@ item.botania:grassSeeds5.name=Яркие споры
 item.botania:grassSeeds6.name=Выжженые споры
 item.botania:grassSeeds7.name=Заряженные споры
 item.botania:grassSeeds8.name=Мутировавшие споры
-item.botania:livingwoodTwig.name=Ветка древесины мечтаний
 item.botania:livingwoodTwig.name=Ветка жизнедерева
 item.botania:dirtRod.name=Жезл Земель
 item.botania:terraformRod.name=Жезл Терраформер
@@ -1618,9 +1601,6 @@ item.botania:recordGaia2.name=Скрипучая пластинка
 item.botania:temperanceStone.name=Камень воздержания
 item.botania:incenseStick.name=Ароматическая палочка
 item.botania:terraAxe.name=Терратопор
-item.botania:manasteelNugget.name=Манасталевый самородок
-item.botania:terrasteelNugget.name=Террасталевый самородок
-item.botania:elementiumNugget.name=Элементиевый самородок
 Item.botania:manasteelNugget.name=Самородок манастали
 Item.botania:terrasteelNugget.name=Cамородок террастали
 Item.botania:elementiumNugget.name=Самородок элементиум
@@ -1646,7 +1626,6 @@ item.botania:santaweaveBoots.name=Сантатканные сапоги
 Item.botania: gaiaHead.name=Голова Стражи Гайи
 item.botania:sextant.name=Форменный секстант
 item.botania:speedUpBelt.name=Кушак ускорения
-item.botania:baubleBox.name=Пустая шкатулка
 item.botania:manaPowder.name=Мана порошок
 item.botania:manaPetal0.name=Белый лепесток маны
 item.botania:manaPetal1.name=Оранжевый лепесток маны
@@ -1981,7 +1960,7 @@ botania.category.misc=Разное
 botania.entry.introVideo=О вступительном видео
 botania.page.introVideo0=Для тех читателей, кто не совсем умеет читать, создано короткое вводное видео (на английском) о базовых принципах Botania. Отмечу, что это руководство предназначено для помощи новичкам, и не призвано заменить настоящее руководство &1Лексику Botania&0.<br>Для просмотра этого видео просто нажмите &4ENTER&0 прямо в этом меню.
 
- -- WELCOME TO BOTANIA
+#  -- WELCOME TO BOTANIA
 botania.entry.welcome=Добро пожаловать в Botania!
 botania.tagline.welcome=Добро пожаловать в отель botania
 botania.page.welcome0=&oДобро пожаловать в Ботанию! Я поздравляю вас, с тем, что вы соединили саженец и книгу или просто нашли этот Том в сундуке. Без разницы. <br>&oВы можете перемещаться по этой книге, используя стрелки внизу этой страницы, колесико мыши или клавиши со стрелками на клавиатуре. 
@@ -2290,7 +2269,7 @@ botania.entry.paintLens=Линзы, отражающие краску
 botania.page.paintLens0=&4Эльфы&0 - хитрые авантюристы. Эти линзы более уникальны по сравнению с другими линзами. &1Линзы, отражающие краску&0 должны быть окрашены в один из 16 цветов спектра, чтобы работать. Когда всплеск попадает по окрашиваемому блоку (&1Шерсть, окрашенная глина или стекло&0...) линза превратят его и любые соседние блоки, одного вида и цвета, в цвет &4Всплеска маны&0. Это также работает и с &4Овцами&0.
 botania.page.paintLens1=Заколдованный русалкой
 
- -- ELVEN MANA LENSES
+#  -- ELVEN MANA LENSES
 botania.entry.elvenLenses=Эльфийские линзы маны
 botania.tagline.elvenLenses=Продвинутые линзы маны с новыми возможностями
 botania.page.elvenLenses0=Знание методов обработки маны Альфхейма, разумеется, сопряжено с множеством новых &1Линз Маны&0, с которыми можно экспериментировать. В отличие от обычных сверхмощных линз, они немного более распространены в их использовании ...
@@ -2700,7 +2679,6 @@ botania.page.manaAlchemy18=Создание &1Жемчуга эндера&0
 botania.page.manaAlchemy19=Превращение &1Светящейся пыли&0 и &1Красной пыли&0
 botania.page.manaAlchemy20=Измельчение &1Булыжника&0 в &1Песок&0
 botania.page.manaAlchemy21=Измельчение &1Обожженной глины&0 в &1Красный песок&0
-botania.page.manaAlchemy22=Создание &1Грубой земли&0
 botania.page.manaAlchemy22=Разрушение &1Глины&0 И &1Кирпич&0
 botania.page.manaAlchemy23=Создание &1Грубой грязи&0
 botania.page.manaAlchemy24=Трансмутация видов &1Высокой травы&0

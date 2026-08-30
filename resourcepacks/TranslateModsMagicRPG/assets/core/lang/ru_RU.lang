@@ -1,7 +1,6 @@
 # gui - config
 
 # messages
-lunatriuscore.message.updatesavailable=Обновления доступны для %s.
 # gui - categories
 lunatriuscore.config.category.versioncheck=Проверка версий
 lunatriuscore.config.category.tweaks=Твики
