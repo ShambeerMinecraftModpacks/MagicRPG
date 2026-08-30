@@ -757,122 +757,122 @@ for.errors.isRaining.desc=Дождь
 for.errors.isRaining.help=Только устойчивые летуны могут работать во время дождя.
 for.errors.noDrone.desc=Нет трутня
 for.errors.noDrone.help=Спаривание требует наличия трутня.
-for.errors.noFlower.desc=No flowers
-for.errors.noFlower.help=Hive members are not finding the right flowers. Use the Beealyzer to learn their flower preference.
-for.errors.noQueen.desc=No queen
-for.errors.noQueen.help=Supply this hive with a queen or a princess and a drone.
-for.errors.noSky.desc=Sky obstructed
-for.errors.noSky.help=The hive requires direct sunlight from above.
-for.errors.notDay.desc=Not daytime
-for.errors.notDay.help=The bees can only work during the daytime.
-for.errors.notGloomy.desc=Not dark enough
-for.errors.notGloomy.help=The bees can only work in darkness.
-for.errors.notLucid.desc=Not bright enough
-for.errors.notLucid.help=The bees have trouble navigating in the dark.
-for.errors.notNight.desc=Not nighttime
-for.errors.notNight.help=The bees can only work during the night.
-for.errors.tooHot.desc=Too Hot
-for.errors.tooHot.help=The bees are melting in the heat here and unable to work. Use a Habitat Locator to find a cooler climate.
-for.errors.tooCold.desc=Too Cold
-for.errors.tooCold.help=The bees are huddled together to survive the freezing cold here. Use a Habitat Locator to find a warmer climate.
-for.errors.tooHumid.desc=Too Humid
-for.errors.tooHumid.help=The climate here has made the bees' wings too damp to fly. Use a Habitat Locator to find a dryer climate.
-for.errors.tooArid.desc=Too Dry
-for.errors.tooArid.help=The dry climate here has made the bees parched and unable to work. Use a Habitat Locator to find a wetter climate.
+for.errors.noFlower.desc=Нет цветов
+for.errors.noFlower.help=Обитатели улья не находят подходящие цветы. Используйте анализатор пчёл, чтобы узнать их предпочтения.
+for.errors.noQueen.desc=Нет королевы
+for.errors.noQueen.help=Поместите в этот улей королеву либо принцессу и трутня.
+for.errors.noSky.desc=Небо закрыто
+for.errors.noSky.help=Улью необходим прямой солнечный свет сверху.
+for.errors.notDay.desc=Сейчас не день
+for.errors.notDay.help=Пчёлы могут работать только днём.
+for.errors.notGloomy.desc=Недостаточно темно
+for.errors.notGloomy.help=Пчёлы могут работать только в темноте.
+for.errors.notLucid.desc=Недостаточно светло
+for.errors.notLucid.help=Пчёлам трудно ориентироваться в темноте.
+for.errors.notNight.desc=Сейчас не ночь
+for.errors.notNight.help=Пчёлы могут работать только ночью.
+for.errors.tooHot.desc=Слишком жарко
+for.errors.tooHot.help=Пчёлы плавятся от жары и не могут работать. Используйте определитель среды обитания, чтобы найти более прохладный климат.
+for.errors.tooCold.desc=Слишком холодно
+for.errors.tooCold.help=Пчёлы сбились в кучу, чтобы пережить мороз. Используйте определитель среды обитания, чтобы найти более тёплый климат.
+for.errors.tooHumid.desc=Слишком влажно
+for.errors.tooHumid.help=Климат сделал крылья пчёл слишком влажными для полёта. Используйте определитель среды обитания, чтобы найти более сухой климат.
+for.errors.tooArid.desc=Слишком сухо
+for.errors.tooArid.help=Из-за сухого климата пчёлы страдают от жажды и не могут работать. Используйте определитель среды обитания, чтобы найти более влажный климат.
 
 # MACHINES
-for.errors.noPower.desc=No Power
-for.errors.noPower.help=This machine requires RF energy from an engine to function.
-for.errors.noRedstone.desc=Requires Redstone
-for.errors.noRedstone.help=This machine requires a redstone signal to activate it.
-for.errors.disabledRedstone.desc=Disabled by Redstone
-for.errors.disabledRedstone.help=This machine is being disabled by a redstone signal.
-for.errors.noRecipe.desc=No recipe
-for.errors.noRecipe.help=No matching recipe was found for the supplied resources.
-for.errors.noResource.desc=Missing resources
-for.errors.noResource.help=More resources need to be supplied for operation.
-for.errors.noResourceInventory.desc=Inventory needs resources
-for.errors.noResourceInventory.help=Resources need to be added to the machine's inventory to begin crafting this recipe.
-for.errors.noResourceLiquid.desc=Missing liquid resources
-for.errors.noResourceLiquid.help=More liquid resources need to be supplied for operation.
-for.errors.noSpace.desc=No inventory space
-for.errors.noSpace.help=Empty this machine's inventory.
-for.errors.noSpaceTank.desc=No tank space
-for.errors.noSpaceTank.help=Empty this machine's liquid tank.
-for.errors.notDark.desc=Not dark enough
-for.errors.notDark.help=A lower light level is required for operation.
+for.errors.noPower.desc=Нет энергии
+for.errors.noPower.help=Для работы механизма нужна энергия RF от двигателя.
+for.errors.noRedstone.desc=Нужен редстоун
+for.errors.noRedstone.help=Для активации механизма нужен сигнал красного камня.
+for.errors.disabledRedstone.desc=Отключено редстоуном
+for.errors.disabledRedstone.help=Механизм отключён сигналом красного камня.
+for.errors.noRecipe.desc=Нет рецепта
+for.errors.noRecipe.help=Для предоставленных ресурсов не найден подходящий рецепт.
+for.errors.noResource.desc=Не хватает ресурсов
+for.errors.noResource.help=Для работы необходимо добавить больше ресурсов.
+for.errors.noResourceInventory.desc=Инвентарю нужны ресурсы
+for.errors.noResourceInventory.help=Добавьте ресурсы в инвентарь механизма, чтобы начать создание по этому рецепту.
+for.errors.noResourceLiquid.desc=Не хватает жидких ресурсов
+for.errors.noResourceLiquid.help=Для работы необходимо добавить больше жидких ресурсов.
+for.errors.noSpace.desc=Нет места в инвентаре
+for.errors.noSpace.help=Освободите инвентарь механизма.
+for.errors.noSpaceTank.desc=Нет места в резервуаре
+for.errors.noSpaceTank.help=Освободите резервуар механизма.
+for.errors.notDark.desc=Недостаточно темно
+for.errors.notDark.help=Для работы требуется более низкий уровень освещения.
 
 # RAIN TANK
-for.errors.notRaining.desc=No rain
-for.errors.notRaining.help=Operation is only possible when it is raining.
-for.errors.noRainBiome.desc=Never rains
-for.errors.noRainBiome.help=This location never receives rain.
-for.errors.noSkyRainTank.desc=Sky obstructed
-for.errors.noSkyRainTank.help=Clear the area above this machine so it can gather rain.
+for.errors.notRaining.desc=Нет дождя
+for.errors.notRaining.help=Работа возможна только во время дождя.
+for.errors.noRainBiome.desc=Дождя не бывает
+for.errors.noRainBiome.help=В этом месте дождя не бывает.
+for.errors.noSkyRainTank.desc=Небо закрыто
+for.errors.noSkyRainTank.help=Очистите пространство над механизмом, чтобы он мог собирать дождевую воду.
 
 # ALYZERS
-for.errors.noHoney.desc=Honey required
-for.errors.noHoney.help=This gadget requires honey drops or honeydew for operation.
-for.errors.noSpecimen.desc=Nothing to analyze
-for.errors.noSpecimen.help=Supply a specimen to analyze.
+for.errors.noHoney.desc=Нужен мёд
+for.errors.noHoney.help=Для работы устройства нужны капли мёда или падь.
+for.errors.noSpecimen.desc=Нечего анализировать
+for.errors.noSpecimen.help=Поместите образец для анализа.
 
 # ENGINES
-for.errors.forcedCooldown.desc=Forced Cooldown
-for.errors.forcedCooldown.help=The engine has overheated and must cool down before it can start again.
-for.errors.noEnergyNet.desc=No electricity
-for.errors.noEnergyNet.help=Your world is barren of any electricity. (Install IndustrialCraft\u00b2.)
-for.errors.noFuel.desc=No fuel
-for.errors.noFuel.help=This engine requires fuel to run. Replenish this machine's fuel supplies.
-for.errors.noHeat.desc=Not warmed up
-for.errors.noHeat.help=This engine requires a heat source to run. Refill the heating tank.
+for.errors.forcedCooldown.desc=Принудительное охлаждение
+for.errors.forcedCooldown.help=Двигатель перегрелся и должен остыть перед повторным запуском.
+for.errors.noEnergyNet.desc=Нет электричества
+for.errors.noEnergyNet.help=В вашем мире нет электричества. (Установите IndustrialCraft\u00b2.)
+for.errors.noFuel.desc=Нет топлива
+for.errors.noFuel.help=Для работы двигателя нужно топливо. Пополните запас топлива механизма.
+for.errors.noHeat.desc=Не прогрето
+for.errors.noHeat.help=Для работы двигателя нужен источник тепла. Заполните резервуар нагрева.
 
 # TRADE STATION
-for.errors.noStamps.desc=Need Stamps
-for.errors.noStamps.help=The trade station requires more stamps to pay postage.
-for.errors.noPaper.desc=Need Paper
-for.errors.noPaper.help=The trade station requires more paper to send letters.
-for.errors.noSupplies.desc=Need Supplies
-for.errors.noSupplies.help=The trade station requires more supplies to send.
-for.errors.noTrade.desc=No Trade Set
-for.errors.noTrade.help=The trade station requires items to Send and Receive.
+for.errors.noStamps.desc=Нужны марки
+for.errors.noStamps.help=Торговой станции нужно больше марок для оплаты почтовой отправки.
+for.errors.noPaper.desc=Нужна бумага
+for.errors.noPaper.help=Торговой станции нужно больше бумаги для отправки писем.
+for.errors.noSupplies.desc=Нужны припасы
+for.errors.noSupplies.help=Торговой станции нужно больше припасов для отправки.
+for.errors.noTrade.desc=Торговля не задана
+for.errors.noTrade.help=Для торговой станции необходимо задать предметы для отправки и получения.
 
 # TRADE STATION NAMING
-for.errors.notAlphaNumeric.desc=Invalid Name
-for.errors.notAlphaNumeric.help=A Trade Station name must consist of letters and numbers only.
-for.errors.notUnique.desc=Not Unique
-for.errors.notUnique.help=Trade Station names must be unique and this name is already taken.
+for.errors.notAlphaNumeric.desc=Недопустимое имя
+for.errors.notAlphaNumeric.help=Имя торговой станции может состоять только из букв и цифр.
+for.errors.notUnique.desc=Имя не уникально
+for.errors.notUnique.help=Имя торговой станции должно быть уникальным; это имя уже занято.
 
 # LETTERS
-for.errors.noRecipient.desc=No Recipient
-for.errors.noRecipient.help=You need to address your letter to a recipient to send it.
-for.errors.notPostpaid.desc=Stamps Needed
-for.errors.notPostpaid.help=Apply more stamps to pay the postal service.
+for.errors.noRecipient.desc=Нет получателя
+for.errors.noRecipient.help=Чтобы отправить письмо, укажите получателя.
+for.errors.notPostpaid.desc=Нужны марки
+for.errors.notPostpaid.help=Добавьте больше марок, чтобы оплатить почтовую службу.
 
 # CIRCUIT BOARDS
-for.errors.circuitMismatch.desc=Layout Mismatch
-for.errors.circuitMismatch.help=Amount of tubes does not match size of circuit board.
-for.errors.noCircuitBoard.desc=Board Missing
-for.errors.noCircuitBoard.help=Insert a circuit board to solder the selected tubes onto it.
-for.errors.noCircuitLayout.desc=No Layouts Found
-for.errors.noCircuitLayout.help=No layouts available due to the current game settings.
+for.errors.circuitMismatch.desc=Несовпадение схемы
+for.errors.circuitMismatch.help=Количество трубок не соответствует размеру печатной платы.
+for.errors.noCircuitBoard.desc=Нет платы
+for.errors.noCircuitBoard.help=Вставьте печатную плату, чтобы припаять к ней выбранные трубки.
+for.errors.noCircuitLayout.desc=Схемы не найдены
+for.errors.noCircuitLayout.help=При текущих настройках игры схемы недоступны.
 
 # FARMS
-for.errors.noFarmland.desc=No Farmland
-for.errors.noFarmland.help=Smooth sandstone, bricks or stone bricks create a platform the farm will build on.
-for.errors.noFertilizer.desc=No Fertilizer
-for.errors.noFertilizer.help=Farms require fertilizer for function. Compost is insufficient.
-for.errors.noLiquid.desc=No Water
-for.errors.noLiquid.help=Depending on rainfall, temperature and humidity farms need to be supplied with varying amounts of water.
+for.errors.noFarmland.desc=Нет пашни
+for.errors.noFarmland.help=Гладкий песчаник, кирпичи или каменные кирпичи создают платформу, на которой будет строиться ферма.
+for.errors.noFertilizer.desc=Нет удобрения
+for.errors.noFertilizer.help=Для работы ферм нужно удобрение. Компоста недостаточно.
+for.errors.noLiquid.desc=Нет воды
+for.errors.noLiquid.help=В зависимости от осадков, температуры и влажности фермы требуют разного количества воды.
 
 # DEPRECATED
-for.errors.invalidBiome.desc=Hostile environment
-for.errors.invalidBiome.help=Machine or inhabitants cannot work in this biome.
-for.errors.noDisposal.desc=Waste not disposable
-for.errors.noDisposal.help=Insufficient space to dispose of waste products.
-for.errors.unknown.desc=Unknown error
-for.errors.unknown.help=Congratulations, you found a glitch.
-for.errors.wrongStacksize.desc=Too Many Items
-for.errors.wrongStacksize.help=Only single items can be used here.
+for.errors.invalidBiome.desc=Неподходящая среда
+for.errors.invalidBiome.help=Механизм или его обитатели не могут работать в этом биоме.
+for.errors.noDisposal.desc=Нельзя удалить отходы
+for.errors.noDisposal.help=Недостаточно места для удаления побочных продуктов.
+for.errors.unknown.desc=Неизвестная ошибка
+for.errors.unknown.help=Поздравляем, вы нашли ошибку.
+for.errors.wrongStacksize.desc=Слишком много предметов
+for.errors.wrongStacksize.help=Здесь можно использовать только один предмет.
 
 ####################
 # APICULTURE
@@ -1121,25 +1121,25 @@ tile.for.stump.0.name=Потухшая свеча
 # MULTIBLOCK
 ####################
 
-for.multiblock.error.notConnected=The MultiBlock is not connected to a controller. This could be due to lag, or a bug. If the problem persists, try breaking and re-placing the block.
-for.multiblock.error.invalid.interior=%d, %d, %d - (%s) Block is not valid for use in the machine's interior.
-for.multiblock.error.invalid.part=The multiblock part @ %d, %d, %d is incompatible with machines of type %s.
-for.multiblock.error.small=The multiblock is too small. It must be at least %d X, %d Y, %d Z.
-for.multiblock.error.large.x=The multiblock is too large, it may be at most %d blocks in the X dimension.
-for.multiblock.error.large.y=The multiblock is too large, it may be at most %d blocks in the Y dimension.
-for.multiblock.error.large.z=The multiblock is too large, it may be at most %d blocks in the Z dimension.
-for.multiblock.error.small.x=The multiblock is too small, it must be at least %d blocks in the X dimension.
-for.multiblock.error.small.y=The multiblock is too small, it must be at least %d blocks in the Y dimension.
-for.multiblock.error.small.z=The multiblock is too small, it must be at least %d blocks in the Z dimension.
+for.multiblock.error.notConnected=Мультиблок не подключён к контроллеру. Причиной может быть задержка или ошибка. Если проблема сохраняется, сломайте и установите блок заново.
+for.multiblock.error.invalid.interior=%d, %d, %d — блок (%s) нельзя использовать внутри механизма.
+for.multiblock.error.invalid.part=Часть мультиблока в точке %d, %d, %d несовместима с механизмами типа %s.
+for.multiblock.error.small=Мультиблок слишком мал. Его размер должен быть не менее %d X, %d Y, %d Z.
+for.multiblock.error.large.x=Мультиблок слишком велик: по оси X допускается не более %d блоков.
+for.multiblock.error.large.y=Мультиблок слишком велик: по оси Y допускается не более %d блоков.
+for.multiblock.error.large.z=Мультиблок слишком велик: по оси Z допускается не более %d блоков.
+for.multiblock.error.small.x=Мультиблок слишком мал: по оси X требуется не менее %d блоков.
+for.multiblock.error.small.y=Мультиблок слишком мал: по оси Y требуется не менее %d блоков.
+for.multiblock.error.small.z=Мультиблок слишком мал: по оси Z требуется не менее %d блоков.
 
-for.multiblock.alveary.error.needSlabs=The Alveary must have wooden slabs on top.
-for.multiblock.alveary.error.needSpace=The alveary needs space around the top for the bees to enter and exit.
-for.multiblock.alveary.error.needPlainOnTop=The Alveary must have plain alveary blocks for the top level.
-for.multiblock.alveary.error.needPlainInterior=The Alveary must have plain alveary blocks for the interior.
+for.multiblock.alveary.error.needSlabs=Сверху альвеария должны быть деревянные плиты.
+for.multiblock.alveary.error.needSpace=Над альвеарием нужно свободное пространство, чтобы пчёлы могли влетать и вылетать.
+for.multiblock.alveary.error.needPlainOnTop=Для верхнего уровня альвеария нужны обычные блоки альвеария.
+for.multiblock.alveary.error.needPlainInterior=Для внутренней части альвеария нужны обычные блоки альвеария.
 
-for.multiblock.farm.error.needPlainBand=The Farm must have plain farm blocks for the third level.
-for.multiblock.farm.error.needPlainInterior=The Farm must have plain farm blocks for the interior.
-for.multiblock.farm.error.needGearbox=The farm must have a gearbox to accept power and do work.
+for.multiblock.farm.error.needPlainBand=Для третьего уровня фермы нужны обычные блоки фермы.
+for.multiblock.farm.error.needPlainInterior=Для внутренней части фермы нужны обычные блоки фермы.
+for.multiblock.farm.error.needGearbox=Ферме требуется коробка передач, чтобы принимать энергию и работать.
 
 ####################
 # ARBORICULTURE
@@ -1529,65 +1529,65 @@ for.plugin.erebus.description=Плагин совместимости для Ere
 # CONFIG FILES
 ####################
 
-for.config.performance=Performance
-for.config.performance.particleFX=Particle Effects
-for.config.performance.particleFX.comment=Enables particle effects. Note that Forestry respects Minecraft's reduced particle video settings.
-for.config.performance.backpacks.resupply=Backpack Resupply
-for.config.performance.backpacks.resupply.comment=Enable backpack resupply. You may want to set this to false on busy servers.
+for.config.performance=Производительность
+for.config.performance.particleFX=Эффекты частиц
+for.config.performance.particleFX.comment=Включает эффекты частиц. Forestry учитывает настройку уменьшенного количества частиц Minecraft.
+for.config.performance.backpacks.resupply=Пополнение рюкзаков
+for.config.performance.backpacks.resupply.comment=Включает пополнение рюкзаков. На загруженных серверах рекомендуется отключить эту настройку.
 
-for.config.world.generate=World Generation
+for.config.world.generate=Генерация мира
 
-for.config.world.generate.retrogen.normal=Retrogen
-for.config.world.generate.retrogen.normal.comment=Creates Forestry world generation in chunks that were created before the mod was added.
-for.config.world.generate.retrogen.forced=Forced Retrogen
-for.config.world.generate.retrogen.forced.comment=Creates Forestry world generation in all chunks, even if they were generated there before.
+for.config.world.generate.retrogen.normal=Догенерация
+for.config.world.generate.retrogen.normal.comment=Создаёт элементы генерации Forestry в чанках, созданных до установки мода.
+for.config.world.generate.retrogen.forced=Принудительная догенерация
+for.config.world.generate.retrogen.forced.comment=Создаёт элементы генерации Forestry во всех чанках, даже если они уже генерировались там ранее.
 
-for.config.world.generate.ore.apatite=Generate Apatite
-for.config.world.generate.ore.apatite.comment=Generates apatite ore blocks in the world.
-for.config.world.generate.ore.copper=Generate Copper
-for.config.world.generate.ore.copper.comment=Generates copper ore blocks in the world.
-for.config.world.generate.ore.tin=Generate Tin
-for.config.world.generate.ore.tin.comment=Generates tin ore blocks in the world.
+for.config.world.generate.ore.apatite=Генерировать апатит
+for.config.world.generate.ore.apatite.comment=Генерирует блоки апатитовой руды в мире.
+for.config.world.generate.ore.copper=Генерировать медь
+for.config.world.generate.ore.copper.comment=Генерирует блоки медной руды в мире.
+for.config.world.generate.ore.tin=Генерировать олово
+for.config.world.generate.ore.tin.comment=Генерирует блоки оловянной руды в мире.
 
-for.config.world.generate.beehives.amount=Beehives Generation Amount
-for.config.world.generate.beehives.amount.comment=Sets how many beehives spawn in the world.
-for.config.world.generate.beehives.debug=Debug Beehive Generation
-for.config.world.generate.beehives.debug.comment=Force Forestry to generate a beehive at every possible location. (This will break your world. Only useful to developers)
+for.config.world.generate.beehives.amount=Количество генерируемых ульев
+for.config.world.generate.beehives.amount.comment=Задаёт количество ульев, появляющихся в мире.
+for.config.world.generate.beehives.debug=Отладочная генерация ульев
+for.config.world.generate.beehives.debug.comment=Принуждает Forestry генерировать улей в каждом возможном месте. (Это сломает мир. Только для разработчиков.)
 
-for.config.world.generate.villagers=Generate Villagers
-for.config.world.generate.villagers.comment=Generates forestry villagers and their houses.
+for.config.world.generate.villagers=Генерировать жителей
+for.config.world.generate.villagers.comment=Генерирует жителей Forestry и их дома.
 
-for.config.crafting=Crafting
-for.config.crafting.bronze=Craft Bronze
-for.config.crafting.bronze.comment=Enables the crafting recipe for bronze.
-for.config.crafting.stamps.enabled=Craft Stamps
-for.config.crafting.stamps.enabled.comment=Enables the crafting recipe for stamps. Disable to use stamps as a currency.
-for.config.crafting.stamps.disabled=Disabled Stamps
-for.config.crafting.stamps.disabled.comment=Disables the crafting recipe for certain stamps.
+for.config.crafting=Создание
+for.config.crafting.bronze=Создание бронзы
+for.config.crafting.bronze.comment=Включает рецепт создания бронзы.
+for.config.crafting.stamps.enabled=Создание марок
+for.config.crafting.stamps.enabled.comment=Включает рецепт создания марок. Отключите, чтобы использовать марки как валюту.
+for.config.crafting.stamps.disabled=Отключённые марки
+for.config.crafting.stamps.disabled.comment=Отключает рецепт создания некоторых марок.
 
-for.config.tweaks=Tweaks
+for.config.tweaks=Настройки
 
-for.config.tweaks.gui.mail.alert.enabled=Mail Alert
-for.config.tweaks.gui.mail.alert.enabled.comment=Enables the new mail alert box.
-for.config.tweaks.gui.mail.alert.xPosition=Horizontal Position
-for.config.tweaks.gui.mail.alert.xPosition.comment=Horizontal Position of the mail alert box on the screen.
-for.config.tweaks.gui.mail.alert.yPosition=Vertical Position
-for.config.tweaks.gui.mail.alert.yPosition.comment=Vertical Position of the mail alert box on the screen.
+for.config.tweaks.gui.mail.alert.enabled=Уведомление о почте
+for.config.tweaks.gui.mail.alert.enabled.comment=Включает окно уведомления о новой почте.
+for.config.tweaks.gui.mail.alert.xPosition=Горизонтальная позиция
+for.config.tweaks.gui.mail.alert.xPosition.comment=Горизонтальное положение уведомления о почте на экране.
+for.config.tweaks.gui.mail.alert.yPosition=Вертикальная позиция
+for.config.tweaks.gui.mail.alert.yPosition.comment=Вертикальное положение уведомления о почте на экране.
 
-for.config.tweaks.gui.tabs.hints=Hints
-for.config.tweaks.gui.tabs.hints.comment=Enables the hints tab on machine and engine guis.
-for.config.tweaks.gui.tabs.speed=Tab Speed
-for.config.tweaks.gui.tabs.speed.comment=Set the speed at which the gui side tabs open and close.
-for.config.tweaks.gui.tabs.energy=Energy Tab
-for.config.tweaks.gui.tabs.energy.comment=Display the energy statistics tab on energy consumers.
+for.config.tweaks.gui.tabs.hints=Подсказки
+for.config.tweaks.gui.tabs.hints.comment=Включает вкладку подсказок в интерфейсах механизмов и двигателей.
+for.config.tweaks.gui.tabs.speed=Скорость вкладок
+for.config.tweaks.gui.tabs.speed.comment=Задаёт скорость открытия и закрытия боковых вкладок интерфейса.
+for.config.tweaks.gui.tabs.energy=Вкладка энергии
+for.config.tweaks.gui.tabs.energy.comment=Показывает вкладку статистики энергии у потребителей энергии.
 
-for.config.tweaks.gui.tooltip.liquidamount=Liquid Tooltip
-for.config.tweaks.gui.tooltip.liquidamount.comment=Display liquid amounts in tank tooltips.
+for.config.tweaks.gui.tooltip.liquidamount=Подсказка жидкости
+for.config.tweaks.gui.tooltip.liquidamount.comment=Показывает количество жидкости в подсказках резервуаров.
 
-for.config.tweaks.permissions=Permissions
-for.config.tweaks.permissions.comment=Enables access restrictions on forestry machines.
-for.config.tweaks.version.check=Version Check
-for.config.tweaks.version.check.comment=Enables update and version check notice.
+for.config.tweaks.permissions=Права доступа
+for.config.tweaks.permissions.comment=Включает ограничения доступа к механизмам Forestry.
+for.config.tweaks.version.check=Проверка версии
+for.config.tweaks.version.check.comment=Включает уведомления о проверке обновлений и версии.
 
 for.config.tweaks.farms.size=Farm Size
 for.config.tweaks.farms.size.comment=Sets the size multiplier of the farmland.
@@ -1598,7 +1598,7 @@ for.config.tweaks.farms.enderlily.comment=Enables farm support for ExtraUtilitie
 for.config.tweaks.farms.magicalcrops=Magical Crops Farm Support
 for.config.tweaks.farms.magicalcrops.comment=Enables farm support for Magical Crops.
 
-for.config.genetics=Genetics
+for.config.genetics=Генетика
 for.config.genetics.clear.invalid.chromosomes=Clear Invalid Chromosomes
 for.config.genetics.clear.invalid.chromosomes.comment=Clears chromosomes which contain invalid alleles. Might rescue your save if it is crashing after the removal of a bee addon.
 for.config.genetics.pollinate.vanilla.trees=Pollinate Vanilla Trees
@@ -1608,13 +1608,13 @@ for.config.genetics.research.boost.multiplier.comment=Multiplies the chance of a
 for.config.genetics.research.boost.max.percent=Research Mutation Max
 for.config.genetics.research.boost.max.percent.comment=The maximum percentage boost that can be applied by researching a mutation in the Escritoire.
 
-for.config.difficulty=Difficulty
-for.config.difficulty.game.mode=Game Mode
-for.config.difficulty.game.mode.comment=Set to your preferred game mode. Mismatch with the server may cause visual glitches with recipes.
-for.config.difficulty.recreate.definitions=Recreate Definitions
-for.config.difficulty.recreate.definitions.comment=Forces recreation of the game mode definitions in config/forestry/gamemodes.
-for.config.difficulty.loot.rare=Rare Loot
-for.config.difficulty.loot.rare.comment=Makes dungeon loot generated by forestry rarer.
+for.config.difficulty=Сложность
+for.config.difficulty.game.mode=Игровой режим
+for.config.difficulty.game.mode.comment=Задаёт предпочитаемый игровой режим. Несовпадение с сервером может вызвать визуальные ошибки рецептов.
+for.config.difficulty.recreate.definitions=Пересоздать определения
+for.config.difficulty.recreate.definitions.comment=Принудительно пересоздаёт определения игрового режима в config/forestry/gamemodes.
+for.config.difficulty.loot.rare=Редкая добыча
+for.config.difficulty.loot.rare.comment=Делает добычу из данжей, генерируемую Forestry, более редкой.
 
 for.config.structures=Structures
 for.config.structures.disabled=Disabled Structures

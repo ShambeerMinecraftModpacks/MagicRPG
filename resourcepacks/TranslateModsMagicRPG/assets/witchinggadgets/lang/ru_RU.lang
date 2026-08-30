@@ -242,9 +242,9 @@ witchinggadgets_research_name.AGEINGSTONE=Камень взросления
 witchinggadgets_research_text.AGEINGSTONE=А часики-то тикают!
 witchinggadgets_research_page.AGEINGSTONE.1=Каждый маленький тауматург мечтает вырасти! Но быстрое взросление лишит радостей детства. Так что вместо этого, один юный тауматург создал новую форму Магического камня, который имеет власть над временем.<BR>Камень взросления будет ускорять взросление всех обычных животных, позволяя телятам, поросятам и ягнятам стать большими в считанные минуты.<BR>Камень ускоряет рост в области 7x7x5 вокруг себя, больше блоков - сильнее эффект.
 #
-witchinggadgets_research_name.THAUMICAPPLICATOR=
+witchinggadgets_research_name.THAUMICAPPLICATOR=Тауматургический аппликатор
 witchinggadgets_research_text.THAUMICAPPLICATOR=[WG] 
-witchinggadgets_research_page.THAUMICAPPLICATOR.1=
+witchinggadgets_research_page.THAUMICAPPLICATOR.1=Этот инструмент наносит тауматургические эффекты на подходящие предметы.
 #
 witchinggadgets_research_name.SPINNINGWHEEL=Прядение
 witchinggadgets_research_text.SPINNINGWHEEL=Осторожно, не уколи пальчик
