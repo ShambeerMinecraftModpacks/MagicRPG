@@ -68,6 +68,7 @@ desktop.ini
 /launcher_accounts.json
 /natives/
 /downloads/
+/config/txloader/load/bugtorch/sounds/
 /memory_repo/
 /.mixin.out/
 hs_err_pid*
