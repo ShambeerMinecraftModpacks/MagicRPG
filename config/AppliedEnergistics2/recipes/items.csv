@@ -2140,17 +2140,22 @@ Automagy:blockPhenomenon, Феноменон
 Automagy:blockThaumostaticSpire, Таумостатический Шпиль
 Automagy:blockTallyLensWorld, Шкатулка (Линза: Свобода)
 Automagy:blockTallyLensDrops, Шкатулка (Линза: Ликвидность)
-aura:storageBookshelfCoordinator, Координатор книжных полок
-aura:magicRoad, Кирпичи путешественника
-aura:storageBookshelf, Книжная полка хранения
-aura:fortifiedDirt, Укрепленная земля
-aura:fortifiedWood, Укрепленные доски
-aura:fortifiedGlass, Укрепленное стекло
-aura:fortifiedCobblestone, Укрепленный булыжник
-aura:fortifiedStone, Укрепленный камень
-aura:fortifiedObsidian, Укрепленный обсидиан
-aura:fairyTorch, tile.fairyTorch.name
+aura:consumerBlockfurnace, Каскадная плавильня
+aura:consumerBlockplant, Каскадный садовод
+aura:consumerBlockore, Каскадный обработчик
+aura:consumerBlockloot, Каскадный мародер
+aura:consumerBlockmob, Каскадный спавнер
+aura:consumerBlockangel, Каскадный синтезатор
+aura:consumerBlocknether, Ритуал Незера
+aura:consumerBlockenchant, Калейдоскопический зачарователь
+aura:consumerBlockpotion, Каскадная зельеварка
+aura:consumerBlockdye, Каскадный красильщик
+aura:consumerBlockoreAdv, Призматический обработчик
+aura:consumerBlockminer, Каскадный шахтер
+aura:consumerBlockfish, Каскадный рыболов
+aura:consumerBlockend, Ритуал Энда
 aura:monitor, Монитор
+aura:trampoline, Отталкивающая загадка
 aura:auraNode, Узел ауры
 aura:auraNodepump, Огненная помпа ауры
 aura:auraNodeblack, Манипулятор ауры: Черный
@@ -2170,21 +2175,16 @@ aura:auraNodepumpCreative, Творческая помпа ауры (Тольк�
 aura:auraNodepumpLightAlt, Переменная помпа ауры освещения
 aura:auraNodepumpRedstoneAlt, Переменная редстоуновая помпа ауры
 aura:auraNodeflux, Потоковый узел
-aura:trampoline, Отталкивающая загадка
-aura:consumerBlockfurnace, Каскадная плавильня
-aura:consumerBlockplant, Каскадный садовод
-aura:consumerBlockore, Каскадный обработчик
-aura:consumerBlockloot, Каскадный мародер
-aura:consumerBlockmob, Каскадный спавнер
-aura:consumerBlockangel, Каскадный синтезатор
-aura:consumerBlocknether, Ритуал Незера
-aura:consumerBlockenchant, Калейдоскопический зачарователь
-aura:consumerBlockpotion, Каскадная зельеварка
-aura:consumerBlockdye, Каскадный красильщик
-aura:consumerBlockoreAdv, Призматический обработчик
-aura:consumerBlockminer, Каскадный шахтер
-aura:consumerBlockfish, Каскадный рыболов
-aura:consumerBlockend, Ритуал Энда
+aura:fairyTorch, tile.fairyTorch.name
+aura:fortifiedDirt, Укрепленная земля
+aura:fortifiedWood, Укрепленные доски
+aura:fortifiedGlass, Укрепленное стекло
+aura:fortifiedCobblestone, Укрепленный булыжник
+aura:fortifiedStone, Укрепленный камень
+aura:fortifiedObsidian, Укрепленный обсидиан
+aura:magicRoad, Кирпичи путешественника
+aura:storageBookshelfCoordinator, Координатор книжных полок
+aura:storageBookshelf, Книжная полка хранения
 AWWayofTime:Altar, Кровавый алтарь
 AWWayofTime:AlchemicalWizardrybloodRune:0, Кровавая руна
 AWWayofTime:AlchemicalWizardrybloodRune:1, Руна дополнительной ёмкости
@@ -2379,7 +2379,7 @@ ForbiddenMagic:TaintBlock:1, Заражённые каменные кирпич�
 ExtraUtilities:chestMini, Мини-сундук
 ExtraUtilities:chestFull, Немного длинный сундук
 ExtraUtilities:enderCollector, Коллектор Края
-ExtraUtilities:endConstructor:0, QED (Quantum Entanglement Device)
+ExtraUtilities:endConstructor:0, QED (Quite Expensive Decoration)
 ExtraUtilities:endConstructor:2, Флаксовый кристалл Края
 ExtraUtilities:endMarker, Маркер Края
 ExtraUtilities:curtains, Занавесы
@@ -8066,9 +8066,9 @@ Botania:manaResource:13, Ветвь мечтаний
 Botania:manaResource:14, Слиток духа Гайи
 Botania:manaResource:15, Бутылка с эндер воздухом
 Botania:manaResource:16, Мананитка
-Botania:manaResource:17, Манасталевый самородок
-Botania:manaResource:18, Террасталевый самородок
-Botania:manaResource:19, Элементиевый самородок
+Botania:manaResource:17, Самородок манастали
+Botania:manaResource:18, Самородок террастали
+Botania:manaResource:19, Самородок элементия
 Botania:manaResource:22, Манаткань
 Botania:manaResource:23, Мана порошок
 Botania:lens:0, Линза маны
@@ -14775,6 +14775,7 @@ evilcraft:biomeExtract:1, Экстракт биома
 evilcraft:biomeExtract:1, Экстракт биома
 evilcraft:biomeExtract:1, Экстракт биома
 evilcraft:biomeExtract:1, Экстракт биома
+evilcraft:biomeExtract:1, Экстракт биома
 evilcraft:environmentalAccumulationCore, Ядро погодного собирателя
 evilcraft:maceOfDestruction, Булава разрушения
 evilcraft:garmonbozia, Гармонбозия
@@ -17599,16 +17600,16 @@ ThermalDynamics:cover:0, Крышка (Рунный Обсидиан (Висп))
 ThermalDynamics:cover:0, Крышка (Молоко)
 ThermalDynamics:cover:0, Крышка (Грибной Суп)
 ThermalDynamics:cover:0, Крышка (Висоморный Суп)
-ThermalDynamics:cover:0, Крышка (Кирпичи путешественника)
+ThermalDynamics:cover:0, Крышка (Монитор)
+ThermalDynamics:cover:0, Крышка (Отталкивающая загадка)
+ThermalDynamics:cover:0, Крышка (tile.fairyTorch.name)
 ThermalDynamics:cover:0, Крышка (Укрепленная земля)
 ThermalDynamics:cover:0, Крышка (Укрепленные доски)
 ThermalDynamics:cover:0, Крышка (Укрепленное стекло)
 ThermalDynamics:cover:0, Крышка (Укрепленный булыжник)
 ThermalDynamics:cover:0, Крышка (Укрепленный камень)
 ThermalDynamics:cover:0, Крышка (Укрепленный обсидиан)
-ThermalDynamics:cover:0, Крышка (tile.fairyTorch.name)
-ThermalDynamics:cover:0, Крышка (Монитор)
-ThermalDynamics:cover:0, Крышка (Отталкивающая загадка)
+ThermalDynamics:cover:0, Крышка (Кирпичи путешественника)
 ThermalDynamics:cover:0, Крышка (Кровавая руна)
 ThermalDynamics:cover:0, Крышка (Руна дополнительной ёмкости)
 ThermalDynamics:cover:0, Крышка (Руна дислокации)
