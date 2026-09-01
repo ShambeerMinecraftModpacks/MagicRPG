@@ -1,19 +1,19 @@
 # Инвентаризация модов и лицензий
 
-Сформировано 30 августа 2026 года по фактическим JAR в `mods/`. Это инвентаризация, а не юридическое подтверждение права на распространение. Поле «файл в JAR» означает только наличие текста лицензии внутри архива; перед публичной публикацией каждый источник и условия нужно проверить вручную.
+Сформировано 1 сентября 2026 года по фактическим JAR в `mods/`. Это инвентаризация, а не юридическое подтверждение права на распространение. Поле «файл в JAR» означает только наличие текста лицензии внутри архива; перед публичной публикацией каждый источник и условия нужно проверить вручную.
 
-Фактическое число JAR: 104.
+Фактическое число JAR: 105.
 
 | Файл | Название из метаданных | Версия из метаданных | URL из метаданных | Лицензионное свидетельство |
 |---|---|---|---|---|
-| `+unimixins-all-1.7.10-0.3.0.jar` | UniMixins | 0.3.0 | https://github.com/LegacyModdingMC/UniMixins | файл в JAR: META-INF/licenses/module-common/LICENSE |
+| `+unimixins-all-1.7.10-0.3.1.jar` | UniMixins | 0.3.1 | https://github.com/LegacyModdingMC/UniMixins | файл в JAR: META-INF/licenses/module-common/LICENSE |
 | `1.7.10SMPDivineRPG_1.4.1.4.jar` | DivineRPG | 1.4.1.4 | http://wiki.divinerpg.net/wiki/DivineRPG_Wiki | не найден внутри JAR |
 | `Advanced Botany 1.3.1.7.jar` | Advanced Botany 1.3.1.7 | не указана | не указан | не найден внутри JAR |
-| `ae2fc-1.5.85-gtnh.jar` | AE2 Fluid Crafting | 1.5.85-gtnh | https://github.com/GlodBlock/AE2FluidCraft-Rework | не найден внутри JAR |
-| `ae2stuff-0.10.19-GTNH.jar` | AE2 Stuff | 0.10.19-GTNH | bdew.net | не найден внутри JAR |
-| `angelica-2.1.28.jar` | Angelica | 2.1.28 | https://github.com/GTNewHorizons/angelica | файл в JAR: COPYING |
+| `ae2fc-1.5.95-gtnh.jar` | AE2 Fluid Crafting | 1.5.95-gtnh | https://github.com/GlodBlock/AE2FluidCraft-Rework | не найден внутри JAR |
+| `ae2stuff-0.10.20-GTNH.jar` | AE2 Stuff | 0.10.20-GTNH | bdew.net | не найден внутри JAR |
+| `angelica-2.1.50.jar` | Angelica | 2.1.50 | https://github.com/GTNewHorizons/angelica | файл в JAR: COPYING |
 | `AOBD-2.9.2.jar` | Another One Bites The Dust | 2.9.2 | не указан | не найден внутри JAR |
-| `appliedenergistics2-rv3-beta-959-GTNH.jar` | Applied Energistics 2 | rv3-beta-959-GTNH | https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial | не найден внутри JAR |
+| `appliedenergistics2-rv3-beta-1000-GTNH.jar` | Applied Energistics 2 | rv3-beta-1000-GTNH | https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial | не найден внутри JAR |
 | `archaicfix-0.8.0.jar` | ArchaicFix | 0.8.0 | не указан | не найден внутри JAR |
 | `aspectrecipeindex-1.1.1.jar` | Aspect Recipe Index | 1.1.1 | https://github.com/GTNewHorizons/AspectRecipeIndex | не найден внутри JAR |
 | `AuraCascade-557.jar` | AuraCascade | @version@ | не указан | не найден внутри JAR |
@@ -31,7 +31,7 @@
 | `Botania-1.13.21-GTNH.jar` | Botania | 1.13.21-GTNH | http://www.botaniamod.net | не найден внутри JAR |
 | `bugtorch-1.2.14-GTNH.jar` | BugTorch | 1.2.14-GTNH | https://github.com/GTNewHorizons/BugTorch | не найден внутри JAR |
 | `chisel-2.17.26-GTNH.jar` | Chisel | 2.17.26-GTNH | http://www.minecraftforum.net/forums/thread/1294901 | файл в JAR: LICENSE |
-| `CodeChickenCore-1.4.13.jar` | CodeChicken Core | 1.4.13 | http://www.minecraftforum.net/topic/909223 | не найден внутри JAR |
+| `CodeChickenCore-1.4.16.jar` | CodeChicken Core | 1.4.16 | http://www.minecraftforum.net/topic/909223 | не найден внутри JAR |
 | `CoFHCore-[1.7.10]3.1.4-329.jar` | CoFH Core | 3.1.4 | http://www.teamcofh.com | не найден внутри JAR |
 | `controlling-2.1.7.jar` | Controlling | 2.1.7 | https://minecraft.curseforge.com/projects/controlling | не найден внутри JAR |
 | `coretweaks-0.3.4.6-GTNH.jar` | CoreTweaks | 0.3.4.6-GTNH | не указан | файл в JAR: META-INF/LICENSE |
@@ -43,7 +43,7 @@
 | `Electroblob's Wizardry - 1.1.5 - MC 1.7.10.jar` | Electroblob's Wizardry | 1.1.5 | https://minecraft.curseforge.com/projects/electroblobs-wizardry | не найден внутри JAR |
 | `EnchantingPlus-1.7.10-3.0.2-d.jar` | Enchanting Plus | 1.7.10-3.0.1 | http://goo.gl/tW92J | не найден внутри JAR |
 | `endercore-0.5.14.jar` | EnderCore | 0.5.14 | http://enderio.com | не найден внутри JAR |
-| `EnderIO-2.10.27.jar` | Ender IO | 2.10.27 | http://enderio.com | файл в JAR: META-INF/LICENSE |
+| `EnderIO-2.10.32.jar` | Ender IO | 2.10.32 | http://enderio.com | файл в JAR: META-INF/LICENSE |
 | `EvilCraft-1.7.10-0.9.13.jar` | EvilCraft | 1.7.10-0.9.13 | https://github.com/rubensworks/EvilCraft | не найден внутри JAR |
 | `ExtendedPotions-MC1.7.10-1.2.jar` | Extended Potions | 1.2 | не указан | не найден внутри JAR |
 | `ExtraTiC-1.7.10-1.4.6.jar` | ExtraTiC | 1.4.6 | не указан | не найден внутри JAR |
@@ -53,9 +53,10 @@
 | `ForgottenRelics-1.7.3-[Final].jar` | Forgotten Relics | 1.7.3 | не указан | не найден внутри JAR |
 | `FpsReducer-mc1.7.10-1.10.3.jar` | FPS Reducer | mc1.7.10-1.10.3 | https://minecraft.curseforge.com/projects/fps-reducer | не найден внутри JAR |
 | `gadomancy-1.5.11.jar` | Gadomancy | 1.5.11 | не указан | не найден внутри JAR |
-| `gtnhlib-0.10.8.jar` | GTNH Lib | 0.10.8 | https://github.com/GTNewHorizons/GTNHLib | файл в JAR: LICENSE.md |
+| `gtnhextlib-1.0.3.jar` | GTNHExtLib | 1.0.3 | https://github.com/GTNewHorizons/GTNHExtLib | не найден внутри JAR |
+| `gtnhlib-0.11.24.jar` | GTNH Lib | 0.11.24 | https://github.com/GTNewHorizons/GTNHLib | не найден внутри JAR |
 | `Guide-API-1.7.10-1.0.1-20.jar` | Guide-API | 1.7.10-1.0.1-20 | не указан | не найден внутри JAR |
-| `hodgepodge-2.7.157.jar` | Hodgepodge | 2.7.157 | не указан | не найден внутри JAR |
+| `hodgepodge-2.7.170.jar` | Hodgepodge | 2.7.170 | не указан | не найден внутри JAR |
 | `IguanaTweaksTConstruct-2.7.6.jar` | Iguana Tinker Tweaks | 2.7.6 | http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2176855 | не найден внутри JAR |
 | `ImLookingAtBlood-1.7.2-1.1a.jar` | I'm Looking At Blood | 1.1 | не указан | файл в JAR: LICENSE |
 | `InfernalMobs-1.10.5-GTNH.jar` | Infernal Mobs | 1.10.5-GTNH | http://www.minecraftforum.net/topic/991952- | не найден внутри JAR |
@@ -71,10 +72,10 @@
 | `Morpheus-1.7.10-1.6.21.jar` | Morpheus | 1.7.10-1.6.21 | http://www.curse.com/mc-mods/Minecraft/morpheus | не найден внутри JAR |
 | `MouseTweaks-2.5.2-GTNH.jar` | Mouse Tweaks | 2.5.2-GTNH | https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks | не найден внутри JAR |
 | `naturescompass-1.5.2-GTNH.jar` | Nature's Compass | 1.5.2-GTNH | https://www.curseforge.com/minecraft/mc-mods/natures-compass | не найден внутри JAR |
-| `NotEnoughEnergistics-1.7.29.jar` | NotEnoughEnergistics | 1.7.29 | не указан | не найден внутри JAR |
+| `NotEnoughEnergistics-1.7.34.jar` | NotEnoughEnergistics | 1.7.34 | не указан | не найден внутри JAR |
 | `notenoughIDs-2.1.11.jar` | NotEnoughIDs | 2.1.11 | не указан | не найден внутри JAR |
-| `NotEnoughItems-2.8.99-GTNH.jar` | NotEnoughItems | 2.8.99-GTNH | https://github.com/GTNewHorizons/NotEnoughItems | файл в JAR: META-INF/LICENSE.txt |
-| `OpenBlocks-1.12.14-GTNH.jar` | OpenBlocks | 1.12.14-GTNH | http://openmods.info/ | не найден внутри JAR |
+| `NotEnoughItems-2.8.111-GTNH.jar` | NotEnoughItems | 2.8.111-GTNH | https://github.com/GTNewHorizons/NotEnoughItems | файл в JAR: META-INF/LICENSE.txt |
+| `OpenBlocks-1.12.18-GTNH.jar` | OpenBlocks | 1.12.18-GTNH | http://openmods.info/ | не найден внутри JAR |
 | `OpenModsLibs-0.10.14.jar` | OpenMods | 0.10.14 | https://openmods.info/ | не найден внутри JAR |
 | `ProjectE-1.7.10-PE1.10.1.jar` | ProjectE | 1.7.10-PE1.10.1 | http://minecraft.curseforge.com/mc-mods/226410-projecte | не найден внутри JAR |
 | `RFDrills-1.7.10-1.7.3.jar` | RFDrills | 1.7.3 | не указан | не найден внутри JAR |
@@ -86,11 +87,11 @@
 | `Tainted-Magic-7.7.7-GTNH.jar` | Tainted Magic | 7.7.7-GTNH | https://www.curseforge.com/minecraft/mc-mods/tainted-magic | не найден внутри JAR |
 | `TCBotaniaExoflame-1.7.10-1.4.jar` | TCBotaniaExoflame | 1.4 | не указан | не найден внутри JAR |
 | `tcnodetracker-1.4.5.jar` | TC Node Tracker | 1.4.5 | https://github.com/Dyonovan/TCNodeTracker | не найден внутри JAR |
-| `TConstruct-1.14.76-GTNH-pre.jar` | Tinkers' Construct | 1.14.76-GTNH-pre | http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct | не найден внутри JAR |
+| `TConstruct-1.14.93-GTNH.jar` | Tinkers' Construct | 1.14.93-GTNH | http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2218638-tinkers-construct | не найден внутри JAR |
 | `Thaumcraft-1.7.10-4.2.3.5.jar` | Thaumcraft | 1.7.10-4.2.3.5 | http://www.minecraftforum.net/topic/2011841-thaumcraft | не найден внутри JAR |
 | `Thaumcraft4Tweaks-1.5.44.jar` | TC4 Tweak | 1.5.44 | не указан | файл в JAR: COPYING |
 | `Thaumic-Based-1.9.18.jar` | Thaumic Bases | 1.9.18 | не указан | не найден внутри JAR |
-| `thaumicenergistics-1.7.51-GTNH.jar` | Thaumic Energistics | 1.7.51-GTNH | http://minecraft.curseforge.com/projects/thaumic-energistics | не найден внутри JAR |
+| `thaumicenergistics-1.7.56-GTNH.jar` | Thaumic Energistics | 1.7.56-GTNH | http://minecraft.curseforge.com/projects/thaumic-energistics | не найден внутри JAR |
 | `Thaumic-Exploration-1.5.24-GTNH.jar` | Thaumic Exploration | 1.5.24-GTNH | https://github.com/KryptonCaptain/Thaumic_Exploration | не найден внутри JAR |
 | `ThaumicHorizons-1.8.20.jar` | ThaumicHorizons | 1.8.20 | не указан | не найден внутри JAR |
 | `thaumicinsurgence-0.4.1.jar` | Thaumic Insurgence | 0.4.1 | https://github.com/GTNewHorizons/thaumicinsurgence | не найден внутри JAR |
